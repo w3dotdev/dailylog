@@ -22,3 +22,7 @@
 ## References
 
   - [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog)
+
+## License
+
+[MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna
