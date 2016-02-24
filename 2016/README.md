@@ -1,3 +1,3 @@
 # 2016
 
- - [Month February](feb/README.md)
+ - [February](feb/README.md)
