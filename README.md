@@ -20,3 +20,4 @@ Categories:
   - Calisthenics
   - Project
   - Favorite
+  - Install
