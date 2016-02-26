@@ -7,8 +7,8 @@
   - [2016](2016/)
   
 ## Categories:
-  - Work
-  - Learn
+  - Freelance
+  - Study
   - Article
   - Watch
   - Film
