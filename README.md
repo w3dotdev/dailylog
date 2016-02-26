@@ -7,17 +7,18 @@
   - [2016](2016/)
   
 ## Categories:
-  - Freelance
-  - Study
   - Article
-  - Watch
-  - Film
   - Book
-  - Game
   - Calisthenics
-  - Project
   - Favorite
+  - Film
+  - Freelance
+  - Game
   - Install
+  - Language
+  - Project
+  - Study
+  - Watch
 
 ## References
 
