@@ -7,7 +7,7 @@
   - [Day 25](feb/02-25-2016.md) `(front-end) favela games` `films` `includePaths`
   - [Day 26](feb/02-26-2016.md) `(front-end) favela games` `fuller house`  `docker` 
   - [Day 27](feb/02-27-2016.md) `(front-end) favela games` `pickadate` `mask of 8 and 9 digits`
-  - Day 28
+  - [Day 28](feb/02-28-2016.md) `(front-end) favela games` `oscar 2016`
   - Day 29
  - March
  - April
