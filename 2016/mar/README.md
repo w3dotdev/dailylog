@@ -1,6 +1,6 @@
 # March
 
- - Day 1
+ - [Day 1](03-01-2016.md) `(front-end) favela games` `no electricity`
  - Day 2
  - Day 3
  - Day 4
