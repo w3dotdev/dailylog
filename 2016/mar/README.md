@@ -1,7 +1,7 @@
 # March
 
  - [Day 1](03-01-2016.md) `(front-end) favela games` `no electricity`
- - Day 2
+ - [Day 2](03-02-2016.md) `(front-end) favela games` `(front-end) effectiveit` `julia language`
  - Day 3
  - Day 4
  - Day 5
