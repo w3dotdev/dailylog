@@ -2,7 +2,7 @@
 
  - [Day 1](03-01-2016.md) `(front-end) favela games` `no electricity`
  - [Day 2](03-02-2016.md) `(front-end) favela games` `(front-end) effectiveit` `julia language`
- - Day 3
+ - [Day 3](03-03-2016.md) `(front-end) favela games` `films` `heapsort`
  - Day 4
  - Day 5
  - Day 6
