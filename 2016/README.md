@@ -12,7 +12,7 @@
  - [March](mar/README.md)
   - [Day 01](mar/03-01-2016.md) `(front-end) favela games` `no electricity`
   - [Day 02](mar/03-02-2016.md) `(front-end) favela games` `(front-end) effectiveit` `julia language`
-  - Day 03
+  - [Day 3](mar/03-03-2016.md) `(front-end) favela games` `films` `heapsort`
   - Day 04
   - Day 05
   - Day 06
