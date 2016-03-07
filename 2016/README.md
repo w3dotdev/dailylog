@@ -14,8 +14,8 @@
   - [Day 02](mar/03-02-2016.md) `(front-end) favela games` `(front-end) effectiveit` `julia language`
   - [Day 03](mar/03-03-2016.md) `(front-end) favela games` `films` `heapsort`
   - [Day 04](mar/03-04-2016.md) `(front-end) favela games` `variables css` `architecture Alura` `movies and series to learn English`
-  - [Day 05](mar/03-05-2016.md) 
-  - Day 06
+  - [Day 05](mar/03-05-2016.md) `functional programming in javascript` `nosql` `haskell` `erlang` `elixir`
+  - [Day 06](mar/03-06-2016.md) `typescript` `lodash` `solid` `calisthenics`
   - Day 07
   - Day 08
   - Day 09
