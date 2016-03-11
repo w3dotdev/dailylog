@@ -19,7 +19,7 @@
   - [Day 07](mar/03-07-2016.md) `primefaces` `ruby`
   - [Day 08](mar/03-08-2016.md) `irpf 2016` `ionic` `google play` `privacy policy`
   - [Day 09](mar/03-09-2016.md) `projects` `uml`
-  - Day 10
+  - [Day 10](mar/03-10-2016.md) `afte effects` `films` `quarks`
   - Day 11
   - Day 12
   - Day 13
