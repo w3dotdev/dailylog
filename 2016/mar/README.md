@@ -10,7 +10,7 @@
  - [Day 08](03-08-2016.md) `irpf 2016` `ionic` `google play` `privacy policy`
  - [Day 09](03-09-2016.md) `projects` `uml`
  - [Day 10](03-10-2016.md) `afte effects` `films` `quarks`
- - Day 11
+ - [Day 11](03-11-2016.md) `english` `fire in the sky` `lunch - colleagues Mongeral`
  - Day 12
  - Day 13
  - Day 14
