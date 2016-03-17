@@ -26,21 +26,21 @@
   - [Day 14](mar/03-14-2016.md) `ajax` `ux` `responsive emails`
   - [Day 15](mar/03-15-2016.md) `ux` `github templates`
   - [Day 16](mar/03-16-2016.md) `update repositories`
-  - Day 17
-  - Day 18
-  - Day 19
-  - Day 20
-  - Day 21
-  - Day 22
-  - Day 23
-  - Day 24
-  - Day 25
-  - Day 26
-  - Day 27
-  - Day 28
-  - Day 29
-  - Day 30
-  - Day 31
+  - [Day 17](mar/03-17-2016.md) ``
+  - [!Day 18](mar/03-18-2016.md) ``
+  - [!Day 19](mar/03-19-2016.md) ``
+  - [!Day 20](mar/03-20-2016.md) ``
+  - [!Day 21](mar/03-21-2016.md) ``
+  - [!Day 22](mar/03-22-2016.md) ``
+  - [!Day 23](mar/03-23-2016.md) ``
+  - [!Day 24](mar/03-24-2016.md) ``
+  - [!Day 25](mar/03-25-2016.md) ``
+  - [!Day 26](mar/03-26-2016.md) ``
+  - [!Day 27](mar/03-27-2016.md) ``
+  - [!Day 28](mar/03-28-2016.md) ``
+  - [!Day 29](mar/03-29-2016.md) ``
+  - [!Day 30](mar/03-30-2016.md) ``
+  - [!Day 31](mar/03-31-2016.md) ``
  - April
  - May
  - June
