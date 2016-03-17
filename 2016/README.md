@@ -25,7 +25,7 @@
   - [Day 13](mar/03-13-2016.md) `photoshop` `crud-mean` `pmbok`
   - [Day 14](mar/03-14-2016.md) `ajax` `ux` `responsive emails`
   - [Day 15](mar/03-15-2016.md) `ux` `github templates`
-  - Day 16
+  - [Day 16](mar/03-16-2016.md) `update repositories`
   - Day 17
   - Day 18
   - Day 19
