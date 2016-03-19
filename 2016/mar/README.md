@@ -17,7 +17,7 @@
  - [Day 15](03-15-2016.md) `ux` `github templates`
  - [Day 16](03-16-2016.md) `update repositories`
  - [Day 17](03-17-2016.md) `service workers`
- - [Day 18](03-18-2016.md) ``
+ - [Day 18](03-18-2016.md) `(front-end) favela games` `daredevil` `vim` `ihmofilmes`
  - [Day 19](03-19-2016.md) ``
  - [Day 20](03-20-2016.md) ``
  - [Day 21](03-21-2016.md) ``
