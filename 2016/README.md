@@ -28,7 +28,7 @@
   - [Day 16](mar/03-16-2016.md) `update repositories`
   - [Day 17](mar/03-17-2016.md) `service workers`
   - [Day 18](mar/03-18-2016.md) `(front-end) favela games` `daredevil` `vim` `ihmofilmes`
-  - [Day 19](mar/03-19-2016.md) ``
+  - [Day 19](mar/03-19-2016.md) `painting rooms` `ihmofilmes` `js modules`
   - [Day 20](mar/03-20-2016.md) ``
   - [Day 21](mar/03-21-2016.md) ``
   - [Day 22](mar/03-22-2016.md) ``
