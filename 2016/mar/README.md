@@ -25,7 +25,7 @@
  - [Day 23](03-23-2016.md) `furniture mounting` `nihongobenkyou` `donotgiveup`
  - [Day 24](03-24-2016.md) `furniture mounting` `film`
  - [Day 25](03-25-2016.md) `furniture mounting`
- - [Day 26](03-26-2016.md) ``
+ - [Day 26](03-26-2016.md) `furniture mounting` `html builder` `trump donald` `node.js performance`
  - [Day 27](03-27-2016.md) ``
  - [Day 28](03-28-2016.md) ``
  - [Day 29](03-29-2016.md) ``
