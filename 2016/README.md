@@ -39,9 +39,39 @@
   - [Day 27](mar/03-27-2016.md) `after effects` `chroma key`
   - [Day 28](mar/03-28-2016.md) `furniture mounting` `english` `chesperito`
   - [Day 29](mar/03-29-2016.md) `furniture mounting` `wamp` `ruby`
-  - [Day 30](mar/03-30-2016.md) ``
+  - [Day 30](mar/03-30-2016.md) `ruby` `after effects`
   - [Day 31](mar/03-31-2016.md) ``
  - April
+  - [Day 01](apr/04-01-2016.md) ``
+  - [Day 02](apr/04-02-2016.md) ``
+  - [Day 03](apr/04-03-2016.md) ``
+  - [Day 04](apr/04-04-2016.md) ``
+  - [Day 05](apr/04-05-2016.md) ``
+  - [Day 06](apr/04-06-2016.md) ``
+  - [Day 07](apr/04-07-2016.md) ``
+  - [Day 08](apr/04-08-2016.md) ``
+  - [Day 09](apr/04-09-2016.md) ``
+  - [Day 10](apr/04-10-2016.md) ``
+  - [Day 11](apr/04-11-2016.md) ``
+  - [Day 12](apr/04-12-2016.md) ``
+  - [Day 13](apr/04-13-2016.md) ``
+  - [Day 14](apr/04-14-2016.md) ``
+  - [Day 15](apr/04-15-2016.md) ``
+  - [Day 16](apr/04-16-2016.md) ``
+  - [Day 17](apr/04-17-2016.md) ``
+  - [Day 18](apr/04-18-2016.md) ``
+  - [Day 19](apr/04-19-2016.md) ``
+  - [Day 20](apr/04-20-2016.md) ``
+  - [Day 21](apr/04-21-2016.md) ``
+  - [Day 22](apr/04-22-2016.md) ``
+  - [Day 23](apr/04-23-2016.md) ``
+  - [Day 24](apr/04-24-2016.md) ``
+  - [Day 25](apr/04-25-2016.md) ``
+  - [Day 26](apr/04-26-2016.md) ``
+  - [Day 27](apr/04-27-2016.md) ``
+  - [Day 28](apr/04-28-2016.md) ``
+  - [Day 29](apr/04-29-2016.md) ``
+  - [Day 30](apr/04-30-2016.md) ``
  - May
  - June
  - July

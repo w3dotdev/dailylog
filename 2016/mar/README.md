@@ -1,33 +1,33 @@
 # March
 
- - [Day 01](03-01-2016.md) `(front-end) favela games` `no electricity`
- - [Day 02](03-02-2016.md) `(front-end) favela games` `(front-end) effectiveit` `julia language`
- - [Day 03](03-03-2016.md) `(front-end) favela games` `films` `heapsort`
- - [Day 04](03-04-2016.md) `(front-end) favela games` `variables css` `architecture Alura` `movies and series to learn English`
- - [Day 05](03-05-2016.md) `functional programming in javascript` `nosql` `haskell` `erlang` `elixir`
- - [Day 06](03-06-2016.md) `typescript` `lodash` `solid` `calisthenics`
- - [Day 07](03-07-2016.md) `primefaces` `ruby`
- - [Day 08](03-08-2016.md) `irpf 2016` `ionic` `google play` `privacy policy`
- - [Day 09](03-09-2016.md) `projects` `uml`
- - [Day 10](03-10-2016.md) `after effects` `films` `quarks`
- - [Day 11](03-11-2016.md) `english` `fire in the sky` `lunch - colleagues Mongeral`
- - [Day 12](03-12-2016.md) `dubstep` `niece's birthday party (Bebel)` `ajax`
- - [Day 13](03-13-2016.md) `photoshop` `crud-mean` `pmbok`
- - [Day 14](03-14-2016.md) `ajax` `ux` `responsive emails`
- - [Day 15](03-15-2016.md) `ux` `github templates`
- - [Day 16](03-16-2016.md) `update repositories`
- - [Day 17](03-17-2016.md) `service workers`
- - [Day 18](03-18-2016.md) `(front-end) favela games` `daredevil` `vim` `ihmofilmes`
- - [Day 19](03-19-2016.md) `painting rooms` `imhomovies` `js modules`
- - [Day 20](03-20-2016.md) `painting rooms` `jekyll com wj` `articles`
- - [Day 21](03-21-2016.md) `painting rooms` `sitepoint articles`
- - [Day 22](03-22-2016.md) `painting rooms` `film`
- - [Day 23](03-23-2016.md) `furniture mounting` `nihongobenkyou` `donotgiveup`
- - [Day 24](03-24-2016.md) `furniture mounting` `film`
- - [Day 25](03-25-2016.md) `furniture mounting`
- - [Day 26](03-26-2016.md) `furniture mounting` `html builder` `trump donald` `node.js performance`
- - [Day 27](03-27-2016.md) `after effects` `chroma key`
- - [Day 28](03-28-2016.md) `furniture mounting` `english` `chesperito`
- - [Day 29](03-29-2016.md) `furniture mounting` `wamp` `ruby`
- - [Day 30](03-30-2016.md) ``
- - [Day 31](03-31-2016.md) ``
+- [Day 01](03-01-2016.md) `(front-end) favela games` `no electricity`
+- [Day 02](03-02-2016.md) `(front-end) favela games` `(front-end) effectiveit` `julia language`
+- [Day 03](03-03-2016.md) `(front-end) favela games` `films` `heapsort`
+- [Day 04](03-04-2016.md) `(front-end) favela games` `variables css` `architecture Alura` `movies and series to learn English`
+- [Day 05](03-05-2016.md) `functional programming in javascript` `nosql` `haskell` `erlang` `elixir`
+- [Day 06](03-06-2016.md) `typescript` `lodash` `solid` `calisthenics`
+- [Day 07](03-07-2016.md) `primefaces` `ruby`
+- [Day 08](03-08-2016.md) `irpf 2016` `ionic` `google play` `privacy policy`
+- [Day 09](03-09-2016.md) `projects` `uml`
+- [Day 10](03-10-2016.md) `after effects` `films` `quarks`
+- [Day 11](03-11-2016.md) `english` `fire in the sky` `lunch - colleagues Mongeral`
+- [Day 12](03-12-2016.md) `dubstep` `niece's birthday party (Bebel)` `ajax`
+- [Day 13](03-13-2016.md) `photoshop` `crud-mean` `pmbok`
+- [Day 14](03-14-2016.md) `ajax` `ux` `responsive emails`
+- [Day 15](03-15-2016.md) `ux` `github templates`
+- [Day 16](03-16-2016.md) `update repositories`
+- [Day 17](03-17-2016.md) `service workers`
+- [Day 18](03-18-2016.md) `(front-end) favela games` `daredevil` `vim` `ihmofilmes`
+- [Day 19](03-19-2016.md) `painting rooms` `imhomovies` `js modules`
+- [Day 20](03-20-2016.md) `painting rooms` `jekyll com wj` `articles`
+- [Day 21](03-21-2016.md) `painting rooms` `sitepoint articles`
+- [Day 22](03-22-2016.md) `painting rooms` `film`
+- [Day 23](03-23-2016.md) `furniture mounting` `nihongobenkyou` `donotgiveup`
+- [Day 24](03-24-2016.md) `furniture mounting` `film`
+- [Day 25](03-25-2016.md) `furniture mounting`
+- [Day 26](03-26-2016.md) `furniture mounting` `html builder` `trump donald` `node.js performance`
+- [Day 27](03-27-2016.md) `after effects` `chroma key`
+- [Day 28](03-28-2016.md) `furniture mounting` `english` `chesperito`
+- [Day 29](03-29-2016.md) `furniture mounting` `wamp` `ruby`
+- [Day 30](03-30-2016.md) `ruby` `after effects`
+- [Day 31](03-31-2016.md) ``
