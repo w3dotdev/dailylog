@@ -38,7 +38,7 @@
   - [Day 26](mar/03-26-2016.md) `furniture mounting` `html builder` `trump donald` `node.js performance`
   - [Day 27](mar/03-27-2016.md) `after effects` `chroma key`
   - [Day 28](mar/03-28-2016.md) `furniture mounting` `english` `chesperito`
-  - [Day 29](mar/03-29-2016.md) ``
+  - [Day 29](mar/03-29-2016.md) `furniture mounting` `wamp` `ruby`
   - [Day 30](mar/03-30-2016.md) ``
   - [Day 31](mar/03-31-2016.md) ``
  - April
