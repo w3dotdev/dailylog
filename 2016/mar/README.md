@@ -30,4 +30,4 @@
 - [Day 28](03-28-2016.md) `furniture mounting` `english` `chesperito`
 - [Day 29](03-29-2016.md) `furniture mounting` `wamp` `ruby`
 - [Day 30](03-30-2016.md) `ruby` `after effects`
-- [Day 31](03-31-2016.md) ``
+- [Day 31](03-31-2016.md) `angular 2` `passport` `articles`

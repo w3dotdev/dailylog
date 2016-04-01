@@ -40,7 +40,7 @@
   - [Day 28](mar/03-28-2016.md) `furniture mounting` `english` `chesperito`
   - [Day 29](mar/03-29-2016.md) `furniture mounting` `wamp` `ruby`
   - [Day 30](mar/03-30-2016.md) `ruby` `after effects`
-  - [Day 31](mar/03-31-2016.md) ``
+  - [Day 31](mar/03-31-2016.md) `angular 2` `passport` `articles`
  - April
   - [Day 01](apr/04-01-2016.md) ``
   - [Day 02](apr/04-02-2016.md) ``
