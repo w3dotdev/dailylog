@@ -42,8 +42,8 @@
   - [Day 30](mar/03-30-2016.md) `ruby` `after effects`
   - [Day 31](mar/03-31-2016.md) `angular 2` `passport` `articles`
  - April
-  - [Day 01](apr/04-01-2016.md) ``
-  - [Day 02](apr/04-02-2016.md) ``
+  - [Day 01](apr/04-01-2016.md) `film` `article published`
+  - [Day 02](apr/04-02-2016.md) `film` `article published`
   - [Day 03](apr/04-03-2016.md) ``
   - [Day 04](apr/04-04-2016.md) ``
   - [Day 05](apr/04-05-2016.md) ``

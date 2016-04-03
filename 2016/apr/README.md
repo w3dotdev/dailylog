@@ -1,7 +1,7 @@
 # April
 
-- [Day 01](04-01-2016.md) ``
-- [Day 02](04-02-2016.md) ``
+- [Day 01](04-01-2016.md) `film` `article published`
+- [Day 02](04-02-2016.md) `film` `article published`
 - [Day 03](04-03-2016.md) ``
 - [Day 04](04-04-2016.md) ``
 - [Day 05](04-05-2016.md) ``

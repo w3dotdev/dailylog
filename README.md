@@ -18,6 +18,7 @@
   - Install
   - Language
   - Project
+  - Published
   - Study
   - Watch
 
