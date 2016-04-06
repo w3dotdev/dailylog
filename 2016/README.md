@@ -44,8 +44,8 @@
  - April
   - [Day 01](apr/04-01-2016.md) `film` `article published`
   - [Day 02](apr/04-02-2016.md) `film` `article published`
-  - [Day 03](apr/04-03-2016.md) ``
-  - [Day 04](apr/04-04-2016.md) ``
+  - [Day 03](apr/04-03-2016.md) `ionic` `google play`
+  - [Day 04](apr/04-04-2016.md) `ionic` `articles sitepoint`
   - [Day 05](apr/04-05-2016.md) ``
   - [Day 06](apr/04-06-2016.md) ``
   - [Day 07](apr/04-07-2016.md) ``
