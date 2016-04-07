@@ -46,8 +46,8 @@
   - [Day 02](apr/04-02-2016.md) `film` `article published`
   - [Day 03](apr/04-03-2016.md) `ionic` `google play`
   - [Day 04](apr/04-04-2016.md) `ionic` `articles sitepoint`
-  - [Day 05](apr/04-05-2016.md) ``
-  - [Day 06](apr/04-06-2016.md) ``
+  - [Day 05](apr/04-05-2016.md) `the ranch` `ionic 2` `angular 2`
+  - [Day 06](apr/04-06-2016.md) `the ranch` `descco app` `hexo json`
   - [Day 07](apr/04-07-2016.md) ``
   - [Day 08](apr/04-08-2016.md) ``
   - [Day 09](apr/04-09-2016.md) ``
