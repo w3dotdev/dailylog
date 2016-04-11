@@ -48,10 +48,10 @@
   - [Day 04](apr/04-04-2016.md) `ionic` `articles sitepoint`
   - [Day 05](apr/04-05-2016.md) `the ranch` `ionic 2` `angular 2`
   - [Day 06](apr/04-06-2016.md) `the ranch` `descco app` `hexo json`
-  - [Day 07](apr/04-07-2016.md) ``
-  - [Day 08](apr/04-08-2016.md) ``
-  - [Day 09](apr/04-09-2016.md) ``
-  - [Day 10](apr/04-10-2016.md) ``
+  - [Day 07](apr/04-07-2016.md) `furniture mounting` `films`
+  - [Day 08](apr/04-08-2016.md) `furniture mounting` `purchase of equipment` `articles`
+  - [Day 09](apr/04-09-2016.md) `furniture mounting` `purchase of equipment` `sabor instintivo`
+  - [Day 10](apr/04-10-2016.md) `projects` `articles`
   - [Day 11](apr/04-11-2016.md) ``
   - [Day 12](apr/04-12-2016.md) ``
   - [Day 13](apr/04-13-2016.md) ``
