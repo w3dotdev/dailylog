@@ -12,34 +12,20 @@ The idea is to just record the things I guess relevant. So, I will not put you c
   
 ## Categories:
 
-- Article
- - Articles read
-- Book
- - Books read
-- Calisthenics
- - Conducted training
-- Favorite
- - Projects or ideas that I liked
-- Film
- - Watched Movies
-- Freelance
- - Work carried out as a freelancer
-- Game
- - Games played
-- General
- - Things in general
-- Install
- - Installed programs
-- Language
- - Languages studied
-- Project
- - Projects that I wiggled
-- Published
- - Published articles
-- Study
- - Studies on certain subjects
-- Watch
- - Videos watched
+- Article - Articles read
+- Book - Books read
+- Calisthenics - Conducted training
+- Favorite - Projects or ideas that I liked
+- Film - Watched Movies
+- Freelance - Work carried out as a freelancer
+- Game - Games played
+- General - Things in general
+- Install - Installed programs
+- Language - Languages studied
+- Project - Projects that I wiggled
+- Published - Published articles
+- Study - Studies on certain subjects
+- Watch - Videos watched
 
 ## References
 
