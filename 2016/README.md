@@ -53,7 +53,7 @@
   - [Day 09](apr/04-09-2016.md) `furniture mounting` `purchase of equipment` `sabor instintivo`
   - [Day 10](apr/04-10-2016.md) `projects` `articles`
   - [Day 11](apr/04-11-2016.md) `furniture mounting` `purchase of equipment` `projects`
-  - [Day 12](apr/04-12-2016.md) ``
+  - [Day 12](apr/04-12-2016.md) `purchase of equipment` `article` `descco`
   - [Day 13](apr/04-13-2016.md) ``
   - [Day 14](apr/04-14-2016.md) ``
   - [Day 15](apr/04-15-2016.md) ``
