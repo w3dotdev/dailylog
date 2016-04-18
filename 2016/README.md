@@ -57,8 +57,8 @@
   - [Day 13](apr/04-13-2016.md) `furniture mounting` `calisthenics` `projects`
   - [Day 14](apr/04-14-2016.md) `films` `descco`
   - [Day 15](apr/04-15-2016.md) `publications` `articles`
-  - [Day 16](apr/04-16-2016.md) ``
-  - [Day 17](apr/04-17-2016.md) ``
+  - [Day 16](apr/04-16-2016.md) `articles` `ionic`
+  - [Day 17](apr/04-17-2016.md) `descco app` `ionic`
   - [Day 18](apr/04-18-2016.md) ``
   - [Day 19](apr/04-19-2016.md) ``
   - [Day 20](apr/04-20-2016.md) ``
