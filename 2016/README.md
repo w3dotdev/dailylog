@@ -60,7 +60,7 @@
   - [Day 16](apr/04-16-2016.md) `articles` `ionic`
   - [Day 17](apr/04-17-2016.md) `descco app` `ionic`
   - [Day 18](apr/04-18-2016.md) `descco app` `ionic` `articles`
-  - [Day 19](apr/04-19-2016.md) ``
+  - [Day 19](apr/04-19-2016.md) `es6` `meteorjs`
   - [Day 20](apr/04-20-2016.md) ``
   - [Day 21](apr/04-21-2016.md) ``
   - [Day 22](apr/04-22-2016.md) ``
