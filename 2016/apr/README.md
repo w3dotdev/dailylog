@@ -19,7 +19,7 @@
 - [Day 17](04-17-2016.md) `descco app` `ionic`
 - [Day 18](04-18-2016.md) `descco app` `ionic` `articles`
 - [Day 19](04-19-2016.md) `es6` `meteorjs`
-- [Day 20](04-20-2016.md) ``
+- [Day 20](04-20-2016.md) `powershell` `styleguide`
 - [Day 21](04-21-2016.md) ``
 - [Day 22](04-22-2016.md) ``
 - [Day 23](04-23-2016.md) ``
