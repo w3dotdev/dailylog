@@ -62,8 +62,8 @@
   - [Day 18](apr/04-18-2016.md) `descco app` `ionic` `articles`
   - [Day 19](apr/04-19-2016.md) `es6` `meteorjs`
   - [Day 20](apr/04-20-2016.md) `powershell` `styleguide`
-  - [Day 21](apr/04-21-2016.md) `projects`
-  - [Day 22](apr/04-22-2016.md) ``
+  - [Day 21](apr/04-21-2016.md) `projects` `two and a half men`
+  - [Day 22](apr/04-22-2016.md) `projects` `two and a half men` `films`
   - [Day 23](apr/04-23-2016.md) ``
   - [Day 24](apr/04-24-2016.md) ``
   - [Day 25](apr/04-25-2016.md) ``
