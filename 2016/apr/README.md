@@ -26,7 +26,7 @@
 - [Day 24](04-24-2016.md) `bones` `mysql` `laravel`
 - [Day 25](04-25-2016.md) `bones` `mongoDB`
 - [Day 26](04-26-2016.md) `bones` `mongoDB`
-- [Day 27](04-27-2016.md) `prison break` `express`
-- [Day 28](04-28-2016.md) ``
-- [Day 29](04-29-2016.md) ``
+- [Day 27](04-27-2016.md) `prison break` `express.js`
+- [Day 28](04-28-2016.md) `prison break` `film` `passaport.js`
+- [Day 29](04-29-2016.md) `prison break` `articles` `passaport.js`
 - [Day 30](04-30-2016.md) ``
