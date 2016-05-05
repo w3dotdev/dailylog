@@ -76,7 +76,7 @@
   - [Day 01](may/05-01-2016.md) `prison break`
   - [Day 02](may/05-02-2016.md) `buffy` `projects` `published`
   - [Day 03](may/05-03-2016.md) `buffy` `published`
-  - [Day 04](may/05-04-2016.md) ``
+  - [Day 04](may/05-04-2016.md) `buffy` `published` `articles`
   - [Day 05](may/05-05-2016.md) ``
   - [Day 06](may/05-06-2016.md) ``
   - [Day 07](may/05-07-2016.md) ``
