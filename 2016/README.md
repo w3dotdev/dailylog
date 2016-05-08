@@ -80,7 +80,7 @@
   - [Day 05](may/05-05-2016.md) `buffy` `published` `films`
   - [Day 06](may/05-06-2016.md) `buffy` `published` `articles`
   - [Day 07](may/05-07-2016.md) `buffy` `published` `project`
-  - [Day 08](may/05-08-2016.md) ``
+  - [Day 08](may/05-08-2016.md) `buffy` `after effects`
   - [Day 09](may/05-09-2016.md) ``
   - [Day 10](may/05-10-2016.md) ``
   - [Day 11](may/05-11-2016.md) ``
