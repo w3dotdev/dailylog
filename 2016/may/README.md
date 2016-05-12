@@ -9,8 +9,8 @@
 - [Day 07](05-07-2016.md) `buffy` `published` `project`
 - [Day 08](05-08-2016.md) `buffy` `after effects`
 - [Day 09](05-09-2016.md) `buffy` `english`
-- [Day 10](05-10-2016.md) ``
-- [Day 11](05-11-2016.md) ``
+- [Day 10](05-10-2016.md) `friends` `articles` `project`
+- [Day 11](05-11-2016.md) `friends` `articles` `projects`
 - [Day 12](05-12-2016.md) ``
 - [Day 13](05-13-2016.md) ``
 - [Day 14](05-14-2016.md) ``
