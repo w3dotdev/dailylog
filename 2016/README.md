@@ -84,9 +84,9 @@
   - [Day 09](may/05-09-2016.md) `buffy` `english`
   - [Day 10](may/05-10-2016.md) `friends` `articles` `project`
   - [Day 11](may/05-11-2016.md) `friends` `articles` `projects`
-  - [Day 12](may/05-12-2016.md) ``
-  - [Day 13](may/05-13-2016.md) ``
-  - [Day 14](may/05-14-2016.md) ``
+  - [Day 12](may/05-12-2016.md) `friends` `articles` `published` `films`
+  - [Day 13](may/05-13-2016.md) `friends` `published` `film`
+  - [Day 14](may/05-14-2016.md) `friends`
   - [Day 15](may/05-15-2016.md) ``
   - [Day 16](may/05-16-2016.md) ``
   - [Day 17](may/05-17-2016.md) ``
