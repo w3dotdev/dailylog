@@ -16,7 +16,7 @@
 - [Day 14](05-14-2016.md) `friends`
 - [Day 15](05-15-2016.md) `friends` `projects`
 - [Day 16](05-16-2016.md) `friends` `articles` `project` `published`
-- [Day 17](05-17-2016.md) ``
+- [Day 17](05-17-2016.md) `don't trust the b---- in apartment 23` `english`
 - [Day 18](05-18-2016.md) ``
 - [Day 19](05-19-2016.md) ``
 - [Day 20](05-20-2016.md) ``
