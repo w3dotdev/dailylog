@@ -88,7 +88,7 @@
   - [Day 13](may/05-13-2016.md) `friends` `published` `film`
   - [Day 14](may/05-14-2016.md) `friends`
   - [Day 15](may/05-15-2016.md) `friends` `projects`
-  - [Day 16](may/05-16-2016.md) `friends` `articles` `project`
+  - [Day 16](may/05-16-2016.md) `friends` `articles` `project` `published`
   - [Day 17](may/05-17-2016.md) ``
   - [Day 18](may/05-18-2016.md) ``
   - [Day 19](may/05-19-2016.md) ``
