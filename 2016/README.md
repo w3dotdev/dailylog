@@ -90,7 +90,7 @@
   - [Day 15](may/05-15-2016.md) `friends` `projects`
   - [Day 16](may/05-16-2016.md) `friends` `articles` `project` `published`
   - [Day 17](may/05-17-2016.md) `don't trust the b---- in apartment 23` `english` `articles`
-  - [Day 18](may/05-18-2016.md) ``
+  - [Day 18](may/05-18-2016.md) `from dusk till dawn: the series` `projects` `articles` `react.js`
   - [Day 19](may/05-19-2016.md) ``
   - [Day 20](may/05-20-2016.md) ``
   - [Day 21](may/05-21-2016.md) ``
