@@ -94,9 +94,9 @@
   - [Day 19](may/05-19-2016.md) `vikings` `film` `published`
   - [Day 20](may/05-20-2016.md) `vikings` `calisthenics`
   - [Day 21](may/05-21-2016.md) `once upon a time` `english` `react.js` `angular.js`
-  - [Day 22](may/05-22-2016.md) ``
-  - [Day 23](may/05-23-2016.md) ``
-  - [Day 24](may/05-24-2016.md) ``
+  - [Day 22](may/05-22-2016.md) `once upon a time` `articles` `general`
+  - [Day 23](may/05-23-2016.md) `general` `braziljs videos`
+  - [Day 24](may/05-24-2016.md) `tattoo` `articles`
   - [Day 25](may/05-25-2016.md) ``
   - [Day 26](may/05-26-2016.md) ``
   - [Day 27](may/05-27-2016.md) ``
