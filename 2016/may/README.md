@@ -24,7 +24,7 @@
 - [Day 22](05-22-2016.md) `once upon a time` `articles` `general`
 - [Day 23](05-23-2016.md) `general` `braziljs videos`
 - [Day 24](05-24-2016.md) `tattoo` `articles`
-- [Day 25](05-25-2016.md) ``
+- [Day 25](05-25-2016.md) `(design) marmiteria` `looking for a job` `articles`
 - [Day 26](05-26-2016.md) ``
 - [Day 27](05-27-2016.md) ``
 - [Day 28](05-28-2016.md) ``
