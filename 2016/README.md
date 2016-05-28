@@ -98,8 +98,8 @@
   - [Day 23](may/05-23-2016.md) `general` `braziljs videos`
   - [Day 24](may/05-24-2016.md) `tattoo` `articles`
   - [Day 25](may/05-25-2016.md) `(design) marmiteria` `looking for a job` `articles`
-  - [Day 26](may/05-26-2016.md) ``
-  - [Day 27](may/05-27-2016.md) ``
+  - [Day 26](may/05-26-2016.md) `looking for a job` `articles`
+  - [Day 27](may/05-27-2016.md) `looking for a job` `articles` `film` `published`
   - [Day 28](may/05-28-2016.md) ``
   - [Day 29](may/05-29-2016.md) ``
   - [Day 30](may/05-30-2016.md) ``
