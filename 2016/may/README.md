@@ -27,7 +27,7 @@
 - [Day 25](05-25-2016.md) `(design) marmiteria` `looking for a job` `articles`
 - [Day 26](05-26-2016.md) `looking for a job` `articles`
 - [Day 27](05-27-2016.md) `looking for a job` `articles` `film` `published`
-- [Day 28](05-28-2016.md) ``
-- [Day 29](05-29-2016.md) ``
+- [Day 28](05-28-2016.md) `looking for a job` `film` `published` `articles`
+- [Day 29](05-29-2016.md) `looking for a job` `php`
 - [Day 30](05-30-2016.md) ``
 - [Day 31](05-31-2016.md) ``
