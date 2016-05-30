@@ -29,5 +29,5 @@
 - [Day 27](05-27-2016.md) `looking for a job` `articles` `film` `published`
 - [Day 28](05-28-2016.md) `looking for a job` `film` `published` `articles`
 - [Day 29](05-29-2016.md) `looking for a job` `php` `babun`
-- [Day 30](05-30-2016.md) ``
+- [Day 30](05-30-2016.md) `looking for a job`
 - [Day 31](05-31-2016.md) ``
