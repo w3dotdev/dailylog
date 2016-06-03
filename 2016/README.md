@@ -103,8 +103,38 @@
   - [Day 28](may/05-28-2016.md) `looking for a job` `film` `published` `articles`
   - [Day 29](may/05-29-2016.md) `looking for a job` `php` `babun`
   - [Day 30](may/05-30-2016.md) `looking for a job` `docker`
-  - [Day 31](may/05-31-2016.md) ``
- - June
+  - [Day 31](may/05-31-2016.md) `looking for a job` `films` `marmiteria` `angular` `published`
+ - [June](jun/README.md)
+  - [Day 01](jun/06-01-2016.md) `looking for a job` `articles`
+  - [Day 02](jun/06-02-2016.md) `looking for a job` `interview` `film` `published`
+  - [Day 03](jun/06-03-2016.md) `looking for a job` `react native` `articles`
+  - [Day 04](jun/06-04-2016.md) ``
+  - [Day 05](jun/06-05-2016.md) ``
+  - [Day 06](jun/06-06-2016.md) ``
+  - [Day 07](jun/06-07-2016.md) ``
+  - [Day 08](jun/06-08-2016.md) ``
+  - [Day 09](jun/06-09-2016.md) ``
+  - [Day 10](jun/06-10-2016.md) ``
+  - [Day 11](jun/06-11-2016.md) ``
+  - [Day 12](jun/06-12-2016.md) ``
+  - [Day 13](jun/06-13-2016.md) ``
+  - [Day 14](jun/06-14-2016.md) ``
+  - [Day 15](jun/06-15-2016.md) ``
+  - [Day 16](jun/06-16-2016.md) ``
+  - [Day 17](jun/06-17-2016.md) ``
+  - [Day 18](jun/06-18-2016.md) ``
+  - [Day 19](jun/06-19-2016.md) ``
+  - [Day 20](jun/06-20-2016.md) ``
+  - [Day 21](jun/06-21-2016.md) ``
+  - [Day 22](jun/06-22-2016.md) ``
+  - [Day 23](jun/06-23-2016.md) ``
+  - [Day 24](jun/06-24-2016.md) ``
+  - [Day 25](jun/06-25-2016.md) ``
+  - [Day 26](jun/06-26-2016.md) ``
+  - [Day 27](jun/06-27-2016.md) ``
+  - [Day 28](jun/06-28-2016.md) ``
+  - [Day 29](jun/06-29-2016.md) ``
+  - [Day 30](jun/06-30-2016.md) ``
  - July
  - August
  - September
