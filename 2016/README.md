@@ -97,18 +97,18 @@
   - [Day 22](may/05-22-2016.md) `once upon a time` `articles` `general`
   - [Day 23](may/05-23-2016.md) `general` `braziljs videos`
   - [Day 24](may/05-24-2016.md) `tattoo` `articles`
-  - [Day 25](may/05-25-2016.md) `(design) marmiteria` `looking for a job` `articles`
+  - [Day 25](may/05-25-2016.md) `looking for a job` `(design) marmiteria` `articles`
   - [Day 26](may/05-26-2016.md) `looking for a job` `articles`
   - [Day 27](may/05-27-2016.md) `looking for a job` `articles` `film` `published`
   - [Day 28](may/05-28-2016.md) `looking for a job` `film` `published` `articles`
   - [Day 29](may/05-29-2016.md) `looking for a job` `php` `babun`
   - [Day 30](may/05-30-2016.md) `looking for a job` `docker`
-  - [Day 31](may/05-31-2016.md) `looking for a job` `films` `marmiteria` `angular` `published`
+  - [Day 31](may/05-31-2016.md) `looking for a job` `(front-end) marmiteria` `films` `angular` `published`
  - [June](jun/README.md)
   - [Day 01](jun/06-01-2016.md) `looking for a job` `articles`
   - [Day 02](jun/06-02-2016.md) `looking for a job` `interview` `film` `published`
   - [Day 03](jun/06-03-2016.md) `looking for a job` `react native` `articles`
-  - [Day 04](jun/06-04-2016.md) ``
+  - [Day 04](jun/06-04-2016.md) `looking for a job` `films` `published`
   - [Day 05](jun/06-05-2016.md) ``
   - [Day 06](jun/06-06-2016.md) ``
   - [Day 07](jun/06-07-2016.md) ``

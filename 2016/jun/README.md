@@ -3,7 +3,7 @@
  - [Day 1](06-01-2016.md) `looking for a job` `articles`
  - [Day 2](06-02-2016.md) `looking for a job` `interview` `film` `published`
  - [Day 3](06-03-2016.md) `looking for a job` `react native` `articles`
- - [Day 4](06-04-2016.md) ``
+ - [Day 4](06-04-2016.md) `looking for a job` `films` `published`
  - [Day 5](06-05-2016.md) ``
  - [Day 6](06-06-2016.md) ``
  - [Day 7](06-07-2016.md) ``
