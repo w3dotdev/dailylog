@@ -109,8 +109,8 @@
   - [Day 02](jun/06-02-2016.md) `looking for a job` `interview` `film` `published`
   - [Day 03](jun/06-03-2016.md) `looking for a job` `react native` `articles`
   - [Day 04](jun/06-04-2016.md) `looking for a job` `films` `published`
-  - [Day 05](jun/06-05-2016.md) ``
-  - [Day 06](jun/06-06-2016.md) ``
+  - [Day 05](jun/06-05-2016.md) `looking for a job` `(front-end) marmiteria`
+  - [Day 06](jun/06-06-2016.md) `looking for a job` `(front-end) marmiteria`
   - [Day 07](jun/06-07-2016.md) ``
   - [Day 08](jun/06-08-2016.md) ``
   - [Day 09](jun/06-09-2016.md) ``
