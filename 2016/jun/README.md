@@ -5,11 +5,11 @@
  - [Day 3](06-03-2016.md) `looking for a job` `react native` `articles`
  - [Day 4](06-04-2016.md) `looking for a job` `films` `published`
  - [Day 5](06-05-2016.md) `looking for a job` `(front-end) marmiteria`
- - [Day 6](06-06-2016.md) `looking for a job` `(front-end) marmiteria`
- - [Day 7](06-07-2016.md) ``
- - [Day 8](06-08-2016.md) ``
- - [Day 9](06-09-2016.md) ``
- - [Day 10](06-10-2016.md) ``
+ - [Day 6](06-06-2016.md) `looking for a job` `(front-end) marmiteria` `clean code`
+ - [Day 7](06-07-2016.md) `looking for a job` `(front-end) marmiteria` `webpack` `vue.js` `typescript`
+ - [Day 8](06-08-2016.md) `looking for a job` `react`
+ - [Day 9](06-09-2016.md) `looking for a job` `film` `published`
+ - [Day 10](06-10-2016.md) `looking for a job`
  - [Day 11](06-11-2016.md) ``
  - [Day 12](06-12-2016.md) ``
  - [Day 13](06-13-2016.md) ``
