@@ -114,8 +114,8 @@
   - [Day 07](jun/06-07-2016.md) `looking for a job` `(front-end) marmiteria` `webpack` `vue.js` `typescript`
   - [Day 08](jun/06-08-2016.md) `looking for a job` `react`
   - [Day 09](jun/06-09-2016.md) `looking for a job` `film` `published`
-  - [Day 10](jun/06-10-2016.md) ``
-  - [Day 11](jun/06-11-2016.md) ``
+  - [Day 10](jun/06-10-2016.md) `looking for a job` `instagram metrics`
+  - [Day 11](jun/06-11-2016.md) `looking for a job` `agular style guide` `articles`
   - [Day 12](jun/06-12-2016.md) ``
   - [Day 13](jun/06-13-2016.md) ``
   - [Day 14](jun/06-14-2016.md) ``
