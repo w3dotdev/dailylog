@@ -11,8 +11,8 @@
  - [Day 9](06-09-2016.md) `looking for a job` `film` `published`
  - [Day 10](06-10-2016.md) `looking for a job` `challenge react.js` `instagram metrics`
  - [Day 11](06-11-2016.md) `looking for a job` `agular style guide` `articles`
- - [Day 12](06-12-2016.md) ``
- - [Day 13](06-13-2016.md) ``
+ - [Day 12](06-12-2016.md) `looking for a job` `challenge react.js`
+ - [Day 13](06-13-2016.md) `looking for a job` `(front-end) marmiteria`
  - [Day 14](06-14-2016.md) ``
  - [Day 15](06-15-2016.md) ``
  - [Day 16](06-16-2016.md) ``
