@@ -118,7 +118,7 @@
   - [Day 11](jun/06-11-2016.md) `looking for a job` `agular style guide` `articles`
   - [Day 12](jun/06-12-2016.md) `looking for a job` `challenge react.js`
   - [Day 13](jun/06-13-2016.md) `looking for a job` `(front-end) marmiteria`
-  - [Day 14](jun/06-14-2016.md) ``
+  - [Day 14](jun/06-14-2016.md) `looking for a job` `react.js` `published`
   - [Day 15](jun/06-15-2016.md) ``
   - [Day 16](jun/06-16-2016.md) ``
   - [Day 17](jun/06-17-2016.md) ``
