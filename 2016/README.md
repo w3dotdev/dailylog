@@ -120,7 +120,7 @@
   - [Day 13](jun/06-13-2016.md) `looking for a job` `(front-end) marmiteria`
   - [Day 14](jun/06-14-2016.md) `looking for a job` `react.js` `published`
   - [Day 15](jun/06-15-2016.md) `looking for a job` `film` `published`
-  - [Day 16](jun/06-16-2016.md) ``
+  - [Day 16](jun/06-16-2016.md) `looking for a job`
   - [Day 17](jun/06-17-2016.md) ``
   - [Day 18](jun/06-18-2016.md) ``
   - [Day 19](jun/06-19-2016.md) ``
