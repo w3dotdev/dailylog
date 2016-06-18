@@ -15,8 +15,8 @@
  - [Day 13](06-13-2016.md) `looking for a job` `(front-end) marmiteria`
  - [Day 14](06-14-2016.md) `looking for a job` `react.js` `published`
  - [Day 15](06-15-2016.md) `looking for a job` `film` `published`
- - [Day 16](06-16-2016.md) `looking for a job`
- - [Day 17](06-17-2016.md) ``
+ - [Day 16](06-16-2016.md) `looking for a job` `articles` `react.js` `js funcional`
+ - [Day 17](06-17-2016.md) `looking for a job` `(front-end) marmiteria` `orange is the new black` `articles`
  - [Day 18](06-18-2016.md) ``
  - [Day 19](06-19-2016.md) ``
  - [Day 20](06-20-2016.md) ``
