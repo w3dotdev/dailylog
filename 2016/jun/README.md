@@ -19,8 +19,8 @@
  - [Day 17](06-17-2016.md) `looking for a job` `(front-end) marmiteria` `orange is the new black` `articles`
  - [Day 18](06-18-2016.md) `looking for a job` `articles` `docker`
  - [Day 19](06-19-2016.md) `looking for a job` `articles` `redux` `eloquent js` `logueria`
- - [Day 20](06-20-2016.md) ``
- - [Day 21](06-21-2016.md) ``
+ - [Day 20](06-20-2016.md) `looking for a job` `articles` `blisk` `logueria`
+ - [Day 21](06-21-2016.md) `looking for a job` `react.js` `meliuz`
  - [Day 22](06-22-2016.md) ``
  - [Day 23](06-23-2016.md) ``
  - [Day 24](06-24-2016.md) ``
