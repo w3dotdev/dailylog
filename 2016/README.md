@@ -126,7 +126,7 @@
   - [Day 19](jun/06-19-2016.md) `looking for a job` `articles` `redux` `eloquent js` `logueria`
   - [Day 20](jun/06-20-2016.md) `looking for a job` `articles` `blisk` `logueria`
   - [Day 21](jun/06-21-2016.md) `looking for a job` `react.js` `meliuz`
-  - [Day 22](jun/06-22-2016.md) ``
+  - [Day 22](jun/06-22-2016.md) `looking for a job`
   - [Day 23](jun/06-23-2016.md) ``
   - [Day 24](jun/06-24-2016.md) ``
   - [Day 25](jun/06-25-2016.md) ``
