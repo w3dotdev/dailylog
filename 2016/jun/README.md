@@ -23,8 +23,8 @@
  - [Day 21](06-21-2016.md) `looking for a job` `react.js` `meliuz`
  - [Day 22](06-22-2016.md) `looking for a job` `programming logic` `artigos` `meliuz`
  - [Day 23](06-23-2016.md) `looking for a job` `platform creation to teach` `react.js`
- - [Day 24](06-24-2016.md) ``
- - [Day 25](06-25-2016.md) ``
+ - [Day 24](06-24-2016.md) `looking for a job` `vitamina mista`
+ - [Day 25](06-25-2016.md) `looking for a job`
  - [Day 26](06-26-2016.md) ``
  - [Day 27](06-27-2016.md) ``
  - [Day 28](06-28-2016.md) ``
