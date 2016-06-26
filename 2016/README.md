@@ -129,9 +129,9 @@
   - [Day 22](jun/06-22-2016.md) `looking for a job` `programming logic` `artigos` `meliuz`
   - [Day 23](jun/06-23-2016.md) `looking for a job` `platform creation to teach` `react.js`
   - [Day 24](jun/06-24-2016.md) `looking for a job` `vitamina mista`
-  - [Day 25](jun/06-25-2016.md) ``
-  - [Day 26](jun/06-26-2016.md) ``
-  - [Day 27](jun/06-27-2016.md) ``
+  - [Day 25](jun/06-25-2016.md) `looking for a job` `sampajs` `projects`
+  - [Day 26](jun/06-26-2016.md) `looking for a job` `vitamina mista` `articles`
+  - [Day 27](jun/06-27-2016.md) `looking for a job`
   - [Day 28](jun/06-28-2016.md) ``
   - [Day 29](jun/06-29-2016.md) ``
   - [Day 30](jun/06-30-2016.md) ``
