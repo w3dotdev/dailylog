@@ -26,7 +26,7 @@
  - [Day 24](06-24-2016.md) `looking for a job` `vitamina mista`
  - [Day 25](06-25-2016.md) `looking for a job` `sampajs` `projects`
  - [Day 26](06-26-2016.md) `looking for a job` `vitamina mista` `articles`
- - [Day 27](06-27-2016.md) `looking for a job`
+ - [Day 27](06-27-2016.md) `looking for a job` `articles` `vanilla javascript repository`
  - [Day 28](06-28-2016.md) ``
  - [Day 29](06-29-2016.md) ``
  - [Day 30](06-30-2016.md) ``
