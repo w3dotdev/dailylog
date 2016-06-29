@@ -132,7 +132,7 @@
   - [Day 25](jun/06-25-2016.md) `looking for a job` `sampajs` `projects`
   - [Day 26](jun/06-26-2016.md) `looking for a job` `vitamina mista` `articles`
   - [Day 27](jun/06-27-2016.md) `looking for a job` `articles` `vanilla javascript repository`
-  - [Day 28](jun/06-28-2016.md) ``
+  - [Day 28](jun/06-28-2016.md) `looking for a job` `meliuz` `accessible dropdown menus`
   - [Day 29](jun/06-29-2016.md) ``
   - [Day 30](jun/06-30-2016.md) ``
  - July
