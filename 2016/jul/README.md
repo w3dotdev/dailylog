@@ -1,6 +1,6 @@
 # July
 
- - Day 1
+ - [Day 1](07-01-2016.md) `looking for a job` `articles` `anime.js` `javascript methods` `article the year that changed my life`
  - Day 2
  - Day 3
  - Day 4

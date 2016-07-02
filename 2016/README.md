@@ -134,8 +134,9 @@
   - [Day 27](jun/06-27-2016.md) `looking for a job` `articles` `vanilla javascript repository`
   - [Day 28](jun/06-28-2016.md) `looking for a job` `meliuz` `accessible dropdown menus`
   - [Day 29](jun/06-29-2016.md) `looking for a job` `meliuz` `articles` `php angularJS`
-  - [Day 30](jun/06-30-2016.md) `looking for a job`
- - July
+  - [Day 30](jun/06-30-2016.md) `looking for a job` `articles` `hemersonvianna.com`
+ - [July](jul/README.md)
+  - [Day 01](jul/07-01-2016.md) `looking for a job` `articles` `anime.js` `javascript methods` `article the year that changed my life`
  - August
  - September
  - October

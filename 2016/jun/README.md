@@ -29,4 +29,4 @@
  - [Day 27](06-27-2016.md) `looking for a job` `articles` `vanilla javascript repository`
  - [Day 28](06-28-2016.md) `looking for a job` `meliuz` `accessible dropdown menus`
  - [Day 29](06-29-2016.md) `looking for a job` `meliuz` `articles` `php angularJS`
- - [Day 30](06-30-2016.md) `looking for a job`
+ - [Day 30](06-30-2016.md) `looking for a job` `articles` `hemersonvianna.com` 
