@@ -140,7 +140,7 @@
   - [Day 02](jul/07-02-2016.md) `looking for a job` `(front-end) marmiteria` `articles` `projects` `ionic2`
   - [Day 03](jul/07-03-2016.md) `looking for a job` `(front-end) marmiteria` `articles es6`
   - [Day 04](jul/07-04-2016.md) `looking for a job` `films` `project`
-  - [Day 05](jul/07-05-2016.md) `looking for a job` `published` `project` `articles es6`
+  - [Day 05](jul/07-05-2016.md) `looking for a job` `(front-end) marmiteria` `published` `project` `articles es6`
  - August
  - September
  - October
