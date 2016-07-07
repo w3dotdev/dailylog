@@ -142,6 +142,7 @@
   - [Day 04](jul/07-04-2016.md) `looking for a job` `films` `project`
   - [Day 05](jul/07-05-2016.md) `looking for a job` `(front-end) marmiteria` `published` `project` `articles es6`
   - [Day 06](jul/07-06-2016.md) `looking for a job` `interview` `published`
+  - [Day 07](jul/07-07-2016.md) `looking for a job` `projects` `articles react node.js es6` `boilerplates`
  - August
  - September
  - October

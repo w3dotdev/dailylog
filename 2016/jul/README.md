@@ -6,7 +6,7 @@
  - [Day 04](07-04-2016.md) `looking for a job` `films` `project`
  - [Day 05](07-05-2016.md) `looking for a job` `(front-end) marmiteria` `published` `project` `articles es6`
  - [Day 06](07-06-2016.md) `looking for a job` `interview` `published`
- - Day 7
+ - [Day 07](07-07-2016.md) `looking for a job` `projects` `articles react node.js es6` `boilerplates`
  - Day 8
  - Day 9
  - Day 10
