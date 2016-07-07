@@ -5,7 +5,7 @@
  - [Day 03](07-03-2016.md) `looking for a job` `(front-end) marmiteria` `articles es6`
  - [Day 04](07-04-2016.md) `looking for a job` `films` `project`
  - [Day 05](07-05-2016.md) `looking for a job` `(front-end) marmiteria` `published` `project` `articles es6`
- - Day 6
+ - [Day 06](07-06-2016.md) `looking for a job` `interview` `published`
  - Day 7
  - Day 8
  - Day 9
