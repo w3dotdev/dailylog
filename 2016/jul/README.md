@@ -9,10 +9,10 @@
  - [Day 07](07-07-2016.md) `looking for a job` `projects` `articles react node.js es6` `boilerplates`
  - [Day 08](07-08-2016.md) `looking for a job` `postcss` `atomic design` `angularjs directives`
  - [Day 09](07-09-2016.md) `looking for a job` `challenge b2w` `articles javascript angular`
- - Day 10
- - Day 11
- - Day 12
- - Day 13
+ - [Day 10](07-10-2016.md) `looking for a job` `challenge b2w` `articles javascript css react redux`
+ - [Day 11](07-11-2016.md) `looking for a job` `challenge b2w` `articles javascript git hooks`
+ - [Day 12](07-12-2016.md) `looking for a job` `challenge b2w` `articles javascript angularjs`
+ - [Day 13](07-13-2016.md) `looking for a job` `challenge olx`
  - Day 14
  - Day 15
  - Day 16

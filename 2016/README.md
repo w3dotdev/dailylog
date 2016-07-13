@@ -144,7 +144,11 @@
   - [Day 06](jul/07-06-2016.md) `looking for a job` `interview` `published`
   - [Day 07](jul/07-07-2016.md) `looking for a job` `projects` `articles react node.js es6` `boilerplates`
   - [Day 08](jul/07-08-2016.md) `looking for a job` `postcss` `atomic design` `angularjs directives`
-  - [Day 09](jul/07-09-2016.md) `looking for a job` `challenge b2w` `articles javascript angular` 
+  - [Day 09](jul/07-09-2016.md) `looking for a job` `challenge b2w` `articles javascript angular`
+  - [Day 10](jul/07-10-2016.md) `looking for a job` `challenge b2w` `articles javascript css react redux`
+  - [Day 11](jul/07-11-2016.md) `looking for a job` `challenge b2w` `articles javascript git hooks`
+  - [Day 12](jul/07-12-2016.md) `looking for a job` `challenge b2w` `articles javascript angularjs`
+  - [Day 13](jul/07-13-2016.md) `looking for a job` `challenge olx` 
  - August
  - September
  - October
