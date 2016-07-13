@@ -7,8 +7,8 @@
  - [Day 05](07-05-2016.md) `looking for a job` `(front-end) marmiteria` `published` `project` `articles es6`
  - [Day 06](07-06-2016.md) `looking for a job` `interview` `published`
  - [Day 07](07-07-2016.md) `looking for a job` `projects` `articles react node.js es6` `boilerplates`
- - Day 8
- - Day 9
+ - [Day 08](07-08-2016.md) `looking for a job` `postcss` `atomic design` `angularjs directives`
+ - [Day 09](07-09-2016.md) `looking for a job` `challenge b2w` `articles javascript angular`
  - Day 10
  - Day 11
  - Day 12
