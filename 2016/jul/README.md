@@ -14,8 +14,8 @@
  - [Day 12](07-12-2016.md) `looking for a job` `challenge b2w` `articles javascript angularjs`
  - [Day 13](07-13-2016.md) `looking for a job` `articles es6` `mern` `node.js` `es6`
  - [Day 14](07-14-2016.md) `looking for a job` `articles es6` `promises` `tabs or spaces` `interview`
- - Day 15
- - Day 16
+ - [Day 15](07-15-2016.md) `calisthenics` `articles react_native android_design`vue` `react + webpack`
+ - [Day 16](07-16-2016.md) `articles react d3.js` `react+d3.js` `es6`
  - Day 17
  - Day 18
  - Day 19
