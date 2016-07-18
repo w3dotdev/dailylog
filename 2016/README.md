@@ -152,6 +152,8 @@
   - [Day 14](jul/07-14-2016.md) `looking for a job` `articles es6` `promises` `tabs or spaces` `interview`
   - [Day 15](jul/07-15-2016.md) `calisthenics` `articles react_native android_design`vue` `react + webpack`
   - [Day 16](jul/07-16-2016.md) `articles react d3.js` `react+d3.js` `es6`
+  - [Day 17](jul/07-17-2016.md) `articles es6 javascript css webpack` `film`
+  - [Day 18](jul/07-18-2016.md) `articles react javascript postcss` `published` `diploma`
  - August
  - September
  - October
