@@ -154,6 +154,8 @@
   - [Day 16](jul/07-16-2016.md) `articles react d3.js` `react+d3.js` `es6`
   - [Day 17](jul/07-17-2016.md) `articles es6 javascript css webpack` `film`
   - [Day 18](jul/07-18-2016.md) `articles react javascript postcss` `published` `diploma`
+  - [Day 19](jul/07-19-2016.md) `b2w` `article  es6` `catberry` `phaser`
+  - [Day 20](jul/07-20-2016.md) `b2w` 
  - August
  - September
  - October

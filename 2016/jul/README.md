@@ -18,8 +18,8 @@
  - [Day 16](07-16-2016.md) `articles react d3.js` `react+d3.js` `es6`
  - [Day 17](07-17-2016.md) `articles es6 javascript css webpack` `film`
  - [Day 18](07-18-2016.md) `articles react javascript postcss` `published` `diploma`
- - Day 19
- - Day 20
+ - [Day 19](07-18-2016.md) `b2w` `article  es6` `catberry` `phaser`
+ - [Day 20](07-18-2016.md) `b2w` 
  - Day 21
  - Day 22
  - Day 23
