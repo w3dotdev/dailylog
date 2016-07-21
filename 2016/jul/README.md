@@ -19,7 +19,7 @@
  - [Day 17](07-17-2016.md) `articles es6 javascript css webpack` `film`
  - [Day 18](07-18-2016.md) `articles react javascript postcss` `published` `diploma`
  - [Day 19](07-18-2016.md) `b2w` `article es6` `catberry` `phaser`
- - [Day 20](07-18-2016.md) `b2w` `articles front-end javscript go` `golang` `published`
+ - [Day 20](07-18-2016.md) `b2w` `articles front-end javascript go` `golang` `published`
  - Day 21
  - Day 22
  - Day 23
