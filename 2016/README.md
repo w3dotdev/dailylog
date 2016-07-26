@@ -159,6 +159,8 @@
   - [Day 21](jul/07-21-2016.md) `b2w` `articles vue.js phantomcss isomorphic_javaScript` `vue.js` `javascript`
   - [Day 22](jul/07-22-2016.md) `react and redux` `articles usability es6 webpack_with_html`
   - [Day 23](jul/07-23-2016.md) `react and es6` `articles webservices purecss digital_marketing` `(front-end) marmiteria`
+  - [Day 24](jul/07-24-2016.md) `electron` `react and router` `articles endpoint electron d3 promises` `podcast nunbak` `(front-end) marmiteria`
+  - [Day 25](jul/07-25-2016.md) `game javascript and ai` `puzzle game` `simple gallery js` `articles frameworks js`
  - August
  - September
  - October
