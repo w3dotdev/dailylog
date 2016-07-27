@@ -25,10 +25,8 @@
  - [Day 23](07-23-2016.md) `react and es6` `articles webservices purecss digital_marketing` `(front-end) marmiteria`
  - [Day 24](07-24-2016.md) `electron` `react and router` `articles endpoint electron d3 promises` `podcast nunbak` `(front-end) marmiteria`
  - [Day 25](07-25-2016.md) `game javascript and ai` `puzzle game` `simple gallery js` `articles frameworks js`
- - Day 24
- - Day 25
- - Day 26
- - Day 27
+ - [Day 26](07-26-2016.md) `js prototypal oo` `react-native` `react and redux` `articles node.js react redux webpack http2`
+ - [Day 27](07-27-2016.md) `mean` `isomorphic react` `react and redux` `articles node.js react redux electron es6`
  - Day 28
  - Day 29
  - Day 30

@@ -161,6 +161,8 @@
   - [Day 23](jul/07-23-2016.md) `react and es6` `articles webservices purecss digital_marketing` `(front-end) marmiteria`
   - [Day 24](jul/07-24-2016.md) `electron` `react and router` `articles endpoint electron d3 promises` `podcast nunbak` `(front-end) marmiteria`
   - [Day 25](jul/07-25-2016.md) `game javascript and ai` `puzzle game` `simple gallery js` `articles frameworks js`
+  - [Day 26](jul/07-26-2016.md) `js prototypal oo` `react-native` `react and redux` `articles node.js react redux webpack http2`
+  - [Day 27](jul/07-27-2016.md) `mean` `isomorphic react` `react and redux` `articles node.js react redux electron es6`
  - August
  - September
  - October
