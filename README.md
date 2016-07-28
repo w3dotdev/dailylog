@@ -22,6 +22,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - General - Things in general
 - Install - Installed programs
 - Language - Languages studied
+- Podcast - Digital audio on web development
 - Project - Projects that I wiggled
 - Published - Published articles
 - Study - Studies on certain subjects
