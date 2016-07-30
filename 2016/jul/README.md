@@ -28,6 +28,6 @@
  - [Day 26](07-26-2016.md) `js prototypal oo` `react-native` `react and redux` `articles node.js react redux webpack http2`
  - [Day 27](07-27-2016.md) `mean` `isomorphic react` `react and redux` `articles node.js react redux electron es6`
  - [Day 28](07-28-2016.md) `biiirl` `play ionic` `angular 2` `netlify` `articles css_modules react_native javascript`
- - Day 29
+ - [Day 29](07-29-2016.md) `golang` `isomorphic event` `react` `react native` `vim files` `articles promises node.js`
  - Day 30
  - Day 31
