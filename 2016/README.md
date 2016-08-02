@@ -166,8 +166,8 @@
   - [Day 28](jul/07-28-2016.md) `biiirl` `play ionic` `angular 2` `netlify` `articles css_modules react_native 
   javascript`
   - [Day 29](jul/07-29-2016.md) `golang` `isomorphic event` `react` `react native` `vim files` `articles promises node.js`
-  - [Day 30](jul/07-30-2016.md)
-  - [Day 31](jul/07-31-2016.md)  
+  - [Day 30](jul/07-30-2016.md) `pokemon go` `css validation` `articles styleguide frontend bem`  
+  - [Day 31](jul/07-31-2016.md) `films`
  - August
  - September
  - October
