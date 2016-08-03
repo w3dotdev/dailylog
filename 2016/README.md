@@ -168,7 +168,10 @@
   - [Day 29](jul/07-29-2016.md) `golang` `isomorphic event` `react` `react native` `vim files` `articles promises node.js`
   - [Day 30](jul/07-30-2016.md) `pokemon go` `css validation` `articles styleguide frontend bem`  
   - [Day 31](jul/07-31-2016.md) `films`
- - August
+ - [August](aug/README.md)
+  - [Day 01](aug/08-01-2016.md) ``
+  - [Day 02](aug/08-02-2016.md) ``
+  - [Day 03](aug/08-03-2016.md) ``
  - September
  - October
  - November

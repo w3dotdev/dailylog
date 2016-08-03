@@ -1,6 +1,6 @@
 # July
 
- - [Day 1](07-01-2016.md) `looking for a job` `articles` `anime.js` `javascript methods` `article the year that changed my life`
+ - [Day 01](07-01-2016.md) `looking for a job` `articles` `anime.js` `javascript methods` `article the year that changed my life`
  - [Day 02](07-02-2016.md) `looking for a job` `(front-end) marmiteria` `articles` `projects` `ionic2`
  - [Day 03](07-03-2016.md) `looking for a job` `(front-end) marmiteria` `articles es6`
  - [Day 04](07-04-2016.md) `looking for a job` `films` `project`
