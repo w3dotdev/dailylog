@@ -1,9 +1,9 @@
 # August
 
- - [Day 01](08-01-2016.md) ``
- - [Day 02](08-02-2016.md) ``
- - [Day 03](08-03-2016.md) ``
- - Day 4
+ - [Day 01](08-01-2016.md) `instagallery` `articles docker react`
+ - [Day 02](08-02-2016.md) `pokestadium` `articles javascript angular` 
+ - [Day 03](08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
+ - [Day 04](08-04-2016.md) `my coding style` `published` `es6` `articles css design svg jquery`
  - Day 5
  - Day 6
  - Day 7

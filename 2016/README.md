@@ -169,9 +169,10 @@
   - [Day 30](jul/07-30-2016.md) `pokemon go` `css validation` `articles styleguide frontend bem`  
   - [Day 31](jul/07-31-2016.md) `films`
  - [August](aug/README.md)
-  - [Day 01](aug/08-01-2016.md) ``
-  - [Day 02](aug/08-02-2016.md) ``
-  - [Day 03](aug/08-03-2016.md) ``
+  - [Day 01](aug/08-01-2016.md) `instagallery` `articles docker react`
+  - [Day 02](aug/08-02-2016.md) `pokestadium` `articles javascript angular` 
+  - [Day 03](aug/08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
+  - [Day 04](aug/08-04-2016.md) `my coding style` `published` `es6` `articles css design svg jquery`
  - September
  - October
  - November
