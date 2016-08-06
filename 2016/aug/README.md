@@ -3,9 +3,9 @@
  - [Day 01](08-01-2016.md) `instagallery` `articles docker react`
  - [Day 02](08-02-2016.md) `pokestadium` `articles javascript angular` 
  - [Day 03](08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
- - [Day 04](08-04-2016.md) `my coding style` `published` `es6` `articles css design svg jquery`
- - Day 5
- - Day 6
+ - [Day 04](08-04-2016.md) `my coding style` `published imhomovies` `es6` `articles css design svg jquery`
+ - [Day 05](08-05-2016.md) `marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
+ - [Day 06](08-06-2016.md) `poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` 
  - Day 7
  - Day 8
  - Day 9
