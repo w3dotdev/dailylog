@@ -173,9 +173,9 @@
   - [Day 02](aug/08-02-2016.md) `pokestadium` `articles javascript angular` 
   - [Day 03](aug/08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
   - [Day 04](aug/08-04-2016.md) `my coding style` `published imhomovies` `es6` `articles css design svg jquery`
-  - [Day 05](aug/08-05-2016.md) `marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
-  - [Day 06](aug/08-06-2016.md) `poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` `greensock`
-  - [Day 07](aug/08-07-2016.md) `film` `poltronando` `react toolbox` `picnic css` `articles socket.io javascript css_modules cli`
+  - [Day 05](aug/08-05-2016.md) `(front-end) marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
+  - [Day 06](aug/08-06-2016.md) `(front-end) poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` `greensock`
+  - [Day 07](aug/08-07-2016.md) `film` `(front-end) poltronando` `react toolbox` `picnic css` `articles socket.io javascript css_modules cli`
   - [Day 08](aug/08-08-2016.md)
   - [Day 09](aug/08-09-2016.md)
   - [Day 10](aug/08-10-2016.md)
