@@ -1,34 +1,33 @@
 # August
 
- - [Day 01](08-01-2016.md) `instagallery` `articles docker react`
- - [Day 02](08-02-2016.md) `pokestadium` `articles javascript angular` 
- - [Day 03](08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
- - [Day 04](08-04-2016.md) `my coding style` `published imhomovies` `es6` `articles css design svg jquery`
- - [Day 05](08-05-2016.md) `marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
- - [Day 06](08-06-2016.md) `poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` `greensock`
- - [Day 07](08-07-2016.md) `film` `poltronando` `react toolbox` `picnic css` `articles socket.io javascript css_modules cli` 
- - Day 7
- - Day 8
- - Day 9
- - Day 10
- - Day 11
- - Day 12
- - Day 13
- - Day 14
- - Day 15
- - Day 16
- - Day 17
- - Day 18
- - Day 19
- - Day 20
- - Day 21
- - Day 22
- - Day 23
- - Day 24
- - Day 25
- - Day 26
- - Day 27
- - Day 28
- - Day 29
- - Day 30
- - Day 31
+- [Day 01](08-01-2016.md) `instagallery` `articles docker react`
+- [Day 02](08-02-2016.md) `pokestadium` `articles javascript angular` 
+- [Day 03](08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
+- [Day 04](08-04-2016.md) `my coding style` `published imhomovies` `es6` `articles css design svg jquery`
+- [Day 05](08-05-2016.md) `marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
+- [Day 06](08-06-2016.md) `poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` `greensock`
+- [Day 07](08-07-2016.md) `film` `poltronando` `react toolbox` `picnic css` `articles socket.io javascript css_modules cli`
+- [Day 08](08-08-2016.md)
+- [Day 09](08-09-2016.md)
+- [Day 10](08-10-2016.md)
+- [Day 11](08-11-2016.md)
+- [Day 12](08-12-2016.md)
+- [Day 13](08-13-2016.md)
+- [Day 14](08-14-2016.md)
+- [Day 15](08-15-2016.md)
+- [Day 16](08-16-2016.md)
+- [Day 17](08-17-2016.md) 
+- [Day 18](08-18-2016.md)
+- [Day 19](08-19-2016.md)
+- [Day 20](08-20-2016.md)
+- [Day 21](08-21-2016.md)
+- [Day 22](08-22-2016.md)
+- [Day 23](08-23-2016.md)
+- [Day 24](08-24-2016.md)
+- [Day 25](08-25-2016.md)
+- [Day 26](08-26-2016.md)
+- [Day 27](08-27-2016.md)
+- [Day 28](08-28-2016.md)
+- [Day 29](08-29-2016.md)
+- [Day 30](08-30-2016.md)
+- [Day 31](08-31-2016.md)

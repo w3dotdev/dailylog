@@ -176,6 +176,30 @@
   - [Day 05](aug/08-05-2016.md) `marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
   - [Day 06](aug/08-06-2016.md) `poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` `greensock`
   - [Day 07](aug/08-07-2016.md) `film` `poltronando` `react toolbox` `picnic css` `articles socket.io javascript css_modules cli`
+  - [Day 08](aug/08-08-2016.md)
+  - [Day 09](aug/08-09-2016.md)
+  - [Day 10](aug/08-10-2016.md)
+  - [Day 11](aug/08-11-2016.md)
+  - [Day 12](aug/08-12-2016.md)
+  - [Day 13](aug/08-13-2016.md)
+  - [Day 14](aug/08-14-2016.md)
+  - [Day 15](aug/08-15-2016.md)
+  - [Day 16](aug/08-16-2016.md)
+  - [Day 17](aug/08-17-2016.md) 
+  - [Day 18](aug/08-18-2016.md)
+  - [Day 19](aug/08-19-2016.md)
+  - [Day 20](aug/08-20-2016.md)
+  - [Day 21](aug/08-21-2016.md)
+  - [Day 22](aug/08-22-2016.md)
+  - [Day 23](aug/08-23-2016.md)
+  - [Day 24](aug/08-24-2016.md)
+  - [Day 25](aug/08-25-2016.md)
+  - [Day 26](aug/08-26-2016.md)
+  - [Day 27](aug/08-27-2016.md)
+  - [Day 28](aug/08-28-2016.md)
+  - [Day 29](aug/08-29-2016.md)
+  - [Day 30](aug/08-30-2016.md)
+  - [Day 31](aug/08-31-2016.md)
  - September
  - October
  - November
