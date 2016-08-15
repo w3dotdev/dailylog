@@ -7,14 +7,14 @@
 - [Day 05](08-05-2016.md) `(front-end) marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
 - [Day 06](08-06-2016.md) `(front-end) poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` `greensock`
 - [Day 07](08-07-2016.md) `film` `(front-end) poltronando` `react toolbox` `picnic css` `articles socket.io javascript css_modules cli`
-- [Day 08](08-08-2016.md)
-- [Day 09](08-09-2016.md)
-- [Day 10](08-10-2016.md)
-- [Day 11](08-11-2016.md)
-- [Day 12](08-12-2016.md)
-- [Day 13](08-13-2016.md)
-- [Day 14](08-14-2016.md)
-- [Day 15](08-15-2016.md)
+- [Day 08](08-08-2016.md) `minimongo` `articles scss dropzone redux accessibility css react.js`
+- [Day 09](08-09-2016.md) `functional css` `articles http2 flexbox typescript flowtype styleguide react.js sublime_text freelancer` 
+- [Day 10](08-10-2016.md) `bluebirdjs` `articles vue.js node.js python_tests`
+- [Day 11](08-11-2016.md) ``
+- [Day 12](08-12-2016.md) ``
+- [Day 13](08-13-2016.md) ``
+- [Day 14](08-14-2016.md) ``
+- [Day 15](08-15-2016.md) ``
 - [Day 16](08-16-2016.md)
 - [Day 17](08-17-2016.md) 
 - [Day 18](08-18-2016.md)
