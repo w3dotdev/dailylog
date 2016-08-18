@@ -184,9 +184,9 @@
   - [Day 13](aug/08-13-2016.md) `film` `articles angular_react redux style_react.js`
   - [Day 14](aug/08-14-2016.md) `calisthenics` `haskell` `react native` `redux` `articles javascript react`
   - [Day 15](aug/08-15-2016.md) `jest` `svg extractor` `react router` `soundCloud client in react` `articles css javascript meteor`
-  - [Day 16](aug/08-16-2016.md)
-  - [Day 17](aug/08-17-2016.md) 
-  - [Day 18](aug/08-18-2016.md)
+  - [Day 16](aug/08-16-2016.md) `css eevee` `articles react forms redux gh-pages commits`
+  - [Day 17](aug/08-17-2016.md) `articles responsive cursor angular redux react typescript css`
+  - [Day 18](aug/08-18-2016.md) `calisthenics` `published imhomovies` `articles haskell_dockerfiles github api css react_redux`
   - [Day 19](aug/08-19-2016.md)
   - [Day 20](aug/08-20-2016.md)
   - [Day 21](aug/08-21-2016.md)
