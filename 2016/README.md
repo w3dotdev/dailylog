@@ -187,16 +187,16 @@
   - [Day 16](aug/08-16-2016.md) `css eevee` `articles react forms redux gh-pages commits`
   - [Day 17](aug/08-17-2016.md) `articles responsive cursor angular redux react typescript css`
   - [Day 18](aug/08-18-2016.md) `calisthenics` `published imhomovies` `articles haskell_dockerfiles github api css react_redux`
-  - [Day 19](aug/08-19-2016.md)
-  - [Day 20](aug/08-20-2016.md)
-  - [Day 21](aug/08-21-2016.md)
-  - [Day 22](aug/08-22-2016.md)
-  - [Day 23](aug/08-23-2016.md)
-  - [Day 24](aug/08-24-2016.md)
-  - [Day 25](aug/08-25-2016.md)
-  - [Day 26](aug/08-26-2016.md)
-  - [Day 27](aug/08-27-2016.md)
-  - [Day 28](aug/08-28-2016.md)
+  - [Day 19](aug/08-19-2016.md) `redux` `react` `articles react redux`
+  - [Day 20](aug/08-20-2016.md) `arduino` `raspberry pi` `articles arduino`
+  - [Day 21](aug/08-21-2016.md) `effectiveit` `marmiteria` `articles redux socket.io react redux`
+  - [Day 22](aug/08-22-2016.md) `articles web_apps ionic angular2 react javascript`
+  - [Day 23](aug/08-23-2016.md) `effectiveit` `articles javascript scaling_css angular react`
+  - [Day 24](aug/08-24-2016.md) `react` `benchmark_tool` `brunch` `haskell` `effectiveit` `articles audio_api javascript mvc_jquery_scrum node react`
+  - [Day 25](aug/08-25-2016.md) `marmiteria` `html5` `articles vue.js react_redux jest fullstack scss_sass`
+  - [Day 26](aug/08-26-2016.md) `riot.js` `articles css_animation svg husky github_pages hexo react_angular react`
+  - [Day 27](aug/08-27-2016.md) `braziljs` `arduino` `johnny-five` `nervermind` `gpaixao` `hackertyper` `johnny-five` `article postcss` 
+  - [Day 28](aug/08-28-2016.md) `mockaroo` `coding math` `web fundamentals` `articles service_worker arduino_node.js`
   - [Day 29](aug/08-29-2016.md)
   - [Day 30](aug/08-30-2016.md)
   - [Day 31](aug/08-31-2016.md)
