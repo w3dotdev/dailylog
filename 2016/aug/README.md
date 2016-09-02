@@ -28,6 +28,6 @@
 - [Day 26](08-26-2016.md) `riot.js` `articles css_animation svg husky github_pages hexo react_angular react`
 - [Day 27](08-27-2016.md) `braziljs` `arduino` `johnny-five` `nervermind` `gpaixao` `hackertyper` `johnny-five` `article postcss` 
 - [Day 28](08-28-2016.md) `mockaroo` `coding math` `web fundamentals` `articles service_worker arduino_node.js`
-- [Day 29](08-29-2016.md)
-- [Day 30](08-30-2016.md)
-- [Day 31](08-31-2016.md)
+- [Day 29](08-29-2016.md) `functional programming` `articles vue.js js_system_music javascript`
+- [Day 30](08-30-2016.md) `es6` `shell script` `articles css redux es2015 react_d3 webpack_react`
+- [Day 31](08-31-2016.md) `closure-compiler` `megaboilerplate` `js kenpo` `articles brasiljs svg gulp hapi.js javascript`

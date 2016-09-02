@@ -1,15 +1,16 @@
 # 2016
 
 ## Summary:
- - January
- - [February](feb/README.md)
+
+- January
+- [February](feb/README.md)
   - [Day 24](feb/02-24-2016.md) `(design) favela games` `lumen`
   - [Day 25](feb/02-25-2016.md) `(front-end) favela games` `films` `includePaths`
   - [Day 26](feb/02-26-2016.md) `(front-end) favela games` `fuller house`  `docker` 
   - [Day 27](feb/02-27-2016.md) `(front-end) favela games` `pickadate` `mask of 8 and 9 digits`
   - [Day 28](feb/02-28-2016.md) `(front-end) favela games` `oscar 2016`
   - [Day 29](feb/02-29-2016.md) `(front-end) favela games` `no electricity`
- - [March](mar/README.md)
+- [March](mar/README.md)
   - [Day 01](mar/03-01-2016.md) `(front-end) favela games` `no electricity`
   - [Day 02](mar/03-02-2016.md) `(front-end) favela games` `(front-end) effectiveit` `julia language`
   - [Day 03](mar/03-03-2016.md) `(front-end) favela games` `films` `heapsort`
@@ -41,7 +42,7 @@
   - [Day 29](mar/03-29-2016.md) `furniture mounting` `wamp` `ruby`
   - [Day 30](mar/03-30-2016.md) `ruby` `after effects`
   - [Day 31](mar/03-31-2016.md) `angular 2` `passport` `articles`
- - [April](apr/README.md)
+- [April](apr/README.md)
   - [Day 01](apr/04-01-2016.md) `film` `article published`
   - [Day 02](apr/04-02-2016.md) `film` `article published`
   - [Day 03](apr/04-03-2016.md) `ionic` `google play`
@@ -72,7 +73,7 @@
   - [Day 28](apr/04-28-2016.md) `prison break` `film` `passaport.js`
   - [Day 29](apr/04-29-2016.md) `prison break` `articles` `passaport.js`
   - [Day 30](apr/04-30-2016.md) `prison break` `projects`
- - [May](may/README.md)
+- [May](may/README.md)
   - [Day 01](may/05-01-2016.md) `prison break`
   - [Day 02](may/05-02-2016.md) `buffy` `projects` `published`
   - [Day 03](may/05-03-2016.md) `buffy` `published`
@@ -104,7 +105,7 @@
   - [Day 29](may/05-29-2016.md) `looking for a job` `php` `babun`
   - [Day 30](may/05-30-2016.md) `looking for a job` `docker`
   - [Day 31](may/05-31-2016.md) `looking for a job` `(front-end) marmiteria` `films` `angular` `published`
- - [June](jun/README.md)
+- [June](jun/README.md)
   - [Day 01](jun/06-01-2016.md) `looking for a job` `articles`
   - [Day 02](jun/06-02-2016.md) `looking for a job` `interview` `film` `published`
   - [Day 03](jun/06-03-2016.md) `looking for a job` `react native` `articles`
@@ -135,7 +136,7 @@
   - [Day 28](jun/06-28-2016.md) `looking for a job` `meliuz` `accessible dropdown menus`
   - [Day 29](jun/06-29-2016.md) `looking for a job` `meliuz` `articles` `php angularJS`
   - [Day 30](jun/06-30-2016.md) `looking for a job` `articles` `hemersonvianna.com`
- - [July](jul/README.md)
+- [July](jul/README.md)
   - [Day 01](jul/07-01-2016.md) `looking for a job` `articles` `anime.js` `javascript methods` `article the year that changed my life`
   - [Day 02](jul/07-02-2016.md) `looking for a job` `(front-end) marmiteria` `articles` `projects` `ionic2`
   - [Day 03](jul/07-03-2016.md) `looking for a job` `(front-end) marmiteria` `articles es6`
@@ -168,7 +169,7 @@
   - [Day 29](jul/07-29-2016.md) `golang` `isomorphic event` `react` `react native` `vim files` `articles promises node.js`
   - [Day 30](jul/07-30-2016.md) `pokemon go` `css validation` `articles styleguide frontend bem`  
   - [Day 31](jul/07-31-2016.md) `films`
- - [August](aug/README.md)
+- [August](aug/README.md)
   - [Day 01](aug/08-01-2016.md) `instagallery` `articles docker react`
   - [Day 02](aug/08-02-2016.md) `pokestadium` `articles javascript angular` 
   - [Day 03](aug/08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
@@ -197,10 +198,40 @@
   - [Day 26](aug/08-26-2016.md) `riot.js` `articles css_animation svg husky github_pages hexo react_angular react`
   - [Day 27](aug/08-27-2016.md) `braziljs` `arduino` `johnny-five` `nervermind` `gpaixao` `hackertyper` `johnny-five` `article postcss` 
   - [Day 28](aug/08-28-2016.md) `mockaroo` `coding math` `web fundamentals` `articles service_worker arduino_node.js`
-  - [Day 29](aug/08-29-2016.md)
-  - [Day 30](aug/08-30-2016.md)
-  - [Day 31](aug/08-31-2016.md)
- - September
- - October
- - November
- - December
+  - [Day 29](aug/08-29-2016.md) `functional programming` `articles vue.js js_system_music javascript`
+  - [Day 30](aug/08-30-2016.md) `es6` `shell script` `articles css redux es2015 react_d3 webpack_react`
+  - [Day 31](aug/08-31-2016.md) `closure-compiler` `megaboilerplate` `js kenpo` `articles brasiljs svg gulp hapi.js javascript`
+- [September](sep/README.md)
+  - [Day 1](sep/09-01-2016.md)
+  - [Day 2](sep/09-02-2016.md)
+  - [Day 3](sep/09-03-2016.md)
+  - [Day 4](sep/09-04-2016.md)
+  - [Day 5](sep/09-05-2016.md)
+  - [Day 6](sep/09-06-2016.md)
+  - [Day 7](sep/09-07-2016.md)
+  - [Day 8](sep/09-08-2016.md)
+  - [Day 9](sep/09-09-2016.md)
+  - [Day 10](sep/09-10-2016.md)
+  - [Day 11](sep/09-11-2016.md)
+  - [Day 12](sep/09-12-2016.md)
+  - [Day 13](sep/09-13-2016.md)
+  - [Day 14](sep/09-14-2016.md)
+  - [Day 15](sep/09-15-2016.md)
+  - [Day 16](sep/09-16-2016.md)
+  - [Day 17](sep/09-17-2016.md)
+  - [Day 18](sep/09-18-2016.md)
+  - [Day 19](sep/09-19-2016.md)
+  - [Day 20](sep/09-20-2016.md)
+  - [Day 21](sep/09-21-2016.md)
+  - [Day 22](sep/09-22-2016.md)
+  - [Day 23](sep/09-23-2016.md)
+  - [Day 24](sep/09-24-2016.md)
+  - [Day 25](sep/09-25-2016.md)
+  - [Day 26](sep/09-26-2016.md)
+  - [Day 27](sep/09-27-2016.md)
+  - [Day 28](sep/09-28-2016.md)
+  - [Day 29](sep/09-29-2016.md)
+  - [Day 30](sep/09-30-2016.md)
+- October
+- November
+- December
