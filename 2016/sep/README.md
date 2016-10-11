@@ -1,16 +1,16 @@
 # September
 
- - [Day 1](09-01-2016.md)
- - [Day 2](09-02-2016.md)
- - [Day 3](09-03-2016.md)
- - [Day 4](09-04-2016.md)
- - [Day 5](09-05-2016.md)
- - [Day 6](09-06-2016.md)
- - [Day 7](09-07-2016.md)
- - [Day 8](09-08-2016.md)
- - [Day 9](09-09-2016.md)
- - [Day 10](09-10-2016.md)
- - [Day 11](09-11-2016.md)
+ - [Day 1](09-01-2016.md) `react components` `machine learning` `articles docker nodejs color_pallete`  
+ - [Day 2](09-02-2016.md) `wordpress` `material design` `articles ux javascript material_design` 
+ - [Day 3](09-03-2016.md) `narcos` `lyef cli` `articles frontend microservices design`
+ - [Day 4](09-04-2016.md) `stranger things` `react jest` `svg` `articles javascript es6`
+ - [Day 5](09-05-2016.md) `articles design mobile_app ux data_tables`
+ - [Day 6](09-06-2016.md) `haskell` `css-in-javascript` `svg` `articles typography vue.js angular_2 vuex javascript`
+ - [Day 7](09-07-2016.md) `stack mean` `ux` `design vue.js service_workers`
+ - [Day 8](09-08-2016.md) `material icons` `material design` `sass` `articles material_design robots frontend_frameworks vue.js`
+ - [Day 9](09-09-2016.md) `react native` `mean` `functional programming` `articles seo material_vs_flat_design design angular_cli`
+ - [Day 10](09-10-2016.md) `mean` `postcss` `flexbox` `articles ux dashboard design charts javascript`
+ - [Day 11](09-11-2016.md) 
  - [Day 12](09-12-2016.md)
  - [Day 13](09-13-2016.md)
  - [Day 14](09-14-2016.md)
