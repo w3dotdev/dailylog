@@ -233,36 +233,66 @@
   - [Day 29](sep/09-29-2016.md) `css animations` `articles image_breakpoints_generator vue.js object_literal`
   - [Day 30](sep/09-30-2016.md) `web components` `react flexbox component` `articles ui ux`
 - October
-  - [Day 1](oct/10-01-2016.md)
-  - [Day 2](oct/10-02-2016.md)
-  - [Day 3](oct/10-03-2016.md)
-  - [Day 4](oct/10-04-2016.md)
-  - [Day 5](oct/10-05-2016.md)
-  - [Day 6](oct/10-06-2016.md)
-  - [Day 7](oct/10-07-2016.md)
-  - [Day 8](oct/10-08-2016.md)
-  - [Day 9](oct/10-09-2016.md)
-  - [Day 10](oct/10-10-2016.md)
-  - [Day 11](oct/10-11-2016.md)
-  - [Day 12](oct/10-12-2016.md)
-  - [Day 13](oct/10-13-2016.md)
-  - [Day 14](oct/10-14-2016.md)
-  - [Day 15](oct/10-15-2016.md)
-  - [Day 16](oct/10-16-2016.md)
-  - [Day 17](oct/10-17-2016.md)
-  - [Day 18](oct/10-18-2016.md)
-  - [Day 19](oct/10-19-2016.md)
-  - [Day 20](oct/10-20-2016.md)
-  - [Day 21](oct/10-21-2016.md)
-  - [Day 22](oct/10-22-2016.md)
-  - [Day 23](oct/10-23-2016.md)
-  - [Day 24](oct/10-24-2016.md)
-  - [Day 25](oct/10-25-2016.md)
-  - [Day 26](oct/10-26-2016.md)
-  - [Day 27](oct/10-27-2016.md)
-  - [Day 28](oct/10-28-2016.md)
-  - [Day 29](oct/10-29-2016.md)
-  - [Day 30](oct/10-30-2016.md)
-  - [Day 31](oct/10-31-2016.md)
+  - [Day 1](oct/11-01-2016.md) `film` `articles vue functional_programmer`
+  - [Day 2](oct/11-02-2016.md) `sass functions` `es6` `articles pwa web_app`
+  - [Day 3](oct/11-03-2016.md) `superhero.js` `screen sizes` `javascript tests` `articles web_app_perormance pwa_polymer js_app pwa`
+  - [Day 4](oct/11-04-2016.md) `elements of html` `css reference` `articles pwa ionic shell_architecture`
+  - [Day 5](oct/11-05-2016.md) `html cheat sheet` `sass guidelines` `jquery api reference` `articles pwa react ui`
+  - [Day 6](oct/11-06-2016.md) `flexbox cheat sheet` `web platform` `articles pwa angular2`
+  - [Day 7](oct/11-07-2016.md) `css properties` `all cheat sheets` `postcss` `articles pwa firebase react_redux vue.js frontend_guides ux`
+  - [Day 8](oct/11-08-2016.md) `prototyping tool` `native prototypes` `origami.js` `wireframe` `wireframing` `articles wireframing atomic ux css_locks css`
+  - [Day 9](oct/11-09-2016.md) `articles microservice pwa responsive_tables restful_api`
+  - [Day 10](oct/11-10-2016.md) `articles ux design css`
+  - [Day 11](oct/11-11-2016.md) `articles css web_design ux`
+  - [Day 12](oct/11-12-2016.md) `articles rest mobile mvc redux javascript tabs_v_spaces`
+  - [Day 13](oct/11-13-2016.md) `articles ui ux vue.js node.js babel.js react_router eslint`
+  - [Day 14](oct/11-14-2016.md) `articles web_development_list angular2 schema`
+  - [Day 15](oct/11-15-2016.md) `articles css_image design ux ui virtual_dom es6 vue.js`
+  - [Day 16](oct/11-16-2016.md) `articles ui css_react react_redux angular2 redux vue.js`
+  - [Day 17](oct/11-17-2016.md) `articles node.js angular2 elm audio_html5 elm`
+  - [Day 18](oct/11-18-2016.md) `articles react ux functional_programming redux react_flux socket.io javascript`
+  - [Day 19](oct/11-19-2016.md) `articles ui yarn_npm ux design`
+  - [Day 20](oct/11-20-2016.md) `react/node application platform` `articles seo_vs_react icons design ux`
+  - [Day 21](oct/11-21-2016.md) `css battery` `vibration patterns in javascript` `articles ux design reptar angular2`
+  - [Day 22](oct/11-22-2016.md) `slack clone` `react starter kit - atomic design` `articles slack_clone javascript react_router`
+  - [Day 23](oct/11-23-2016.md) `search input` `php course` `elm` `talks pagar.me` `articles scroll_animations react javascript`
+  - [Day 24](oct/11-24-2016.md) `pure text - inline loading` `node.js passport` `articles normalize_no_more flexbox react saas node.js`
+  - [Day 25](oct/11-25-2016.md) `cdyhouse` `articles redux elixir react_redux crud_haskell_elm`
+  - [Day 26](oct/11-26-2016.md) `redux-related addons` `articles elm redux es6 react tdd`
+  - [Day 27](oct/11-27-2016.md) `minimalistic framework` `articles node.js intagram_clone angular2 javascript`
+  - [Day 28](oct/11-28-2016.md) `real time chat - node.js` `articles node.js passport.js`
+  - [Day 29](oct/11-29-2016.md) `tetris pwa` `articles redux_witout_react es6 typescript elm ux`
+  - [Day 30](oct/11-30-2016.md) `film` `articles javascript ui ux react api`
+  - [Day 31](oct/11-31-2016.md) `kraken.js` `articles pagination.js css kraken.js react node.js`
 - November
+  - [Day 1](nov/11-01-2016.md)
+  - [Day 2](nov/11-02-2016.md)
+  - [Day 3](nov/11-03-2016.md)
+  - [Day 4](nov/11-04-2016.md)
+  - [Day 5](nov/11-05-2016.md)
+  - [Day 6](nov/11-06-2016.md)
+  - [Day 7](nov/11-07-2016.md)
+  - [Day 8](nov/11-08-2016.md)
+  - [Day 9](nov/11-09-2016.md)
+  - [Day 10](nov/11-10-2016.md)
+  - [Day 11](nov/11-11-2016.md)
+  - [Day 12](nov/11-12-2016.md)
+  - [Day 13](nov/11-13-2016.md)
+  - [Day 14](nov/11-14-2016.md)
+  - [Day 15](nov/11-15-2016.md)
+  - [Day 16](nov/11-16-2016.md)
+  - [Day 17](nov/11-17-2016.md)
+  - [Day 18](nov/11-18-2016.md)
+  - [Day 19](nov/11-19-2016.md)
+  - [Day 20](nov/11-20-2016.md)
+  - [Day 21](nov/11-21-2016.md)
+  - [Day 22](nov/11-22-2016.md)
+  - [Day 23](nov/11-23-2016.md)
+  - [Day 24](nov/11-24-2016.md)
+  - [Day 25](nov/11-25-2016.md)
+  - [Day 26](nov/11-26-2016.md)
+  - [Day 27](nov/11-27-2016.md)
+  - [Day 28](nov/11-28-2016.md)
+  - [Day 29](nov/11-29-2016.md)
+  - [Day 30](nov/11-30-2016.md)
 - December
