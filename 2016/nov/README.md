@@ -1,32 +1,32 @@
 # November
 
-- [Day 1](11-01-2016.md)
-- [Day 2](11-02-2016.md)
-- [Day 3](11-03-2016.md)
-- [Day 4](11-04-2016.md)
-- [Day 5](11-05-2016.md)
-- [Day 6](11-06-2016.md)
-- [Day 7](11-07-2016.md)
-- [Day 8](11-08-2016.md)
-- [Day 9](11-09-2016.md)
-- [Day 10](11-10-2016.md)
-- [Day 11](11-11-2016.md)
-- [Day 12](11-12-2016.md)
-- [Day 13](11-13-2016.md)
-- [Day 14](11-14-2016.md)
-- [Day 15](11-15-2016.md)
-- [Day 16](11-16-2016.md)
-- [Day 17](11-17-2016.md)
-- [Day 18](11-18-2016.md)
-- [Day 19](11-19-2016.md)
-- [Day 20](11-20-2016.md)
-- [Day 21](11-21-2016.md)
-- [Day 22](11-22-2016.md)
-- [Day 23](11-23-2016.md)
-- [Day 24](11-24-2016.md)
-- [Day 25](11-25-2016.md)
-- [Day 26](11-26-2016.md)
-- [Day 27](11-27-2016.md)
-- [Day 28](11-28-2016.md)
-- [Day 29](11-29-2016.md)
-- [Day 30](11-30-2016.md)
+- [Day 1](11-01-2016.md) `lodash` `functional javascript` `elm` `articles es6 eslit redux ui javascript`
+- [Day 2](11-02-2016.md) `articles html5 react redux babylon.js react restful breadcrumb`
+- [Day 3](11-03-2016.md) `articles react redux go echo vue.js sails.js`
+- [Day 4](11-04-2016.md) `articles app css_counters react redux`
+- [Day 5](11-05-2016.md) `articles html5 node.js docker`
+- [Day 6](11-06-2016.md) `articles node.js javascript electron node.js aws_lambda bcrypt`
+- [Day 7](11-07-2016.md) `articles node.js electrode`
+- [Day 8](11-08-2016.md) `react` `articles json yaml bson message_pack css node.js`
+- [Day 9](11-09-2016.md) `umbrella` `modular javascript` `es6` `articles full_stack_rails css postcss es6`
+- [Day 10](11-10-2016.md) `articles design vue.js ux mocha docker`
+- [Day 11](11-11-2016.md) `articles svg react react_native es6 restful_api`
+- [Day 12](11-12-2016.md) `film` `articles node.js passport.js postgre tdd`
+- [Day 13](11-13-2016.md) `articles css vue.js design`
+- [Day 14](11-14-2016.md) `articles functional_programming_js pure_functions currying map_filter_reduce`
+- [Day 15](11-15-2016.md) `articles react vue.js javascript elm es6`
+- [Day 16](11-16-2016.md) `realm` `articles functional_programming_js webpack realm node.js mock_api`
+- [Day 17](11-17-2016.md) `mimosa.js` `broccoli.js` `universal module loader` `articles javascript functional_programming_js seo`
+- [Day 18](11-18-2016.md) `vue.js` `redux` `articles next.js css jest tjson`
+- [Day 19](11-19-2016.md) `webpack` `vue.js` `material components` `articles reactive_ui_framework pwa redux react eslint`
+- [Day 20](11-20-2016.md) `react` `redux` `articles react redux angular2`
+- [Day 21](11-21-2016.md) `html5` `css` `articles react redux javascript`
+- [Day 22](11-22-2016.md) `css` `react table for bootstrap` `articles tdd react javascript`
+- [Day 23](11-23-2016.md) `image carousel` `redux` `golang` `articles jest react storybook react_test`
+- [Day 24](11-24-2016.md) `react` `boilerplate` `articles react ezyme mocha chai react_components`
+- [Day 25](11-25-2016.md) `flux` `react` `es7` `articles react`
+- [Day 26](11-26-2016.md) `svg` `react` `articles javascript`
+- [Day 27](11-27-2016.md) `react component` `articles css react redux jwt webpack flexbox`
+- [Day 28](11-28-2016.md) `articles mo.js angular2 sass react svg redux frontend_testing`
+- [Day 29](11-29-2016.md) `articles css redux emmet`
+- [Day 30](11-30-2016.md) `redux` `articles redux storybook redux reduce`

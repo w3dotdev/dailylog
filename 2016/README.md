@@ -6,7 +6,7 @@
 - [February](feb/README.md)
   - [Day 24](feb/02-24-2016.md) `(design) favela games` `lumen`
   - [Day 25](feb/02-25-2016.md) `(front-end) favela games` `films` `includePaths`
-  - [Day 26](feb/02-26-2016.md) `(front-end) favela games` `fuller house`  `docker` 
+  - [Day 26](feb/02-26-2016.md) `(front-end) favela games` `fuller house`  `docker`
   - [Day 27](feb/02-27-2016.md) `(front-end) favela games` `pickadate` `mask of 8 and 9 digits`
   - [Day 28](feb/02-28-2016.md) `(front-end) favela games` `oscar 2016`
   - [Day 29](feb/02-29-2016.md) `(front-end) favela games` `no electricity`
@@ -123,7 +123,7 @@
   - [Day 15](jun/06-15-2016.md) `looking for a job` `film` `published`
   - [Day 16](jun/06-16-2016.md) `looking for a job` `articles` `react.js` `js funcional`
   - [Day 17](jun/06-17-2016.md) `looking for a job` `(front-end) marmiteria` `orange is the new black` `articles`
-  - [Day 18](jun/06-18-2016.md) `looking for a job` `articles` `docker` 
+  - [Day 18](jun/06-18-2016.md) `looking for a job` `articles` `docker`
   - [Day 19](jun/06-19-2016.md) `looking for a job` `articles` `redux` `eloquent js` `logueria`
   - [Day 20](jun/06-20-2016.md) `looking for a job` `articles` `blisk` `logueria`
   - [Day 21](jun/06-21-2016.md) `looking for a job` `react.js` `meliuz`
@@ -164,21 +164,21 @@
   - [Day 25](jul/07-25-2016.md) `game javascript and ai` `puzzle game` `simple gallery js` `articles frameworks js`
   - [Day 26](jul/07-26-2016.md) `js prototypal oo` `react-native` `react and redux` `articles node.js react redux webpack http2`
   - [Day 27](jul/07-27-2016.md) `mean` `isomorphic react` `react and redux` `articles node.js react redux electron es6`
-  - [Day 28](jul/07-28-2016.md) `biiirl` `play ionic` `angular 2` `netlify` `articles css_modules react_native 
+  - [Day 28](jul/07-28-2016.md) `biiirl` `play ionic` `angular 2` `netlify` `articles css_modules react_native
   javascript`
   - [Day 29](jul/07-29-2016.md) `golang` `isomorphic event` `react` `react native` `vim files` `articles promises node.js`
   - [Day 30](jul/07-30-2016.md) `pokemon go` `css validation` `articles styleguide frontend bem`  
   - [Day 31](jul/07-31-2016.md) `films`
 - [August](aug/README.md)
   - [Day 01](aug/08-01-2016.md) `instagallery` `articles docker react`
-  - [Day 02](aug/08-02-2016.md) `pokestadium` `articles javascript angular` 
+  - [Day 02](aug/08-02-2016.md) `pokestadium` `articles javascript angular`
   - [Day 03](aug/08-03-2016.md) `film suicide squad` `english` `articles css svg accessible_ui`
   - [Day 04](aug/08-04-2016.md) `my coding style` `published imhomovies` `es6` `articles css design svg jquery`
   - [Day 05](aug/08-05-2016.md) `(front-end) marmiteria` `article go` `calisthenics` `published imhomovies` `es6 videos` `react` `javascript` `open source`
   - [Day 06](aug/08-06-2016.md) `(front-end) poltronando` `golang` `published imhomovies` `articles css_modules angular laravel_javascript go selenium` `greensock`
   - [Day 07](aug/08-07-2016.md) `film` `(front-end) poltronando` `react toolbox` `picnic css` `articles socket.io javascript css_modules cli`
   - [Day 08](aug/08-08-2016.md) `minimongo` `articles scss dropzone redux accessibility css react.js`
-  - [Day 09](aug/08-09-2016.md) `functional css` `articles http2 flexbox typescript flowtype styleguide react.js sublime_text freelancer` 
+  - [Day 09](aug/08-09-2016.md) `functional css` `articles http2 flexbox typescript flowtype styleguide react.js sublime_text freelancer`
   - [Day 10](aug/08-10-2016.md) `bluebirdjs` `articles vue.js node.js python_tests`
   - [Day 11](aug/08-11-2016.md) `pokeball css` `pure css olympic rings` `poo theory` `articles sass charts react_firebase accessibility_testing react_itcss`
   - [Day 12](aug/08-12-2016.md) `jsx without react.js` `articles css_modules sass_styleguide react.js_patterns`
@@ -196,14 +196,14 @@
   - [Day 24](aug/08-24-2016.md) `react` `benchmark_tool` `brunch` `haskell` `effectiveit` `articles audio_api javascript mvc_jquery_scrum node react`
   - [Day 25](aug/08-25-2016.md) `marmiteria` `html5` `articles vue.js react_redux jest fullstack scss_sass`
   - [Day 26](aug/08-26-2016.md) `riot.js` `articles css_animation svg husky github_pages hexo react_angular react`
-  - [Day 27](aug/08-27-2016.md) `braziljs` `arduino` `johnny-five` `nervermind` `gpaixao` `hackertyper` `johnny-five` `article postcss` 
+  - [Day 27](aug/08-27-2016.md) `braziljs` `arduino` `johnny-five` `nervermind` `gpaixao` `hackertyper` `johnny-five` `article postcss`
   - [Day 28](aug/08-28-2016.md) `mockaroo` `coding math` `web fundamentals` `articles service_worker arduino_node.js`
   - [Day 29](aug/08-29-2016.md) `functional programming` `articles vue.js js_system_music javascript`
   - [Day 30](aug/08-30-2016.md) `es6` `shell script` `articles css redux es2015 react_d3 webpack_react`
   - [Day 31](aug/08-31-2016.md) `closure-compiler` `megaboilerplate` `js kenpo` `articles brasiljs svg gulp hapi.js javascript`
 - [September](sep/README.md)
   - [Day 1](sep/09-01-2016.md) `react components` `machine learning` `articles docker nodejs color_pallete`  
-  - [Day 2](sep/09-02-2016.md) `wordpress` `material design` `articles ux javascript material_design` 
+  - [Day 2](sep/09-02-2016.md) `wordpress` `material design` `articles ux javascript material_design`
   - [Day 3](sep/09-03-2016.md) `narcos` `lyef cli` `articles frontend microservices design`
   - [Day 4](sep/09-04-2016.md) `stranger things` `react jest` `svg` `articles javascript es6`
   - [Day 5](sep/09-05-2016.md) `articles design mobile_app ux data_tables`
@@ -219,7 +219,7 @@
   - [Day 15](sep/09-15-2016.md) `monospaced font` `articles fira_code firebase material_design_ionic tdd`
   - [Day 16](sep/09-16-2016.md) `articles ux react.js flexbox css react_native fira_code`
   - [Day 17](sep/09-17-2016.md) `articles ui ux svg_maps machine_learning`
-  - [Day 18](sep/09-18-2016.md) `films` `phoenix react redux` `eve pure css` `css` `electron` `node.js` `articles chatbot design vue.js functional_programmer img oop elm laravel` 
+  - [Day 18](sep/09-18-2016.md) `films` `phoenix react redux` `eve pure css` `css` `electron` `node.js` `articles chatbot design vue.js functional_programmer img oop elm laravel`
   - [Day 19](sep/09-19-2016.md) `react.js` `articles data_tables css_modules material_design electron`
   - [Day 20](sep/09-20-2016.md) `flux` `articles css react_game_kit ux node.js_docker`
   - [Day 21](sep/09-21-2016.md) `articles mobile_apps vue.js_2 es6`
@@ -265,34 +265,34 @@
   - [Day 30](oct/11-30-2016.md) `film` `articles javascript ui ux react api`
   - [Day 31](oct/11-31-2016.md) `kraken.js` `articles pagination.js css kraken.js react node.js`
 - November
-  - [Day 1](nov/11-01-2016.md)
-  - [Day 2](nov/11-02-2016.md)
-  - [Day 3](nov/11-03-2016.md)
-  - [Day 4](nov/11-04-2016.md)
-  - [Day 5](nov/11-05-2016.md)
-  - [Day 6](nov/11-06-2016.md)
-  - [Day 7](nov/11-07-2016.md)
-  - [Day 8](nov/11-08-2016.md)
-  - [Day 9](nov/11-09-2016.md)
-  - [Day 10](nov/11-10-2016.md)
-  - [Day 11](nov/11-11-2016.md)
-  - [Day 12](nov/11-12-2016.md)
-  - [Day 13](nov/11-13-2016.md)
-  - [Day 14](nov/11-14-2016.md)
-  - [Day 15](nov/11-15-2016.md)
-  - [Day 16](nov/11-16-2016.md)
-  - [Day 17](nov/11-17-2016.md)
-  - [Day 18](nov/11-18-2016.md)
-  - [Day 19](nov/11-19-2016.md)
-  - [Day 20](nov/11-20-2016.md)
-  - [Day 21](nov/11-21-2016.md)
-  - [Day 22](nov/11-22-2016.md)
-  - [Day 23](nov/11-23-2016.md)
-  - [Day 24](nov/11-24-2016.md)
-  - [Day 25](nov/11-25-2016.md)
-  - [Day 26](nov/11-26-2016.md)
-  - [Day 27](nov/11-27-2016.md)
-  - [Day 28](nov/11-28-2016.md)
-  - [Day 29](nov/11-29-2016.md)
-  - [Day 30](nov/11-30-2016.md)
+  - [Day 1](nov/11-01-2016.md) `lodash` `functional javascript` `elm` `articles es6 eslit redux ui javascript`
+  - [Day 2](nov/11-02-2016.md) `articles html5 react redux babylon.js react restful breadcrumb`
+  - [Day 3](nov/11-03-2016.md) `articles react redux go echo vue.js sails.js`
+  - [Day 4](nov/11-04-2016.md) `articles app css_counters react redux`
+  - [Day 5](nov/11-05-2016.md) `articles html5 node.js docker`
+  - [Day 6](nov/11-06-2016.md) `articles node.js javascript electron node.js aws_lambda bcrypt`
+  - [Day 7](nov/11-07-2016.md) `articles node.js electrode`
+  - [Day 8](nov/11-08-2016.md) `react` `articles json yaml bson message_pack css node.js`
+  - [Day 9](nov/11-09-2016.md) `umbrella` `modular javascript` `es6` `articles full_stack_rails css postcss es6`
+  - [Day 10](nov/11-10-2016.md) `articles design vue.js ux mocha docker`
+  - [Day 11](nov/11-11-2016.md) `articles svg react react_native es6 restful_api`
+  - [Day 12](nov/11-12-2016.md) `film` `articles node.js passport.js postgre tdd`
+  - [Day 13](nov/11-13-2016.md) `articles css vue.js design`
+  - [Day 14](nov/11-14-2016.md) `articles functional_programming_js pure_functions currying map_filter_reduce`
+  - [Day 15](nov/11-15-2016.md) `articles react vue.js javascript elm es6`
+  - [Day 16](nov/11-16-2016.md) `realm` `articles functional_programming_js webpack realm node.js mock_api`
+  - [Day 17](nov/11-17-2016.md) `mimosa.js` `broccoli.js` `universal module loader` `articles javascript functional_programming_js seo`
+  - [Day 18](nov/11-18-2016.md) `vue.js` `redux` `articles next.js css jest tjson`
+  - [Day 19](nov/11-19-2016.md) `webpack` `vue.js` `material components` `articles reactive_ui_framework pwa redux react eslint`
+  - [Day 20](nov/11-20-2016.md) `react` `redux` `articles react redux angular2`
+  - [Day 21](nov/11-21-2016.md) `html5` `css` `articles react redux javascript`
+  - [Day 22](nov/11-22-2016.md) `css` `react table for bootstrap` `articles tdd react javascript`
+  - [Day 23](nov/11-23-2016.md) `image carousel` `redux` `golang` `articles jest react storybook react_test`
+  - [Day 24](nov/11-24-2016.md) `react` `boilerplate` `articles react ezyme mocha chai react_components`
+  - [Day 25](nov/11-25-2016.md) `flux` `react` `es7` `articles react`
+  - [Day 26](nov/11-26-2016.md) `svg` `react` `articles javascript`
+  - [Day 27](nov/11-27-2016.md) `react component` `articles css react redux jwt webpack flexbox`
+  - [Day 28](nov/11-28-2016.md) `articles mo.js angular2 sass react svg redux frontend_testing`
+  - [Day 29](nov/11-29-2016.md) `articles css redux emmet`
+  - [Day 30](nov/11-30-2016.md) `redux` `articles redux storybook redux reduce`
 - December
