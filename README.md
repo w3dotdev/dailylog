@@ -8,8 +8,10 @@
 The idea is to just record the things I guess relevant. So, I will not put you cook, watch TV and stuff of routine. Maybe even some things are not recorded as a matter of forgetfulness.
 
 ## Summary:
-  - [2016](2016/)
-  
+
+- [2016](2016/)
+- [2017](2017/)
+
 ## Categories:
 
 - Article - Articles read
@@ -30,7 +32,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 
 ## References
 
-  - [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog)
+- [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog)
 
 ## License
 
