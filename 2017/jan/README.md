@@ -1,33 +1,32 @@
 # January
 
-- [Day 1](01-01-2017.md)
-- [Day 2](01-02-2017.md)
-- [Day 3](01-03-2017.md)
-- [Day 4](01-04-2017.md)
-- [Day 5](01-05-2017.md)
-- [Day 6](01-06-2017.md)
-- [Day 7](01-07-2017.md)
-- [Day 8](01-08-2017.md)
-- [Day 9](01-09-2017.md)
-- [Day 10](01-10-2017.md)
-- [Day 11](01-11-2017.md)
-- [Day 12](01-01-2017.md)
-- [Day 13](01-13-2017.md)
-- [Day 14](01-14-2017.md)
-- [Day 15](01-15-2017.md)
-- [Day 16](01-16-2017.md)
-- [Day 17](01-17-2017.md)
-- [Day 18](01-18-2017.md)
-- [Day 19](01-19-2017.md)
-- [Day 20](01-20-2017.md)
-- [Day 21](01-21-2017.md)
-- [Day 22](01-22-2017.md)
-- [Day 23](01-23-2017.md)
-- [Day 24](01-24-2017.md)
-- [Day 25](01-25-2017.md)
-- [Day 26](01-26-2017.md)
-- [Day 27](01-27-2017.md)
-- [Day 28](01-28-2017.md)
-- [Day 29](01-29-2017.md)
-- [Day 30](01-30-2017.md)
-- [Day 31](01-31-2017.md)
+- [Day 1](01-01-2017.md) `node` `react-native` `mobile-friendly`
+- [Day 2](01-02-2017.md) `restful api` `node` `frontend`
+- [Day 3](01-03-2017.md) `golang` `api` `fullstack`
+- [Day 4](01-04-2017.md) `vanillajs` `firebase` `tdd` `clean code`
+- [Day 5](01-05-2017.md) `setState` `jest` `enzyme` `redux`
+- [Day 6](01-06-2017.md) `react-native` `clan css` `react`
+- [Day 7](01-07-2017.md) `elixir` `react` `expressjs` `grumpy` `node`
+- [Day 8](01-08-2017.md) `golang`
+- [Day 9](01-09-2017.md) `node` `golang`
+- [Day 10](01-10-2017.md) `docker` `golang`
+- [Day 11](01-11-2017.md) `react-redux` `rest` `react`
+- [Day 12](01-12-2017.md) `react--instagram` `react` `webpack`
+- [Day 13](01-13-2017.md) `react-native` `react` `css modules`
+- [Day 14](01-14-2017.md) `react` `elm` `javascript` `golang`
+- [Day 15](01-15-2017.md) `react-native` `react` `redux` `react-router`
+- [Day 16](01-16-2017.md) `ripple` `react-native` `react-router` `redux-thunk` `redux`
+- [Day 17](01-17-2017.md) `react` `react-native` `vim` `eslint`
+- [Day 18](01-18-2017.md) `react-router` `react-native` `react` `rails` `redux`
+- [Day 19](01-19-2017.md) `react` `javascript` `react-native` `css`
+- [Day 20](01-20-2017.md) `redux` `react`
+- [Day 21](01-21-2017.md) `react-native` `redux`
+- [Day 22](01-22-2017.md) `styled-components` `python` `react` `vue` `react-native`
+- [Day 23](01-23-2017.md) `redux` `react`
+- [Day 24](01-24-2017.md) `react` `redux`
+- [Day 25](01-25-2017.md) `javascript` `react-native` `flux` `redux`
+- [Day 26](01-26-2017.md) `react` `youtube api` `preact` `vue` `marko`
+- [Day 27](01-27-2017.md) `react` `redux` `javascript` `elixir`
+- [Day 28](01-28-2017.md) `react` `functional` `immutable` `elixir` 
+- [Day 29](01-29-2017.md) `react` `feathers` `es6`
+- [Day 30](01-30-2017.md) `react` `jest` `es5 es6` `elixir` `elm`
