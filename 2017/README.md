@@ -36,8 +36,8 @@
 
 - September
 
-  - [Day 18](sep/09-18-2017.md)
-  - [Day 19](sep/09-19-2017.md)
+  - [Day 18](sep/09-18-2017.md) `react` `redux` `reselect` `redial`
+  - [Day 19](sep/09-19-2017.md) `immutable`
   - [Day 20](sep/09-20-2017.md)
   - [Day 21](sep/09-21-2017.md)
   - [Day 22](sep/09-22-2017.md)
