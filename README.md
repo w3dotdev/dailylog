@@ -11,6 +11,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 
 - [2016](2016/)
 - [2017](2017/)
+- [2020](2020/)
 
 ## Categories:
 
