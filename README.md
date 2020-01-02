@@ -28,6 +28,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - Podcast - Digital audio on web development
 - Project - Projects that I wiggled
 - Published - Published articles
+- Social - Social media posts
 - Study - Studies on certain subjects
 - Watch - Videos watched
 
