@@ -32,6 +32,14 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - Study - Studies on certain subjects
 - Watch - Videos watched
 
+## Flags
+
+- `ig` - Instagram
+- `yt` - Youtube
+- `nf` - Netflix
+- `ws` - Website
+- `gh` - Github
+
 ## References
 
 - [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog)
