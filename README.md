@@ -13,32 +13,40 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - [2017](2017/)
 - [2020](2020/)
 
+## Lists
+
+- [Movies/Series - Diary](https://letterboxd.com/hemersonvianna/films/diary/)
+
 ## Categories:
 
-- Article - Articles read
-- Book - Books read
-- Calisthenics - Conducted training
-- Favorite - Projects or ideas that I liked
-- Film - Watched Movies
-- Freelance - Work carried out as a freelancer
-- Game - Games played
-- General - Things in general
-- Install - Installed programs
-- Language - Languages studied
-- Podcast - Digital audio on web development
-- Project - Projects that I wiggled
-- Published - Published articles
-- Social - Social media posts
-- Study - Studies on certain subjects
-- Watch - Videos watched
+- `ar` - **Article** - Articles read
+- `bk` - **Book** - Books read
+- `cl` - **Calisthenics** - Conducted training
+- `fv` - **Favorite** - Projects or ideas that I liked
+- `fl` - **Film** - Watched Movies (movie theater)
+- `fr` - **Freelance** - Work carried out as a freelancer
+- `gm` - **Game** - Games played
+- `gn` - **General** - Things in general
+- `in` - **Install** - Installed programs
+- `lg` - **Language** - Languages studied
+- `pc` - **Podcast** - Digital audio on web development
+- `gh` - **Project** - Projects that I wiggled
+- `pb` - **Published** - Published articles
+- `sc` - **Social** - Social media posts
+- `st` - **Study** - Studies on certain subjects
+- `wt` - **Watch** - Videos watched
 
-## Flags
+## Subcategories
 
 - `ig` - Instagram
 - `yt` - Youtube
 - `nf` - Netflix
 - `ws` - Website
 - `gh` - Github
+
+## Emoji
+
+- [Gist](https://gist.github.com/hemersonvianna/d88600176424b10bf79f84d08990a397)
 
 ## References
 
