@@ -1,10 +1,12 @@
 # January
 
 - [Day 1](01-01-2020.md) | :bookmark_tabs: **planning**
-  - **wt-yt** `por que sua vida não vai mudar?`
+  - **wt-yt** `Por que sua vida não vai mudar?`
 - [Day 2](01-02-2020.md) | :bookmark_tabs: **planning**
-  - **sc-ig** `b&a keanu reeves` | **wt-yt** `Tomb Raider - A origem`
+  - **sc-ig** `B&A keanu reeves` | **wt-yt** `Tomb Raider - A origem`
 - [Day 3](01-03-2020.md) | :bookmark_tabs: **planning**
-  - **sc-ig** `playlist - italy #3` | **wt-nf** `Mr. Right` | **in** `FL Studio`
+  - **sc-ig** `Playlist - italy #3` | **wt-nf** `Mr. Right` | **in** `FL Studio`
 - [Day 4](01-04-2020.md) | :bookmark_tabs: **planning**
-  - **wt-nf** `Dracula Season 1` | **cl** `Biceps`
+  - **wt-nf** `Dracula - Season 1` | **cl** `Biceps`
+- [Day 5](01-05-2020.md) | :bookmark_tabs: **planning**
+  - **wt-nf** `Messiah - Season 1` - **pj** `React SSR/SPA`

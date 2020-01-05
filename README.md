@@ -30,7 +30,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `in` - **Install** - Installed programs
 - `lg` - **Language** - Languages studied
 - `pc` - **Podcast** - Digital audio on web development
-- `gh` - **Project** - Projects that I wiggled
+- `pj` - **Project** - Projects that I wiggled
 - `pb` - **Published** - Published articles
 - `sc` - **Social** - Social media posts
 - `st` - **Study** - Studies on certain subjects
