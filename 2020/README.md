@@ -13,3 +13,5 @@
     - **wt-nf** `Dracula - Season 1` | **cl** `Biceps`
   - [Day 5](jan/01-05-2020.md) | :bookmark_tabs: **planning**
     - **wt-nf** `Messiah - Season 1` - **pj** `React SSR/SPA`
+  - [Day 6](jan/01-06-2020.md) | :microscope: **togakure - tooltip**
+    - **wt-nf** `Logan Lucky` | **wt-pv** `The Aeronauts` `The Report`

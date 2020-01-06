@@ -41,6 +41,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `ig` - Instagram
 - `yt` - Youtube
 - `nf` - Netflix
+- `pv` - Prime Video
 - `ws` - Website
 - `gh` - Github
 
