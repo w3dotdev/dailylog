@@ -15,7 +15,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 
 ## Lists
 
-- [Movies/Series - Diary](https://letterboxd.com/hemersonvianna/films/diary/)
+- [Movies Diary](https://letterboxd.com/hemersonvianna/films/diary/)
 
 ## Categories:
 
