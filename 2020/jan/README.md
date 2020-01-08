@@ -12,3 +12,7 @@
   - **wt-nf** `Messiah - Season 1` - **pj** `React SSR/SPA`
 - [Day 6](01-06-2020.md) | :microscope: **togakure - tooltip**
   - **wt-nf** `Logan Lucky` | **wt-pv** `The Aeronauts` `The Report`
+- [Day 7](01-07-2020.md) | :microscope: **togakure - tooltip**
+  - **sc-ig** **sc-yt** `Estreias no cinema - 01.09.2020` **wt-pv** `Elementary - Season 6`
+- [Day 8](01-08-2020.md) | :microscope: **togakure - tooltip**
+  - **wt-pv** `Elementary - Season 6` `Elementary - Season 7`
