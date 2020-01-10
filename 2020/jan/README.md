@@ -3,21 +3,30 @@
 - [Day 01](01-01-2020.md) | :bookmark_tabs: **planning**
   - **wt-yt** `Por que sua vida não vai mudar?`
 - [Day 02](01-02-2020.md) | :bookmark_tabs: **planning**
-  - **sc-ig** `B&A keanu reeves` | **wt-yt** `Tomb Raider - A origem`
+  - **sc-ig** `B&A keanu reeves`
+  - **wt-yt** `Tomb Raider - A origem`
 - [Day 03](01-03-2020.md) | :bookmark_tabs: **planning**
-  - **sc-ig** `Playlist - italy #3` | **wt-nf** `Mr. Right` | **in** `FL Studio`
+  - **sc-ig** `Playlist - italy #3`
+  - **wt-nf** `Mr. Right`
+  - **in** `FL Studio`
 - [Day 04](01-04-2020.md) | :bookmark_tabs: **planning**
-  - **wt-nf** `Dracula - Season 1` | **cl** `Biceps`
+  - **wt-nf** `Dracula - Season 1`
+  - **cl** `Biceps`
 - [Day 05](01-05-2020.md) | :bookmark_tabs: **planning**
-  - **wt-nf** `Messiah - Season 1` - **pj** `React SSR/SPA`
+  - **wt-nf** `Messiah - Season 1`
+  - **pj** `React SSR/SPA`
 - [Day 06](01-06-2020.md) | :microscope: **togakure - tooltip**
-  - **wt-nf** `Logan Lucky` | **wt-pv** `The Aeronauts` `The Report`
+  - **wt-nf** `Logan Lucky`
+  - **wt-pv** `The Aeronauts` `The Report`
 - [Day 07](01-07-2020.md) | :microscope: **togakure - tooltip**
-  - **sc-ig** **sc-yt** `Estreias no cinema - 01.09.2020` **wt-pv** `Elementary - Season 6`
+  - **sc-ig** **sc-yt** `Estreias no cinema - 01.09.2020`
+  - **wt-pv** `Elementary - Season 6`
 - [Day 08](01-08-2020.md) | :microscope: **togakure - tooltip**
   - **wt-pv** `Elementary - Season 6` `Elementary - Season 7`
 - [Day 09](01-09-2020.md) | :microscope: **togakure - tooltip**
 - [Day 10](01-10-2020.md) | :microscope: **togakure - alert**
+  - **ar** `I created the exact same app in React and Vue. Here are the differences.`
+  - **ar** `Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)`
 - [Day 11](01-11-2020.md) | :microscope: **togakure - alert**
 - [Day 12](01-12-2020.md) | :microscope: **togakure - alert**
 - Day 13 | :airplane: **travel - recife/PE/Brazil**
