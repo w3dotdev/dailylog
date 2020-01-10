@@ -20,3 +20,4 @@
   - [Day 8](jan/01-08-2020.md) | :microscope: **togakure - tooltip**
     - **wt-pv** `Elementary - Season 6` `Elementary - Season 7`
   - [Day 9](jan/01-09-2020.md) | :microscope: **togakure - tooltip**
+  - [Day 10](jan/01-10-2020.md) | :microscope: **togakure - alert**
