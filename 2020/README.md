@@ -19,3 +19,4 @@
     - **sc-ig** **sc-yt** `Estreias no cinema - 01.09.2020` **wt-pv** `Elementary - Season 6`
   - [Day 8](jan/01-08-2020.md) | :microscope: **togakure - tooltip**
     - **wt-pv** `Elementary - Season 6` `Elementary - Season 7`
+  - [Day 9](jan/01-09-2020.md) | :microscope: **togakure - tooltip**
