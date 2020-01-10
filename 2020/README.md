@@ -21,3 +21,14 @@
     - **wt-pv** `Elementary - Season 6` `Elementary - Season 7`
   - [Day 9](jan/01-09-2020.md) | :microscope: **togakure - tooltip**
   - [Day 10](jan/01-10-2020.md) | :microscope: **togakure - alert**
+  - [Day 11](jan/01-11-2020.md) | :microscope: **togakure - alert**
+  - [Day 12](jan/01-12-2020.md) | :microscope: **togakure - alert**
+  - Day 13 | :airplane: **travel - recife/PE/Brazil**
+  - Day 14 | :airplane: **travel - recife/PE/Brazil**
+  - Day 15 | :airplane: **travel - recife/PE/Brazil**
+  - Day 16 | :airplane: **travel - recife/PE/Brazil**
+  - Day 17 | :airplane: **travel - recife/PE/Brazil**
+  - Day 18 | :airplane: **travel - recife/PE/Brazil**
+  - Day 19 | :airplane: **travel - recife/PE/Brazil**
+  - Day 20 | :airplane: **travel - recife/PE/Brazil**
+  - Day 21 | :airplane: **travel - recife/PE/Brazil**
