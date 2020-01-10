@@ -41,3 +41,4 @@
   - Day 19 | :airplane: **travel - recife/PE/Brazil**
   - Day 20 | :airplane: **travel - recife/PE/Brazil**
   - Day 21 | :airplane: **travel - recife/PE/Brazil**
+  - [Day 22](jan/01-22-2020.md) | :mag_right: **looking for a job**
