@@ -39,13 +39,16 @@
     - **ar** `6 Best Practices & Pro Tips when using Angular CLI`
     - **ar** `Node.js & JavaScript Testing Best Practices`
   - [Day 12](jan/01-12-2020.md) | :microscope: **togakure - alert**
-  - Day 13 | :airplane: **travel - recife/PE/Brazil**
-  - Day 14 | :airplane: **travel - recife/PE/Brazil**
-  - Day 15 | :airplane: **travel - recife/PE/Brazil**
-  - Day 16 | :airplane: **travel - recife/PE/Brazil**
-  - Day 17 | :airplane: **travel - recife/PE/Brazil**
-  - Day 18 | :airplane: **travel - recife/PE/Brazil**
-  - Day 19 | :airplane: **travel - recife/PE/Brazil**
-  - Day 20 | :airplane: **travel - recife/PE/Brazil**
-  - Day 21 | :airplane: **travel - recife/PE/Brazil**
+    - **gn** travel preparation
+    - **wt-pv** `Hercules in New York` `Terminator 2: Judgment Day` `Timecop`
+    - **wt-nt** `Titans - Season 2`
+  - Day 13 | :airplane: **trip - Northeast/BR**
+  - Day 14 | :airplane: **trip - Northeast/BR**
+  - Day 15 | :airplane: **trip - Northeast/BR**
+  - Day 16 | :airplane: **trip - Northeast/BR**
+  - Day 17 | :airplane: **trip - Northeast/BR**
+  - Day 18 | :airplane: **trip - Northeast/BR**
+  - Day 19 | :airplane: **trip - Northeast/BR**
+  - Day 20 | :airplane: **trip - Northeast/BR**
+  - Day 21 | :airplane: **trip - Northeast/BR**
   - [Day 22](jan/01-22-2020.md) | :mag_right: **looking for a job**
