@@ -38,15 +38,26 @@
 - [Day 12](01-12-2020.md) | :microscope: **togakure - alert**
   - **gn** travel preparation
   - **wt-pv** `Hercules in New York` `Terminator 2: Judgment Day` `Timecop`
-  - **wt-nt** `Titans - Season 2`
-- Day 13 | :airplane: **trip - Northeast/BR**
-- Day 14 | :airplane: **trip - Northeast/BR**
-- Day 15 | :airplane: **trip - Northeast/BR**
-- Day 16 | :airplane: **trip - Northeast/BR**
-- Day 17 | :airplane: **trip - Northeast/BR**
-- Day 18 | :airplane: **trip - Northeast/BR**
-- Day 19 | :airplane: **trip - Northeast/BR**
-- Day 20 | :airplane: **trip - Northeast/BR**
-- Day 21 | :airplane: **trip - Northeast/BR**
+  - **wt-nf** `Titans - Season 2`
+- Day 13 | :airplane: **trip - Northeast/BR - PE**
+- Day 14 | :airplane: **trip - Northeast/BR - PE**
+  - **sc-ig** **sc-yt** `Estreias no cinema - 01.16.2020`
+- Day 15 | :airplane: **trip - Northeast/BR - PE**
+- Day 16 | :airplane: **trip - Northeast/BR - PE**
+- Day 17 | :airplane: **trip - Northeast/BR - PE**
+- Day 18 | :airplane: **trip - Northeast/BR - PE**
+  - **wt-tv** `Deadpool 2`
+- Day 19 | :airplane: **trip - Northeast/BR - AL**
+- Day 20 | :airplane: **trip - Northeast/BR - PE**
+  - **fl** `Jumanji: The Next Level`
+- Day 21 | :airplane: **trip - Northeast/BR - PE**
+  - **wt-tv** `Kingsman: The Golden Circle`
 - [Day 22](01-22-2020.md) | :mag_right: **looking for a job**
+  - **sc-ig** **sc-yt** `Estreias no cinema - 01.23.2020`
+  - **wt-nf** `Sex Education - Season 2`
+  - **wt-nf** `6 Underground` `Waterworld` `Police Academy` `Police Academy 5: Assignment Miami Beach`
+  - **ar** `How To Skyrocket Your Search Engine Ranking in 2020`
+  - **ar** `3 Principles From Google’s Internal SEO Strategy`
+  - **ar** `How to Make Your Blogs Go Viral`
+  - **ar** `3 Essential Tools to Boost your React App’s SEO`
   

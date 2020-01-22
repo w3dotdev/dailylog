@@ -13,6 +13,11 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - [2017](2017/)
 - [2020](2020/)
 
+## Coding Activity
+
+- [CodersRank](https://profile.codersrank.io/user/hemersonvianna)
+- [WakaTime](https://wakatime.com/@hemersonvianna)
+
 ## Lists
 
 - [Movies Diary](https://letterboxd.com/hemersonvianna/films/diary/)
@@ -42,6 +47,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `yt` - Youtube
 - `nf` - Netflix
 - `pv` - Prime Video
+- `tv` - TV/Others
 - `ws` - Website
 - `gh` - Github
 
