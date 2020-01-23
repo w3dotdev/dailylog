@@ -60,4 +60,11 @@
   - **ar** `3 Principles From Google’s Internal SEO Strategy`
   - **ar** `How to Make Your Blogs Go Viral`
   - **ar** `3 Essential Tools to Boost your React App’s SEO`
+- [Day 23](01-23-2020.md) | :mag_right: **looking for a job**
+  - **gn** `New Instagram Account` 
+    - `@hemerson.vianna.dev`
+    - `@imho.movies`
+    - `@jornada.relevante`
+    - `@sonus.et.rhythmus`
+  - **wt-nf** `Grace and Frankie - Season 6`
   
