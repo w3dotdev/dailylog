@@ -67,4 +67,8 @@
     - `@jornada.relevante`
     - `@sonus.et.rhythmus`
   - **wt-nf** `Grace and Frankie - Season 6`
+- [Day 24](01-24-2020.md) | :mag_right: **looking for a job**
+  - **wt-nf** `The Ranch - Season 4 (Part 8)`
+- [Day 25](01-25-2020.md) | :mag_right: **looking for a job**
+  - **wt-nf** `October Faction - Season 1`
   
