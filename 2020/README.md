@@ -71,6 +71,8 @@
       - `@sonus.et.rhythmus`
     - **wt-nf** `Grace and Frankie - Season 6`
   - [Day 24](jan/01-24-2020.md) | :mag_right: **looking for a job**
+    - **pb-ws** `Jumanji: Próxima Fase`
     - **wt-nf** `The Ranch - Season 4 (Part 8)`
   - [Day 25](jan/01-25-2020.md) | :mag_right: **looking for a job**
     - **wt-nf** `October Faction - Season 1`
+  - [Day 26](jan/01-26-2020.md) | :mag_right: **looking for a job**
