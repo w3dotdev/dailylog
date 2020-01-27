@@ -73,3 +73,8 @@
 - [Day 25](01-25-2020.md) | :mag_right: **looking for a job**
   - **wt-nf** `October Faction - Season 1`
 - [Day 26](01-26-2020.md) | :mag_right: **looking for a job**
+  - **pj-gh** `Togakure - update and config`
+- [Day 27](01-27-2020.md) | :mag_right: **looking for a job**
+  - **pj-gh** `Togakure - update and config`
+  - **pj-ws** `nercalistenico.com.br - add instagram accounts`
+  - **wt-pv** `Long Shot`
