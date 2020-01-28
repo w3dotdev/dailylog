@@ -81,3 +81,6 @@
     - **pj-gh** `Togakure - update and config`
     - **pj-ws** `nercalistenico.com.br - add instagram accounts`
     - **wt-pv** `Long Shot`
+  - [Day 28](jan/01-28-2020.md) | :mag_right: **looking for a job**
+    - **sc-ig** **sc-yt** `Estreias no cinema - 01.30.2020`
+    - **pj-ws** `nercalistenico.com.br - add instagram accounts`
