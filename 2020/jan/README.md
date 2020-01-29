@@ -61,7 +61,8 @@
   - **ar** `How to Make Your Blogs Go Viral`
   - **ar** `3 Essential Tools to Boost your React App’s SEO`
 - [Day 23](01-23-2020.md) | :mag_right: **looking for a job**
-  - **gn** `New Instagram Account` 
+  - **gn** `New Instagram Account`
+    - `@hemerson.vianna.design` 
     - `@hemerson.vianna.dev`
     - `@imho.movies`
     - `@jornada.relevante`
@@ -81,3 +82,12 @@
 - [Day 28](01-28-2020.md) | :mag_right: **looking for a job**
   - **sc-ig** **sc-yt** `Estreias no cinema - 01.30.2020`
   - **pj-ws** `nercalistenico.com.br - add instagram accounts`
+  - **wt-pv** `Earth Girls Are Easy`
+- [Day 29](01-29-2020.md) | :mag_right: **looking for a job**
+  - **ar** `The TypeScript Tax`
+  - **ar** `TypeScript — JavaScript With Superpowers`
+  - **ar** `How (and why) you should use Typescript with Node and Express.`
+  - **ar** `Interface vs Type alias in TypeScript 2.7`
+  - **ar** `10++ TypeScript Pro tips/patterns with (or without) React`
+  - **sc-ig** `Cabo de Santo Agostinho` `Playlist Sweden`
+  - **cl** `Biceps`
