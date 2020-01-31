@@ -2,7 +2,7 @@
 
 ## Summary:
 
-- January
+- [January](jan/README.md)
   - [Day 01](jan/01-01-2020.md) | :bookmark_tabs: **planning**
     - **wt-yt** `Por que sua vida não vai mudar?`
   - [Day 02](jan/01-02-2020.md) | :bookmark_tabs: **planning**
@@ -94,3 +94,14 @@
     - **ar** `10++ TypeScript Pro tips/patterns with (or without) React`
     - **sc-ig** `Cabo de Santo Agostinho` `Playlist Sweden`
     - **cl** `Biceps`
+  - [Day 30](jan/01-30-2020.md) | :mag_right: **looking for a job**
+    - **sc-ig** `Praia dos Carneiros - Part 1/2` 
+    - **sc-ig** `Monólogo na caminhada - Ep. 08 - Temp. 01`
+    - **sc-ig** `Praia dos Carneiros - Part 2/2`
+    - **cl** `Running (4.97 miles) + Calisthenics + walking (4.97 miles)`
+  - [Day 31](jan/01-31-2020.md) | :mag_right: **looking for a job**
+    - **wt-nf** `Ragnarok - Season 1`
+    - **wt-nf** `Luna Nera - Season 1`
+    - **pj-gh** `Challenge - BB8`
+    - **sc-ig** `Challenge - BB8`
+- [February](feb/README.md)
