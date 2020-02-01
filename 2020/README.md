@@ -105,3 +105,5 @@
     - **pj-gh** `Challenge - BB8`
     - **sc-ig** `Challenge - BB8`
 - [February](feb/README.md)
+  - **wt-nf** `Diablero - Season 1`
+  - **sc-ig** `Maragogi - Alagoas`
