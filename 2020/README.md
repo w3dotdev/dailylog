@@ -105,9 +105,18 @@
     - **pj-gh** `Challenge - BB8`
     - **sc-ig** `Challenge - BB8`
 - [February](feb/README.md)
-  - [Day 01](jan/02-01-2020.md) | :mag_right: **looking for a job**
+  - [Day 01](feb/02-01-2020.md) | :mag_right: **looking for a job**
     - **wt-nf** `Diablero - Season 2`
     - **sc-ig** `Maragogi - Alagoas`
-  - [Day 02](jan/02-02-2020.md) | :mag_right: **looking for a job**
+  - [Day 02](feb/02-02-2020.md) | :mag_right: **looking for a job**
     - **wt-pv** `Preacher - Season 3`
     - **sc-ig** `B&A sandra bullock`
+  - [Day 03](feb/02-03-2020.md) | :bookmark_tabs: **planning**
+    - **lg** `M06V50 The Bell of Atri 05`
+    - **lg** `M06V51 The Bell of Atri 06`
+  - [Day 04](feb/02-04-2020.md) | :bookmark_tabs: **planning**
+    - **gn** `No light in the morning and afternoon`
+    - **lg** `M06V52 The Bell of Atri 07`
+    - **lg** `M06V53 The Bell of Atri 08`
+    - **lg** `M06V54 Conclusão do Módulo 06`
+    - **pj-gh** `IG-robot`
