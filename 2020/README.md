@@ -120,3 +120,5 @@
     - **lg** `M06V53 The Bell of Atri 08`
     - **lg** `M06V54 Conclusão do Módulo 06`
     - **pj-gh** `IG-robot`
+  - [Day 05](feb/02-05-2020.md) | :bookmark_tabs: **planning**
+    - **pj-gh** `IG-robot`
