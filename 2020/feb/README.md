@@ -17,3 +17,7 @@
   - **pj-gh** `IG-robot`
 - [Day 05](02-05-2020.md) | :bookmark_tabs: **planning**
   - **pj-gh** `IG-robot`
+- [Day 06](02-06-2020.md) | :bookmark_tabs: **planning**
+  - **pj-gh** `IG-robot`
+- [Day 07](02-07-2020.md) | :bookmark_tabs: **planning**
+  - **pj-gh** `IG-robot`
