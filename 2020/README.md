@@ -123,6 +123,11 @@
   - [Day 05](feb/02-05-2020.md) | :bookmark_tabs: **planning**
     - **pj-gh** `IG-robot`
   - [Day 06](feb/02-06-2020.md) | :bookmark_tabs: **planning**
+    - **wt-pv** `Chicago P.D.`
     - **pj-gh** `IG-robot`
   - [Day 07](feb/02-07-2020.md) | :bookmark_tabs: **planning**
+    - **wt-pv** `Chicago P.D.`
+    - **pj-gh** `IG-robot`
+  - [Day 08](feb/02-08-2020.md) | :bookmark_tabs: **planning**
+    - **wt-pv** `Chicago P.D.`
     - **pj-gh** `IG-robot`
