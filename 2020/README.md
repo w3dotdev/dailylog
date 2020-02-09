@@ -130,4 +130,8 @@
     - **pj-gh** `IG-robot`
   - [Day 08](feb/02-08-2020.md) | :bookmark_tabs: **planning**
     - **wt-pv** `Chicago P.D.`
+    - **pj-gh** `Vue SSR/CSR`
     - **pj-gh** `IG-robot`
+  - [Day 09](feb/02-09-2020.md) | :bookmark_tabs: **planning**
+    - **wt-pv** `Chicago P.D.`
+    - **pj-gh** `Vue SSR/CSR`
