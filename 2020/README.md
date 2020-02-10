@@ -123,15 +123,17 @@
   - [Day 05](feb/02-05-2020.md) | :bookmark_tabs: **planning**
     - **pj-gh** `IG-robot`
   - [Day 06](feb/02-06-2020.md) | :bookmark_tabs: **planning**
-    - **wt-pv** `Chicago P.D.`
+    - **wt-pv** `Chicago P.D. - Season 1`
     - **pj-gh** `IG-robot`
   - [Day 07](feb/02-07-2020.md) | :bookmark_tabs: **planning**
-    - **wt-pv** `Chicago P.D.`
+    - **wt-pv** `Chicago P.D. - Season 2`
     - **pj-gh** `IG-robot`
   - [Day 08](feb/02-08-2020.md) | :bookmark_tabs: **planning**
-    - **wt-pv** `Chicago P.D.`
+    - **wt-pv** `Chicago P.D. - Season 3`
     - **pj-gh** `Vue SSR/CSR`
     - **pj-gh** `IG-robot`
   - [Day 09](feb/02-09-2020.md) | :bookmark_tabs: **planning**
-    - **wt-pv** `Chicago P.D.`
+    - **wt-pv** `Chicago P.D. - Season 4`
+    - **pj-gh** `Vue SSR/CSR`
+  - [Day 10](feb/02-10-2020.md) | :bookmark_tabs: **planning**
     - **pj-gh** `Vue SSR/CSR`
