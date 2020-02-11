@@ -137,3 +137,6 @@
     - **pj-gh** `Vue SSR/CSR`
   - [Day 10](feb/02-10-2020.md) | :bookmark_tabs: **planning**
     - **pj-gh** `Vue SSR/CSR`
+  - [Day 11](feb/02-11-2020.md) | :bookmark_tabs: **planning**
+    - **wt-nf** `Van Helsing - Season 4`
+    - **pj-gh** `Vue SSR/CSR`
