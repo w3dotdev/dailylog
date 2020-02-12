@@ -35,3 +35,5 @@
 - [Day 11](02-11-2020.md) | :bookmark_tabs: **planning**
   - **wt-nf** `Van Helsing - Season 4`
   - **pj-gh** `Vue SSR/CSR`
+- [Day 12](02-12-2020.md) | :bookmark_tabs: **planning**
+  - **pj-gh** `Vue SSR/CSR`
