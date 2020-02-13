@@ -37,3 +37,5 @@
   - **pj-gh** `Vue SSR/CSR`
 - [Day 12](02-12-2020.md) | :bookmark_tabs: **planning**
   - **pj-gh** `Vue SSR/CSR`
+- [Day 13](02-13-2020.md) | :bookmark_tabs: **planning**
+  - **pj-gh** `Vue SSR/CSR`
