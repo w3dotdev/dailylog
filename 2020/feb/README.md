@@ -39,3 +39,6 @@
   - **pj-gh** `Vue SSR/CSR`
 - [Day 13](02-13-2020.md) | :bookmark_tabs: **planning**
   - **pj-gh** `Vue SSR/CSR`
+- [Day 14](02-14-2020.md) | :bookmark_tabs: **planning**
+  - **pj-gh** `Vanilla SSR/CSR`
+  - **pj-gh** `Angular SSR/CSR`
