@@ -42,3 +42,6 @@
 - [Day 14](02-14-2020.md) | :bookmark_tabs: **planning**
   - **pj-gh** `Vanilla SSR/CSR`
   - **pj-gh** `Angular SSR/CSR`
+- [Day 15](02-15-2020.md) | :bookmark_tabs: **planning**
+  - **gn** `Brainstorming - Animated short`
+  - **pj-gh** `Angular SSR/CSR`
