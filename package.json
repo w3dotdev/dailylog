@@ -1,0 +1,21 @@
+{
+  "name": "dailylog",
+  "version": "0.0.0",
+  "description": "My daily log - Things that I consider relevant in my day, for future consultations",
+  "scripts": {
+    "release": "./node_modules/.bin/release-it --no-npm.publish --git.tagName='v${version}' --github.release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemersonvianna/dailylog.git"
+  },
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemersonvianna/dailylog/issues"
+  },
+  "homepage": "https://github.com/hemersonvianna/dailylog#readme",
+  "devDependencies": {
+    "release-it": "12.4.3"
+  }
+}
