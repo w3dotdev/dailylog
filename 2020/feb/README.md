@@ -58,3 +58,9 @@
   - **ar** `Client-side vs. Server-side vs. Pre-rendering for Web Apps`
   - **ar** `SPAs, PWAs and SSR`
   - **ar** `SSR or CSR for Your Progressive Web App?`
+- [Day 17](02-17-2020.md) | :mag_right: **looking for a job**
+  - **in** `Typescript syntax files for Vim`
+  - **in** `Customized monokai theme for iterm`
+  - **in** `Monokai color scheme for Vim`
+  - **pj-gh** `Knowledge - TypeScript`
+  - **gn** `Creation of the Minerva logo (org-minerva)`
