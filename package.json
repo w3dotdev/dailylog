@@ -1,6 +1,6 @@
 {
   "name": "dailylog",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "My daily log - Things that I consider relevant in my day, for future consultations",
   "scripts": {
     "release": "./node_modules/.bin/release-it --no-npm.publish --git.tagName='v${version}' --github.release"
