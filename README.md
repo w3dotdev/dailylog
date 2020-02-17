@@ -1,7 +1,12 @@
 # dailylog
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/hemersonvianna/dailylog.svg?style=flat-square)](https://github.com/hemersonvianna/dailylog/issues)
+[![GitHub issues](https://img.shields.io/github/issues/hemersonvianna/dailylog.svg)](https://github.com/hemersonvianna/dailylog/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/hemersonvianna/dailylog.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/hemersonvianna/dailylog.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/hemersonvianna/dailylog.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/hemersonvianna/dailylog.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/hemersonvianna/dailylog/total.svg)
 
 ## Introduction
 
@@ -64,6 +69,32 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 ## References
 
 - [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog)
+
+## Create Tag
+
+Current tag example: 1.0.0-beta.4
+
+Command:
+
+```bash
+yarn release 1.0.0-beta.5
+```
+
+Questions and answers:
+
+```sh
+- ? Show updated files? `Yes`
+- M  package.json
+
+- ? Commit (Release 1.0.0-beta.5)? `Yes`
+- ? Tag (1.0.0-beta.5)? `Yes`
+- ? Push? `Yes`
+- ? Publish "salles" to npm? `No`
+```
+
+## Log
+
+Check [Releases](https://github.com/hemersonvianna/dailylog/releases) for detailed changelog.
 
 ## License
 
