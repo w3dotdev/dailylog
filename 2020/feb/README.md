@@ -16,7 +16,7 @@
   - **lg** `M06V54 Conclusão do Módulo 06`
   - **pj-gh** `IG-robot`
 - [Day 05](02-05-2020.md) | :mag_right: **looking for a job**
-  - **sc-ig** **sc-yt** `Estreias no cinema - 01.06.2020`
+  - **sc-ig** **sc-yt** `Estreias no cinema - 02.06.2020`
   - **pj-gh** `IG-robot`
 - [Day 06](02-06-2020.md) | :mag_right: **looking for a job**
   - **wt-pv** `Chicago P.D. - Season 1`
@@ -34,7 +34,7 @@
 - [Day 10](02-10-2020.md) | :mag_right: **looking for a job**
   - **pj-gh** `Vue SSR/CSR`
 - [Day 11](02-11-2020.md) | :mag_right: **looking for a job**
-  - **sc-ig** **sc-yt** `Estreias no cinema - 01.13.2020`
+  - **sc-ig** **sc-yt** `Estreias no cinema - 02.13.2020`
   - **wt-nf** `Van Helsing - Season 4`
   - **pj-gh** `Vue SSR/CSR`
 - [Day 12](02-12-2020.md) | :mag_right: **looking for a job**
@@ -64,3 +64,6 @@
   - **in** `Monokai color scheme for Vim`
   - **pj-gh** `Knowledge - TypeScript`
   - **gn** `Creation of the Minerva logo (org-minerva)`
+- [Day 18](02-18-2020.md) | :mag_right: **looking for a job**
+  - **sc-ig** **sc-yt** `Estreias no cinema - 02.20.2020`
+  - **pj-gh** `Knowledge - TypeScript`
