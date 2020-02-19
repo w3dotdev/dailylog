@@ -172,3 +172,8 @@
   - [Day 18](feb/02-18-2020.md) | :mag_right: **looking for a job**
     - **sc-ig** **sc-yt** `Estreias no cinema - 02.20.2020`
     - **pj-gh** `Knowledge - TypeScript`
+  - [Day 19](feb/02-19-2020.md) | :mag_right: **looking for a job**
+    - **gn** `Waiting and observing the repair of the landline and internet by the technician`
+    - **pj-gh** `Knowledge - TypeScript`
+
+
