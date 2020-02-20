@@ -70,3 +70,6 @@
 - [Day 19](02-19-2020.md) | :mag_right: **looking for a job**
   - **gn** `Waiting and observing the repair of the landline and internet by the technician`
   - **pj-gh** `Knowledge - TypeScript`
+- [Day 20](02-20-2020.md) | :mag_right: **looking for a job**
+  - **gn** `Tasks planning`
+  - **pj-gh** `Knowledge - TypeScript`
