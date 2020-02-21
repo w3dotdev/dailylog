@@ -73,3 +73,7 @@
 - [Day 20](02-20-2020.md) | :mag_right: **looking for a job**
   - **gn** `Tasks planning`
   - **pj-gh** `Knowledge - TypeScript`
+- [Day 21](02-21-2020.md) | :mag_right: **looking for a job**
+  - **sc-ig** `Roberto Gómez Bolaños`
+  - **pj-gh** `Knowledge - TypeScript`
+  - **pj-gh** `Knowledge - GraphQl`
