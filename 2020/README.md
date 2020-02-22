@@ -182,5 +182,7 @@
     - **sc-ig** `Roberto Gómez Bolaños`
     - **pj-gh** `Knowledge - TypeScript`
     - **pj-gh** `Knowledge - GraphQl`
+  - [Day 22](feb/02-22-2020.md) | :mag_right: **looking for a job**
+    - **pj-gh** `Lambda Tauri - DoD DoB`
 
 
