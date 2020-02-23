@@ -184,5 +184,8 @@
     - **pj-gh** `Knowledge - GraphQl`
   - [Day 22](feb/02-22-2020.md) | :mag_right: **looking for a job**
     - **pj-gh** `Lambda Tauri - DoD DoB`
+  - [Day 23](feb/02-23-2020.md) | :mag_right: **looking for a job**
+    - **ar** `React Navigation 5.0 - A new way to navigate`
+    - **pj-gh** `Lambda Tauri - DoD DoB`
 
 
