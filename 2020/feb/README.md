@@ -81,4 +81,20 @@
   - **pj-gh** `Lambda Tauri - DoD DoB`
 - [Day 23](02-23-2020.md) | :mag_right: **looking for a job**
   - **ar** `React Navigation 5.0 - A new way to navigate`
+  - **ar** `React Navigation - Navigation options resolution`
+  - **ar** `React Navigation - Tab navigation`
+  - **ar** `React Navigation - Header buttons`
+  - **ar** `How to create Splash Screen on React-Native Android Application`
+  - **fv** `React Native Gesture Handler`
+  - **fv** `React Native Splash Screen`
+  - **st** `React Navigation`
+  - **st** `createBottomTabNavigator`
+  - **st** `createStackNavigator`
+  - **st** `createDrawerNavigator`
+  - **st** `React Native Gesture Handler`
+  - **pj-gh** `Lambda Tauri - DoD DoB`
+- [Day 24](02-24-2020.md) | :mag_right: **looking for a job**
+  - **ar** `Using Moment JS in React Native`
+  - **fv** `React Native Globalize`
+  - **fv** `React Native Vector Icons`
   - **pj-gh** `Lambda Tauri - DoD DoB`
