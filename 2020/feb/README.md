@@ -97,4 +97,14 @@
   - **ar** `Using Moment JS in React Native`
   - **fv** `React Native Globalize`
   - **fv** `React Native Vector Icons`
+  - **fv** `React Native Async Storage`
+  - **fv** `React Native Storage`
   - **pj-gh** `Lambda Tauri - DoD DoB`
+- [Day 25](02-25-2020.md) | :mag_right: **looking for a job**
+  - **ar** `Upload de Imagens e uso da Câmera no React Native`
+  - **ar** `How to Upload Images in a React Native App`
+  - **ar** `How to pick images from Camera & Gallery in React Native app`
+  - **fv** `React Naive Photo Upload`
+  - **fv** `React Native Image Picker`
+  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **sc-ig** **sc-yt** `Estreias no cinema - 02.27.2020`

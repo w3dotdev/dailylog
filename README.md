@@ -1,4 +1,4 @@
-# dailylog
+# Daily Log
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![GitHub issues](https://img.shields.io/github/issues/hemersonvianna/dailylog.svg)](https://github.com/hemersonvianna/dailylog/issues)

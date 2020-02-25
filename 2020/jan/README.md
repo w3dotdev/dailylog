@@ -28,7 +28,7 @@
   - **ar** `I created the exact same app in React and Vue. Here are the differences.`
   - **ar** `Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)`
 - [Day 11](01-11-2020.md) | :microscope: **togakure - alert**
-  - **gn** travel preparation
+  - **gn** `travel preparation`
   - **ar** `RESTful API Designing guidelines — The best practices`
   - **ar** `Our Best Practices for Writing React Components`
   - **ar** `Best practices for a clean and performant Angular application`
@@ -36,7 +36,7 @@
   - **ar** `6 Best Practices & Pro Tips when using Angular CLI`
   - **ar** `Node.js & JavaScript Testing Best Practices`
 - [Day 12](01-12-2020.md) | :microscope: **togakure - alert**
-  - **gn** travel preparation
+  - **gn** `travel preparation`
   - **wt-pv** `Hercules in New York` `Terminator 2: Judgment Day` `Timecop`
   - **wt-nf** `Titans - Season 2`
 - Day 13 | :airplane: **trip - Northeast/BR - PE**
