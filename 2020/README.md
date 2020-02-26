@@ -211,7 +211,9 @@
     - **ar** `How to pick images from Camera & Gallery in React Native app`
     - **fv** `React Naive Photo Upload`
     - **fv** `React Native Image Picker`
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pb-ws** `Alec Benjamin`
     - **sc-ig** **sc-yt** `Estreias no cinema - 02.27.2020`
+  - [Day 26](feb/02-26-2020.md) | :mag_right: **looking for a job**
+    - **pj-gh** `Lambda Tauri - DoD DoB`
 
 
