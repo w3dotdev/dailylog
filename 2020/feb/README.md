@@ -109,4 +109,15 @@
   - **pb-ws** `Alec Benjamin`
   - **sc-ig** **sc-yt** `Estreias no cinema - 02.27.2020`
 - [Day 26](02-26-2020.md) | :mag_right: **looking for a job**
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **ar** `Hexo - Variables`
+  - **gn** `Updating site dependencies`
+  - **pj-gh** `Blog theme`
+  - **pj-gh** `Hexo Resources`
+  - **pj-ws** `Dailylog - Nerd Calistênico`
+  - **pb-ws** `Ações recomendadas para Janeiro/2020`
+- [Day 27](02-27-2020.md) | :mag_right: **looking for a job**
+  - **ar** `Riscos e ganhos do investimento`
+  - **ar** `Investir no exterior: uma ótima opção para diversificar a carteira`
+  - **ar** `101 da Bolsa de Valores | O que são ETFs`
+  - **gn** `Planning new formats for the Foco no Capital session`
+  - **pb-ws** `Análise do mês de Janeiro/2020`
