@@ -17,11 +17,11 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 ||||||||||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**[2016](2016/)**|||||||||||||
-||--|[Feb](2016/feb)|[Mar](2016/mar)|[Apr](2016/apr)|[May](2016/may)|[Jun](2016/jun)|[Jul](2016/jul)|[Aug](2016/aug)|[Sep](2016/sep)|[Oct](2016/oct)|[Nov](2016/nov)|[Dec](2016/dec)|
+||--|[Feb](2016/feb#readme)|[Mar](2016/mar#readme)|[Apr](2016/apr#readme)|[May](2016/may#readme)|[Jun](2016/jun#readme)|[Jul](2016/jul#readme)|[Aug](2016/aug#readme)|[Sep](2016/sep#readme)|[Oct](2016/oct#readme)|[Nov](2016/nov#readme)|[Dec](2016/dec#readme)|
 |**[2017](2017/)**|||||||||||||
-||[Jan](2017/jan)|--|--|--|--|--|--|--|[Sep](2017/sep)|--|--|--|
+||[Jan](2017/jan#readme)|--|--|--|--|--|--|--|[Sep](2017/sep)|--|--|--|
 |**[2020](2020/)**|||||||||||||
-||[Jan](2020/jan)|[Feb](2020/feb)|--|--|--|--|--|--|--|--|--|--|
+||[Jan](2020/jan#readme)|[Feb](2020/feb#readme)|[Mar](2020/mar#readme)|--|--|--|--|--|--|--|--|--|
 |||||||||||||
 
 ## Coding Activity

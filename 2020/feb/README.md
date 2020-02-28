@@ -121,3 +121,14 @@
   - **ar** `101 da Bolsa de Valores | O que são ETFs`
   - **gn** `Planning new formats for the Foco no Capital session`
   - **pb-ws** `Análise do mês de Janeiro/2020`
+- [Day 28](02-28-2020.md) | :mag_right: **looking for a job**
+  - **ar** `Gerenciando formulários no React Native`
+  - **ar** `React Native: Top 10 Best Practices We Follow at Innofied`
+  - **fv** `React Native Image Crop Picker`
+  - **fv** `TComb Form Native`
+  - **fv** `Snowflake - A React-Native starter mobile app for iOS and Android with a single code base`
+  - **fv** `React Native Camera`
+  - **fv** `React Native DatePicker`
+  - **fv** `React Native DateTimePicker`
+  - **pb-ws** `Ações recomendadas para Fevereiro/2020`
+  - **pj-gh** `Lambda Tauri - DoD DoB`
