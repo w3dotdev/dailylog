@@ -237,5 +237,9 @@
     - **fv** `React Native DateTimePicker`
     - **pb-ws** `Ações recomendadas para Fevereiro/2020`
     - **pj-gh** `Lambda Tauri - DoD DoB`
+  - [Day 29](feb/02-29-2020.md) | :mag_right: **looking for a job**
+    - **ar** `React Hooks Basics— Building a React Native App with React Hooks`
+    - **pb-ws** `Análise do mês de Fevereiro/2020`
+    - **pj-gh** `Lambda Tauri - DoD DoB`
 
 
