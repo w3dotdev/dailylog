@@ -241,5 +241,11 @@
     - **ar** `React Hooks Basics— Building a React Native App with React Hooks`
     - **pb-ws** `Análise do mês de Fevereiro/2020`
     - **pj-gh** `Lambda Tauri - DoD DoB`
+- [March]mar/README.md)
+  - [Day 01](mar/03-01-2020.md) | :mag_right: **looking for a job**
+    - **pj-ws** `Foco no Capital - B3`
+    - **wt-nf** `Hunters - Season 1`
+  - [Day 02](mar/03-02-2020.md) | :mag_right: **looking for a job**
+    - **pj-gh** `Lambda Tauri - DoD DoB`
 
 
