@@ -251,5 +251,7 @@
     - **pj-gh** `Lambda Tauri - DoD DoB`
     - **pb-ws** `Stronger Than Ever`
     - **pb-ws** `Ações recomendadas para Março/2020`
+  - [Day 03](mar/03-03-2020.md) | :mag_right: **looking for a job**
+    - **pj-gh** `Lambda Tauri - DoD DoB`
 
 
