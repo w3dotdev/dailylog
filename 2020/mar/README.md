@@ -10,4 +10,8 @@
   - **pb-ws** `Stronger Than Ever`
   - **pb-ws** `Ações recomendadas para Março/2020`
 - [Day 03](03-03-2020.md) | :mag_right: **looking for a job**
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **gn** `Interview for the company I.... - first stage`
+  - **sc-ig** **sc-yt** `Estreias no cinema - 03.05.2020`
+- [Day 04](03-04-2020.md) | :mag_right: **looking for a job**
+  - **gn** `Without electricity - 9 am to 5 pm - maintenance of the energy company`
+  - **gn** `Interview for the company I.... - second stage (challenge)`
