@@ -11,7 +11,13 @@
   - **pb-ws** `Ações recomendadas para Março/2020`
 - [Day 03](03-03-2020.md) | :mag_right: **looking for a job**
   - **gn** `Interview for the company I.... - first stage`
+  - **sc-ig** `Ativos mais indicados pelas corretoras - Março de 2020`
   - **sc-ig** **sc-yt** `Estreias no cinema - 03.05.2020`
 - [Day 04](03-04-2020.md) | :mag_right: **looking for a job**
-  - **gn** `Without electricity - 9 am to 5 pm - maintenance of the energy company`
+  - **gn** `Interview for the company I.... - second stage (challenge)`
+- [Day 05](03-05-2020.md) | :mag_right: **looking for a job**
+  - **gn** `Interview for the company B.... - first stage`
+  - **gn** `Interview for the company I.... - second stage (challenge)`
+- [Day 06](03-06-2020.md) | :mag_right: **looking for a job**
+  - **gn** `Without electricity - 1 am to 6 pm`
   - **gn** `Interview for the company I.... - second stage (challenge)`
