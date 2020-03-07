@@ -21,3 +21,6 @@
 - [Day 06](03-06-2020.md) | :mag_right: **looking for a job**
   - **gn** `Without electricity - 1 am to 6 pm`
   - **gn** `Interview for the company I.... - second stage (challenge)`
+- [Day 07](03-07-2020.md) | :mag_right: **looking for a job**
+  - **wt-nf** `Spenser Confidential`
+  - **wt-nf** `Terminator Genisys`
