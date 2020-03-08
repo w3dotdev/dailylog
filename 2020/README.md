@@ -241,7 +241,7 @@
     - **ar** `React Hooks Basics— Building a React Native App with React Hooks`
     - **pb-ws** `Análise do mês de Fevereiro/2020`
     - **pj-gh** `Lambda Tauri - DoD DoB`
-- [March]mar/README.md)
+- [March](mar/README.md)
   - [Day 01](mar/03-01-2020.md) | :mag_right: **looking for a job**
     - **pj-ws** `Foco no Capital - B3`
     - **wt-nf** `Hunters - Season 1`
@@ -256,15 +256,20 @@
     - **sc-ig** `Ativos mais indicados pelas corretoras - Março de 2020`
     - **sc-ig** **sc-yt** `Estreias no cinema - 03.05.2020`
   - [Day 04](mar/03-04-2020.md) | :mag_right: **looking for a job**
-    - **gn** `Interview for the company I.... - second stage (challenge)`
+    - **gn** `Selective process - I.... - second stage (challenge)`
   - [Day 05](mar/03-05-2020.md) | :mag_right: **looking for a job**
     - **gn** `Interview for the company B.... - first stage`
-    - **gn** `Interview for the company I.... - second stage (challenge)`
+    - **gn** `Selective process - I.... - second stage (challenge)`
   - [Day 06](mar/03-06-2020.md) | :mag_right: **looking for a job**
     - **gn** `Without electricity - 1 am to 6 pm`
-    - **gn** `Interview for the company I.... - second stage (challenge)`
+    - **gn** `Selective process - I.... - second stage (challenge)`
   - [Day 07](mar/03-07-2020.md) | :mag_right: **looking for a job**
     - **wt-nf** `Spenser Confidential`
     - **wt-nf** `Terminator Genisys`
+    - **wt-pv** `Hustlers`
+  - [Day 08](mar/03-08-2020.md) | :mag_right: **looking for a job**
+    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **sc-ig** `Hedy Lamarr`
+    - **wt-pv** `Captive State`
 
 
