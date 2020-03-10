@@ -271,5 +271,10 @@
     - **pj-gh** `Lambda Tauri - DoD DoB`
     - **sc-ig** `Hedy Lamarr`
     - **wt-pv** `Captive State`
+  - [Day 09](mar/03-09-2020.md) | :mag_right: **looking for a job**
+    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **fv** `A React-Native datetime-picker for Android and iOS`
+    - **fv** `RxDB - A realtime Database for JavaScript Applications`
+    - **fv** `Pouchdb with async storage - React Native`
 
 
