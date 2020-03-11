@@ -78,7 +78,7 @@
   - **pj-gh** `Knowledge - TypeScript`
   - **pj-gh** `Knowledge - GraphQl`
 - [Day 22](02-22-2020.md) | :mag_right: **looking for a job**
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`
 - [Day 23](02-23-2020.md) | :mag_right: **looking for a job**
   - **ar** `React Navigation 5.0 - A new way to navigate`
   - **ar** `React Navigation - Navigation options resolution`
@@ -92,14 +92,14 @@
   - **st** `createStackNavigator`
   - **st** `createDrawerNavigator`
   - **st** `React Native Gesture Handler`
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`
 - [Day 24](02-24-2020.md) | :mag_right: **looking for a job**
   - **ar** `Using Moment JS in React Native`
   - **fv** `React Native Globalize`
   - **fv** `React Native Vector Icons`
   - **fv** `React Native Async Storage`
   - **fv** `React Native Storage`
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`
 - [Day 25](02-25-2020.md) | :mag_right: **looking for a job**
   - **ar** `Upload de Imagens e uso da Câmera no React Native`
   - **ar** `How to Upload Images in a React Native App`
@@ -131,8 +131,8 @@
   - **fv** `React Native DatePicker`
   - **fv** `React Native DateTimePicker`
   - **pb-ws** `Ações recomendadas para Fevereiro/2020`
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`
 - [Day 29](02-29-2020.md) | :mag_right: **looking for a job**
   - **ar** `React Hooks Basics— Building a React Native App with React Hooks`
   - **pb-ws** `Análise do mês de Fevereiro/2020`
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`

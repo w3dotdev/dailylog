@@ -6,7 +6,7 @@
 - [Day 02](03-02-2020.md) | :mag_right: **looking for a job**
   - **pj-gh** `Knowledge - Immutable`
   - **pj-gh** `Knowledge - Redux`
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`
   - **pb-ws** `Stronger Than Ever`
   - **pb-ws** `Ações recomendadas para Março/2020`
 - [Day 03](03-03-2020.md) | :mag_right: **looking for a job**
@@ -26,11 +26,15 @@
   - **wt-nf** `Terminator Genisys`
   - **wt-pv** `Hustlers`
 - [Day 08](03-08-2020.md) | :mag_right: **looking for a job**
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`
   - **sc-ig** `Hedy Lamarr`
   - **wt-pv** `Captive State`
 - [Day 09](03-09-2020.md) | :mag_right: **looking for a job**
-  - **pj-gh** `Lambda Tauri - DoD DoB`
+  - **pj-gh** `Lambda Tauri - DoB DoD`
   - **fv** `A React-Native datetime-picker for Android and iOS`
   - **fv** `RxDB - A realtime Database for JavaScript Applications`
   - **fv** `Pouchdb with async storage - React Native`
+- [Day 10](03-10-2020.md) | :mag_right: **looking for a job**
+  - **gn** `Selective process - I.... - third stage`
+- [Day 11](03-11-2020.md) | :computer: **lambda tauri - dob dod**
+  - **sc-ig** **sc-yt** `Estreias no cinema - 03.12.2020`

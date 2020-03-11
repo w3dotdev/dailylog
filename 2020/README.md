@@ -183,7 +183,7 @@
     - **pj-gh** `Knowledge - TypeScript`
     - **pj-gh** `Knowledge - GraphQl`
   - [Day 22](feb/02-22-2020.md) | :mag_right: **looking for a job**
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
   - [Day 23](feb/02-23-2020.md) | :mag_right: **looking for a job**
     - **ar** `React Navigation 5.0 - A new way to navigate`
     - **ar** `React Navigation - Navigation options resolution`
@@ -197,14 +197,14 @@
     - **st** `createStackNavigator`
     - **st** `createDrawerNavigator`
     - **st** `React Native Gesture Handler`
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
   - [Day 24](feb/02-24-2020.md) | :mag_right: **looking for a job**
     - **ar** `Using Moment JS in React Native`
     - **fv** `React Native Globalize`
     - **fv** `React Native Vector Icons`
     - **fv** `React Native Async Storage`
     - **fv** `React Native Storage`
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
   - [Day 25](feb/02-25-2020.md) | :mag_right: **looking for a job**
     - **ar** `Upload de Imagens e uso da Câmera no React Native`
     - **ar** `How to Upload Images in a React Native App`
@@ -236,11 +236,11 @@
     - **fv** `React Native DatePicker`
     - **fv** `React Native DateTimePicker`
     - **pb-ws** `Ações recomendadas para Fevereiro/2020`
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
   - [Day 29](feb/02-29-2020.md) | :mag_right: **looking for a job**
     - **ar** `React Hooks Basics— Building a React Native App with React Hooks`
     - **pb-ws** `Análise do mês de Fevereiro/2020`
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
 - [March](mar/README.md)
   - [Day 01](mar/03-01-2020.md) | :mag_right: **looking for a job**
     - **pj-ws** `Foco no Capital - B3`
@@ -248,7 +248,7 @@
   - [Day 02](mar/03-02-2020.md) | :mag_right: **looking for a job**
     - **pj-gh** `Knowledge - Immutable`
     - **pj-gh** `Knowledge - Redux`
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
     - **pb-ws** `Stronger Than Ever`
     - **pb-ws** `Ações recomendadas para Março/2020`
   - [Day 03](mar/03-03-2020.md) | :mag_right: **looking for a job**
@@ -268,13 +268,17 @@
     - **wt-nf** `Terminator Genisys`
     - **wt-pv** `Hustlers`
   - [Day 08](mar/03-08-2020.md) | :mag_right: **looking for a job**
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
     - **sc-ig** `Hedy Lamarr`
     - **wt-pv** `Captive State`
   - [Day 09](mar/03-09-2020.md) | :mag_right: **looking for a job**
-    - **pj-gh** `Lambda Tauri - DoD DoB`
+    - **pj-gh** `Lambda Tauri - DoB DoD`
     - **fv** `A React-Native datetime-picker for Android and iOS`
     - **fv** `RxDB - A realtime Database for JavaScript Applications`
     - **fv** `Pouchdb with async storage - React Native`
+  - [Day 10](mar/03-10-2020.md) | :mag_right: **looking for a job**
+    - **gn** `Selective process - I.... - third stage`
+  - [Day 11](mar/03-11-2020.md) | :computer: **lambda tauri - dob dod**
+    - **sc-ig** **sc-yt** `Estreias no cinema - 03.12.2020`
 
 
