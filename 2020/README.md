@@ -281,5 +281,8 @@
   - [Day 11](mar/03-11-2020.md) | :computer: **lambda tauri - dob dod**
     - **sc-ig** **sc-yt** `Estreias no cinema - 03.12.2020`
   - [Day 12](mar/03-12-2020.md) | :computer: **lambda tauri - dob dod**
+    - **gn** `Selective process - I.... - delivery of documents for admission`
+  - [Day 13](mar/03-13-2020.md) | :computer: **lambda tauri - dob dod**
+  - [Day 14](mar/03-14-2020.md) | :computer: **lambda tauri - dob dod**
 
 
