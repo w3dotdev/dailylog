@@ -284,5 +284,8 @@
     - **gn** `Selective process - I.... - delivery of documents for admission`
   - [Day 13](mar/03-13-2020.md) | :computer: **lambda tauri - dob dod**
   - [Day 14](mar/03-14-2020.md) | :computer: **lambda tauri - dob dod**
+  - [Day 15](mar/03-15-2020.md) | :computer: **lambda tauri - dob dod**
+    - **sc-ig** `Anos Sabáticos - A história ainda não contada`
+    - **pb-ws** `Stephane Legar`
 
 
