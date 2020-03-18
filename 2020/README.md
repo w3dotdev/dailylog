@@ -283,9 +283,13 @@
   - [Day 12](mar/03-12-2020.md) | :computer: **lambda tauri - dob dod**
     - **gn** `Selective process - I.... - delivery of documents for admission`
   - [Day 13](mar/03-13-2020.md) | :computer: **lambda tauri - dob dod**
-  - [Day 14](mar/03-14-2020.md) | :computer: **lambda tauri - dob dod**
+  - Day 14 | :newspaper: **I am focused on news from the current scenario**
   - [Day 15](mar/03-15-2020.md) | :computer: **lambda tauri - dob dod**
     - **sc-ig** `Anos Sabáticos - A história ainda não contada`
     - **pb-ws** `Stephane Legar`
+  - Day 16 | :newspaper: **I am focused on news from the current scenario**
+  - [Day 17](mar/03-16-2020.md) | :newspaper: **I am focused on news from the current scenario**
+    - **sc-ig** **sc-yt** `Estreias no cinema - 03.19.2020`
+  - Day 18 | :newspaper: **I am focused on news from the current scenario**
 
 
