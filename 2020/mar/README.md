@@ -49,3 +49,4 @@
 - [Day 17](03-16-2020.md) | :newspaper: **I am focused on news from the current scenario**
   - **sc-ig** **sc-yt** `Estreias no cinema - 03.19.2020`
 - Day 18 | :newspaper: **I am focused on news from the current scenario**
+- Day 19 | :newspaper: **I am focused on news from the current scenario**
