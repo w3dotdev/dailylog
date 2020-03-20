@@ -288,9 +288,11 @@
     - **sc-ig** `Anos Sabáticos - A história ainda não contada`
     - **pb-ws** `Stephane Legar`
   - Day 16 | :newspaper: **I am focused on news from the current scenario**
-  - [Day 17](mar/03-16-2020.md) | :newspaper: **I am focused on news from the current scenario**
+  - [Day 17](mar/03-17-2020.md) | :newspaper: **I am focused on news from the current scenario**
     - **sc-ig** **sc-yt** `Estreias no cinema - 03.19.2020`
   - Day 18 | :newspaper: **I am focused on news from the current scenario**
   - Day 19 | :newspaper: **I am focused on news from the current scenario**
+  - [Day 20](mar/03-20-2020.md) | :newspaper: **I am focused on news from the current scenario**
+    - **pj-gh** `Lambda Tauri - DoB DoD`
 
 
