@@ -53,3 +53,5 @@
 - [Day 20](03-20-2020.md) | :newspaper: **I am focused on news from the current scenario**
   - **pj-gh** `Lambda Tauri - DoB DoD`
 - Day 21 | :newspaper: **I am focused on news from the current scenario**
+- [Day 22](03-22-2020.md) | :newspaper: **I am focused on news from the current scenario**
+  - **pj-gh** `Lambda Tauri - DoB DoD`
