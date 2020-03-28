@@ -62,3 +62,4 @@
 - [Day 26](03-26-2020.md) | :newspaper: **I am focused on news from the current scenario**
   - **sc-ig** `Estreias no cinema - 03.26.2020`
 - Day 27 | :newspaper: **I am focused on news from the current scenario**
+- Day 28 | :newspaper: **I am focused on news from the current scenario**
