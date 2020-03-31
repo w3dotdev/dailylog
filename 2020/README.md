@@ -307,5 +307,6 @@
   - Day 28 | :newspaper: **I am focused on news from the current scenario**
   - Day 29 | :newspaper: **I am focused on news from the current scenario**
   - Day 30 | :newspaper: **I am focused on news from the current scenario** 
+  - Day 31 | :newspaper: **I am focused on news from the current scenario** 
 
 
