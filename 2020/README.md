@@ -308,5 +308,8 @@
   - Day 29 | :newspaper: **I am focused on news from the current scenario**
   - Day 30 | :newspaper: **I am focused on news from the current scenario** 
   - Day 31 | :newspaper: **I am focused on news from the current scenario** 
+- [April](apr/README.md)
+  - [Day 01](apr/04-01-2020.md) | :construction_worker: **work day**
+    - **sc-ig** `Analytics: 10/2010 - 03/2020`
 
 
