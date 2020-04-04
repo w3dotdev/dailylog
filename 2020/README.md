@@ -314,6 +314,7 @@
   - [Day 02](apr/04-02-2020.md) | :construction_worker: **work day**
     - **sc-ig** `Estreias no cinema - 04.02.2020`
     - **pb-ws** `Análise do mês de Março/2020`
-  - [Day 03](apr/04-03-2020.md) | :construction_worker: **work day**
+  - Day 03 | :construction_worker: **work day**
+  - Day 04 | :sunrise_over_mountains: **weekend**
 
 
