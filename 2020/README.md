@@ -11,7 +11,7 @@
   - [Day 03](jan/01-03-2020.md) | :bookmark_tabs: **planning**
     - **sc-ig** `Playlist - italy #3`
     - **wt-nf** `Mr. Right`
-    - **in** `FL Studio` 
+    - **in** `FL Studio`
   - [Day 04](jan/01-04-2020.md) | :bookmark_tabs: **planning**
     - **wt-nf** `Dracula - Season 1`
     - **cl** `Biceps`
@@ -95,7 +95,7 @@
     - **sc-ig** `Cabo de Santo Agostinho` `Playlist Sweden`
     - **cl** `Biceps`
   - [Day 30](jan/01-30-2020.md) | :mag_right: **looking for a job**
-    - **sc-ig** `Praia dos Carneiros - Part 1/2` 
+    - **sc-ig** `Praia dos Carneiros - Part 1/2`
     - **sc-ig** `Monólogo na caminhada - Ep. 08 - Temp. 01`
     - **sc-ig** `Praia dos Carneiros - Part 2/2`
     - **cl** `Running (4.97 miles) + Calisthenics + walking (4.97 miles)`
@@ -306,8 +306,8 @@
   - Day 27 | :newspaper: **I am focused on news from the current scenario**
   - Day 28 | :newspaper: **I am focused on news from the current scenario**
   - Day 29 | :newspaper: **I am focused on news from the current scenario**
-  - Day 30 | :newspaper: **I am focused on news from the current scenario** 
-  - Day 31 | :newspaper: **I am focused on news from the current scenario** 
+  - Day 30 | :newspaper: **I am focused on news from the current scenario**
+  - Day 31 | :newspaper: **I am focused on news from the current scenario**
 - [April](apr/README.md)
   - [Day 01](apr/04-01-2020.md) | :construction_worker: **work day**
     - **sc-ig** `Analytics: 10/2010 - 03/2020`
@@ -316,5 +316,6 @@
     - **pb-ws** `Análise do mês de Março/2020`
   - Day 03 | :construction_worker: **work day**
   - Day 04 | :sunrise_over_mountains: **weekend**
-
-
+  - [Day 05](04-05-2020.md) | :sunrise_over_mountains: **weekend**
+    - **pb-ws** `Ações recomendadas para Abril/2020`
+    - **sc-ig** `Ativos mais indicados pelas corretoras - Abril de 2020`

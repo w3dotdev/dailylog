@@ -7,3 +7,6 @@
   - **pb-ws** `Análise do mês de Março/2020`
 - Day 03 | :construction_worker: **work day**
 - Day 04 | :sunrise_over_mountains: **weekend**
+- [Day 05](04-05-2020.md) | :sunrise_over_mountains: **weekend**
+  - **pb-ws** `Ações recomendadas para Abril/2020`
+  - **sc-ig** `Ativos mais indicados pelas corretoras - Abril de 2020`
