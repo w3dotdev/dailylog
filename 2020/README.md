@@ -319,3 +319,6 @@
   - [Day 05](04-05-2020.md) | :sunrise_over_mountains: **weekend**
     - **pb-ws** `Ações recomendadas para Abril/2020`
     - **sc-ig** `Ativos mais indicados pelas corretoras - Abril de 2020`
+  - Day 06 | :construction_worker: **work day**
+  - Day 07 | :construction_worker: **work day**
+  - Day 08 | :construction_worker: **work day**
