@@ -322,3 +322,4 @@
   - Day 06 | :construction_worker: **work day**
   - Day 07 | :construction_worker: **work day**
   - Day 08 | :construction_worker: **work day**
+  - Day 09 | :construction_worker: **work day**
