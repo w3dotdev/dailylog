@@ -14,3 +14,5 @@
 - Day 07 | :construction_worker: **work day**
 - Day 08 | :construction_worker: **work day**
 - Day 09 | :construction_worker: **work day**
+- [Day 10](04-10-2020.md) | :zzz: **holiday**
+  - **sc-ig** `Dicas de filmes - Década 2010 - (Estreias no cinema) - 04.09.2020`

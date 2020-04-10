@@ -316,10 +316,12 @@
     - **pb-ws** `Análise do mês de Março/2020`
   - Day 03 | :construction_worker: **work day**
   - Day 04 | :sunrise_over_mountains: **weekend**
-  - [Day 05](04-05-2020.md) | :sunrise_over_mountains: **weekend**
+  - [Day 05](apr/04-05-2020.md) | :sunrise_over_mountains: **weekend**
     - **pb-ws** `Ações recomendadas para Abril/2020`
     - **sc-ig** `Ativos mais indicados pelas corretoras - Abril de 2020`
   - Day 06 | :construction_worker: **work day**
   - Day 07 | :construction_worker: **work day**
   - Day 08 | :construction_worker: **work day**
   - Day 09 | :construction_worker: **work day**
+  - [Day 10](apr/04-10-2020.md) | :zzz: **holiday**
+  - **sc-ig** `Dicas de filmes - Década 2010 - (Estreias no cinema) - 04.09.2020`
