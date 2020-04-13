@@ -18,3 +18,5 @@
   - **sc-ig** `Dicas de filmes - Década 2010 - (Estreias no cinema) - 04.09.2020`
 - [Day 11](04-11-2020.md) | :sunrise_over_mountains: **weekend**
   - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
+- [Day 12](04-12-2020.md) | :sunrise_over_mountains: **weekend**
+  - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
