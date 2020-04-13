@@ -329,3 +329,9 @@
     - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
   - [Day 12](apr/04-12-2020.md) | :sunrise_over_mountains: **weekend**
     - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
+  - [Day 13](apr/04-13-2020.md) | :construction_worker: **work day**
+    - **ar** `Qual a diferença entre BDD e TDD?`
+    - **ar** `BDD vs TDD vs ATDD : Key Differences`
+    - **ar** `Jest unit testing with components that use node-fetch`
+    - **ar** `Mocking React Components with Jest`
+    - **fv** `Mock http requests made using fetch`
