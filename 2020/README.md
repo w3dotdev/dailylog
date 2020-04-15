@@ -336,3 +336,10 @@
     - **ar** `Mocking React Components with Jest`
     - **fv** `Mock http requests made using fetch`
   - Day 14 | :construction_worker: **work day**
+  - [Day 15](apr/04-15-2020.md) | :construction_worker: **work day**
+    - **ar** `Set up a build pipeline with Jenkins and Amazon ECS`
+    - **ar** `AWS configure for Docker Containers with Jenkins Pipeline`
+    - **ar** `Part 4: Deploying Docker Containers to AWS Fargate using Jenkins`
+    - **ar** `CI/CD Series - Part 1: How to build a CI/CD pipeline using Jenkins, Docker & Kubernetes? (Step-by-Step Guide)`
+    - **fv** `Jenkins - Docker - AWS`
+    - **fv** `AWS Parameter Store Build Wrapper`
