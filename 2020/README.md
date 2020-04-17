@@ -343,3 +343,4 @@
     - **ar** `CI/CD Series - Part 1: How to build a CI/CD pipeline using Jenkins, Docker & Kubernetes? (Step-by-Step Guide)`
     - **fv** `Jenkins - Docker - AWS`
     - **fv** `AWS Parameter Store Build Wrapper`
+  - Day 16 | :construction_worker: **work day**
