@@ -36,3 +36,4 @@
   - **fv** `AWS Parameter Store Build Wrapper`
 - Day 16 | :construction_worker: **work day**
 - Day 17 | :construction_worker: **work day**
+- Day 18 | :construction_worker: **weekend**
