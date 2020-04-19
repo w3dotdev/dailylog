@@ -58,6 +58,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `yt` - Youtube
 - `nf` - Netflix
 - `pv` - Prime Video
+- `gp` - Globo Play
 - `tv` - TV/Others
 - `ws` - Website
 - `gh` - Github

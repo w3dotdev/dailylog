@@ -346,3 +346,5 @@
   - Day 16 | :construction_worker: **work day**
   - Day 17 | :construction_worker: **work day**
   - Day 18 | :construction_worker: **weekend**
+  - [Day 19](apr/04-19-2020.md) | :sunrise_over_mountains: **weekend**
+    - **wt-gp** `L.A.'s Finest - Season 1`
