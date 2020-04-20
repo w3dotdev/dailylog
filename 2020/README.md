@@ -343,8 +343,25 @@
     - **ar** `CI/CD Series - Part 1: How to build a CI/CD pipeline using Jenkins, Docker & Kubernetes? (Step-by-Step Guide)`
     - **fv** `Jenkins - Docker - AWS`
     - **fv** `AWS Parameter Store Build Wrapper`
-  - Day 16 | :construction_worker: **work day**
-  - Day 17 | :construction_worker: **work day**
+  - [Day 16](apr/04-16-2020.md) | :construction_worker: **work day**
+    - **sc-ig** `Dicas de filmes - Década 2000 - (Estreias no cinema) - 04.16.2020`
+  - [Day 17](apr/04-17-2020.md) | :construction_worker: **work day**
+    - **ar** `How to Build a Server Side Rendered React app with Next.js`
+    - **ar** `Server Rendering with React and React Router`
+    - **ar** `Next.js vs. Create React App: Whose apps are more performant?`
+    - **ar** `NextJS — Convert Client-Side React app to Server-side Rendering in 5 mins`
+    - **ar** `Use next.js with react-router`
+    - **ar** `Deploying create-react-app with Nginx and Ubuntu`
+    - **ar** `React in Docker with Nginx, built with multi-stage Docker builds, including testing`
+    - **ar** `Deploy Next.js Apps using Github Actions`
+    - **sl** `[React - SSR/CSR] Warning: Prop xx did not match.`
   - Day 18 | :construction_worker: **weekend**
   - [Day 19](apr/04-19-2020.md) | :sunrise_over_mountains: **weekend**
     - **wt-gp** `L.A.'s Finest - Season 1`
+  - [Day 20](apr/04-20-2020.md) | :construction_worker: **work day**
+    - **ar** `How to use SVGs in React`
+    - **ar** `Using SVG Icons Components in React`
+    - **ar** `REACT best way of importing svg (how and why)`
+    - **ar** `Creating an SVG Icon System with React`
+    - **ar** `Flexible Icons with React and SVG`
+    - **ar** `How to import SVG in Next.js with Typescript`

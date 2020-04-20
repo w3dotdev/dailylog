@@ -49,6 +49,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `pj` - **Project** - Projects that I wiggled
 - `pb` - **Published** - Published articles
 - `sc` - **Social** - Social media posts
+- `sl` - **Solutions** - Problem solving
 - `st` - **Study** - Studies on certain subjects
 - `wt` - **Watch** - Videos watched
 
