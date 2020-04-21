@@ -56,3 +56,4 @@
   - **ar** `Creating an SVG Icon System with React`
   - **ar** `Flexible Icons with React and SVG`
   - **ar** `How to import SVG in Next.js with Typescript`
+- Day 21 | :construction_worker: **work day**
