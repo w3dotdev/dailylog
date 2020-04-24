@@ -60,3 +60,5 @@
 - Day 22 | :construction_worker: **work day**
 - [Day 23](04-23-2020.md) | :zzz: **holiday**
   - **sc-ig** `Dicas de filmes - Década 1990 - (Estreias no cinema) - 04.23.2020`
+- [Day 24](04-24-2020.md) | :zzz: **holiday**
+  - **wt-gp** `S.W.A.T - Season 1`
