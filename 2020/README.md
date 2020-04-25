@@ -369,3 +369,5 @@
   - Day 22 | :construction_worker: **work day**
   - [Day 23](apr/04-23-2020.md) | :zzz: **holiday**
     - **wt-gp** `S.W.A.T - Season 1`
+  - [Day 25](apr/04-25-2020.md) | :sunrise_over_mountains: **weekend**
+    - **wt-gp** `Seal Team - Season 1`

@@ -62,3 +62,5 @@
   - **sc-ig** `Dicas de filmes - Década 1990 - (Estreias no cinema) - 04.23.2020`
 - [Day 24](04-24-2020.md) | :zzz: **holiday**
   - **wt-gp** `S.W.A.T - Season 1`
+- [Day 25](04-25-2020.md) | :sunrise_over_mountains: **weekend**
+  - **wt-gp** `Seal Team - Season 1`
