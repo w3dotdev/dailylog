@@ -371,3 +371,5 @@
     - **wt-gp** `S.W.A.T - Season 1`
   - [Day 25](apr/04-25-2020.md) | :sunrise_over_mountains: **weekend**
     - **wt-gp** `Seal Team - Season 1`
+  - [Day 26](apr/04-26-2020.md) | :sunrise_over_mountains: **weekend**
+    - **wt-gp** `Seal Team - Season 2`
