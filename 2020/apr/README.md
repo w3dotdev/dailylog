@@ -66,3 +66,4 @@
   - **wt-gp** `Seal Team - Season 1`
 - [Day 26](04-26-2020.md) | :sunrise_over_mountains: **weekend**
   - **wt-gp** `Seal Team - Season 2`
+- Day 27 | :construction_worker: **work day**
