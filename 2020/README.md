@@ -374,3 +374,5 @@
   - [Day 26](apr/04-26-2020.md) | :sunrise_over_mountains: **weekend**
     - **wt-gp** `Seal Team - Season 2`
   - Day 27 | :construction_worker: **work day**
+  - [Day 28](apr/04-28-2020.md) | :construction_worker: **work day**
+    - **sc-ig** `5C's`
