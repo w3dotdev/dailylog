@@ -376,3 +376,4 @@
   - Day 27 | :construction_worker: **work day**
   - [Day 28](apr/04-28-2020.md) | :construction_worker: **work day**
     - **sc-ig** `5C's`
+  - Day 29 | :construction_worker: **work day**
