@@ -368,6 +368,8 @@
   - Day 21 | :construction_worker: **work day**
   - Day 22 | :construction_worker: **work day**
   - [Day 23](apr/04-23-2020.md) | :zzz: **holiday**
+    - **sc-ig** `Dicas de filmes - Década 1990 - (Estreias no cinema) - 04.23.2020`
+  - [Day 24](apr/04-24-2020.md) | :zzz: **holiday**
     - **wt-gp** `S.W.A.T - Season 1`
   - [Day 25](apr/04-25-2020.md) | :sunrise_over_mountains: **weekend**
     - **wt-gp** `Seal Team - Season 1`
@@ -377,3 +379,5 @@
   - [Day 28](apr/04-28-2020.md) | :construction_worker: **work day**
     - **sc-ig** `5C's`
   - Day 29 | :construction_worker: **work day**
+  - [Day 30](apr/04-30-2020.md) | :construction_worker: **work day**
+    - **sc-ig** `Dicas de filmes - Década 1980 - (Estreias no cinema) - 04.30.2020`

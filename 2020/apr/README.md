@@ -68,5 +68,7 @@
   - **wt-gp** `Seal Team - Season 2`
 - Day 27 | :construction_worker: **work day**
 - [Day 28](04-28-2020.md) | :construction_worker: **work day**
-    - **sc-ig** `5C's`
+  - **sc-ig** `5C's`
 - Day 29 | :construction_worker: **work day**
+- [Day 30](04-30-2020.md) | :construction_worker: **work day**
+  - **sc-ig** `Dicas de filmes - Década 1980 - (Estreias no cinema) - 04.30.2020`
