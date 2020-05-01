@@ -309,43 +309,43 @@
   - Day 30 | :newspaper: **I am focused on news from the current scenario**
   - Day 31 | :newspaper: **I am focused on news from the current scenario**
 - [April](apr/README.md)
-  - [Day 01](apr/04-01-2020.md) | :construction_worker: **work day**
+  - [Day 01](apr/04-01-2020.md) | :construction_worker: **workday**
     - **sc-ig** `Analytics: 10/2010 - 03/2020`
-  - [Day 02](apr/04-02-2020.md) | :construction_worker: **work day**
+  - [Day 02](apr/04-02-2020.md) | :construction_worker: **workday**
     - **sc-ig** `Estreias no cinema - 04.02.2020`
     - **pb-ws** `Análise do mês de Março/2020`
-  - Day 03 | :construction_worker: **work day**
-  - Day 04 | :sunrise_over_mountains: **weekend**
-  - [Day 05](apr/04-05-2020.md) | :sunrise_over_mountains: **weekend**
+  - Day 03 | :construction_worker: **workday**
+  - Day 04 | :sunrise_over_mountains: **weekend day**
+  - [Day 05](apr/04-05-2020.md) | :sunrise_over_mountains: **weekend day**
     - **pb-ws** `Ações recomendadas para Abril/2020`
     - **sc-ig** `Ativos mais indicados pelas corretoras - Abril de 2020`
-  - Day 06 | :construction_worker: **work day**
-  - Day 07 | :construction_worker: **work day**
-  - Day 08 | :construction_worker: **work day**
-  - Day 09 | :construction_worker: **work day**
+  - Day 06 | :construction_worker: **workday**
+  - Day 07 | :construction_worker: **workday**
+  - Day 08 | :construction_worker: **workday**
+  - Day 09 | :construction_worker: **workday**
   - [Day 10](apr/04-10-2020.md) | :zzz: **holiday**
     - **sc-ig** `Dicas de filmes - Década 2010 - (Estreias no cinema) - 04.09.2020`
-  - [Day 11](apr/04-11-2020.md) | :sunrise_over_mountains: **weekend**
+  - [Day 11](apr/04-11-2020.md) | :sunrise_over_mountains: **weekend day**
     - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
-  - [Day 12](apr/04-12-2020.md) | :sunrise_over_mountains: **weekend**
+  - [Day 12](apr/04-12-2020.md) | :sunrise_over_mountains: **weekend day**
     - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
-  - [Day 13](apr/04-13-2020.md) | :construction_worker: **work day**
+  - [Day 13](apr/04-13-2020.md) | :construction_worker: **workday**
     - **ar** `Qual a diferença entre BDD e TDD?`
     - **ar** `BDD vs TDD vs ATDD : Key Differences`
     - **ar** `Jest unit testing with components that use node-fetch`
     - **ar** `Mocking React Components with Jest`
     - **fv** `Mock http requests made using fetch`
-  - Day 14 | :construction_worker: **work day**
-  - [Day 15](apr/04-15-2020.md) | :construction_worker: **work day**
+  - Day 14 | :construction_worker: **workday**
+  - [Day 15](apr/04-15-2020.md) | :construction_worker: **workday**
     - **ar** `Set up a build pipeline with Jenkins and Amazon ECS`
     - **ar** `AWS configure for Docker Containers with Jenkins Pipeline`
     - **ar** `Part 4: Deploying Docker Containers to AWS Fargate using Jenkins`
     - **ar** `CI/CD Series - Part 1: How to build a CI/CD pipeline using Jenkins, Docker & Kubernetes? (Step-by-Step Guide)`
     - **fv** `Jenkins - Docker - AWS`
     - **fv** `AWS Parameter Store Build Wrapper`
-  - [Day 16](apr/04-16-2020.md) | :construction_worker: **work day**
+  - [Day 16](apr/04-16-2020.md) | :construction_worker: **workday**
     - **sc-ig** `Dicas de filmes - Década 2000 - (Estreias no cinema) - 04.16.2020`
-  - [Day 17](apr/04-17-2020.md) | :construction_worker: **work day**
+  - [Day 17](apr/04-17-2020.md) | :construction_worker: **workday**
     - **ar** `How to Build a Server Side Rendered React app with Next.js`
     - **ar** `Server Rendering with React and React Router`
     - **ar** `Next.js vs. Create React App: Whose apps are more performant?`
@@ -355,29 +355,59 @@
     - **ar** `React in Docker with Nginx, built with multi-stage Docker builds, including testing`
     - **ar** `Deploy Next.js Apps using Github Actions`
     - **sl** `[React - SSR/CSR] Warning: Prop xx did not match.`
-  - Day 18 | :construction_worker: **weekend**
-  - [Day 19](apr/04-19-2020.md) | :sunrise_over_mountains: **weekend**
+  - Day 18 | :construction_worker: **weekend day**
+  - [Day 19](apr/04-19-2020.md) | :sunrise_over_mountains: **weekend day**
     - **wt-gp** `L.A.'s Finest - Season 1`
-  - [Day 20](apr/04-20-2020.md) | :construction_worker: **work day**
+  - [Day 20](apr/04-20-2020.md) | :construction_worker: **workday**
     - **ar** `How to use SVGs in React`
     - **ar** `Using SVG Icons Components in React`
     - **ar** `REACT best way of importing svg (how and why)`
     - **ar** `Creating an SVG Icon System with React`
     - **ar** `Flexible Icons with React and SVG`
     - **ar** `How to import SVG in Next.js with Typescript`
-  - Day 21 | :construction_worker: **work day**
-  - Day 22 | :construction_worker: **work day**
+  - Day 21 | :construction_worker: **workday**
+  - [Day 22](apr/04-22-2020.md) | :construction_worker: **workday**
+    - **ar** `Serverless Next.js At The Edge`
+    - **ar** `Deploying Serverless App with Next.js 8, AWS Lambda and CircleCI`
+    - **ar** `Deploying Serverless App with Next.js 8, AWS Lambda and CircleCI — Part 2`
+    - **ar** `Using Environment Variables on the Front-end with NextJS`
+    - **ar** `Nextjs With Lambda`
+    - **ar** `Getting Started with AWS Lambda and Node.js`
+    - **ar** `A crash course on serverless-side rendering with React.js, Next.js and AWS Lambda`
+    - **ar** `Securing persistent environment variables using ZEIT Now`\
   - [Day 23](apr/04-23-2020.md) | :zzz: **holiday**
     - **sc-ig** `Dicas de filmes - Década 1990 - (Estreias no cinema) - 04.23.2020`
   - [Day 24](apr/04-24-2020.md) | :zzz: **holiday**
     - **wt-gp** `S.W.A.T - Season 1`
-  - [Day 25](apr/04-25-2020.md) | :sunrise_over_mountains: **weekend**
+  - [Day 25](apr/04-25-2020.md) | :sunrise_over_mountains: **weekend day**
     - **wt-gp** `Seal Team - Season 1`
-  - [Day 26](apr/04-26-2020.md) | :sunrise_over_mountains: **weekend**
+  - [Day 26](apr/04-26-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `“The title ‘Front-End Developer’ is obsolete.”`
+    - **ar** `#173: Ooooops I guess we’re full-stack developers now.`
     - **wt-gp** `Seal Team - Season 2`
-  - Day 27 | :construction_worker: **work day**
-  - [Day 28](apr/04-28-2020.md) | :construction_worker: **work day**
+  - [Day 27](apr/04-27-2020.md) | :construction_worker: **workday**
+    - **ar** `Testing React Components Using the New Context API`
+    - **ar** `Unit testing components using React’s new Context API`
+    - **ar** `Jest: mock window.location methods`
+  - [Day 28](apr/04-28-2020.md) | :construction_worker: **workday**
+    - **ar** `Tested React: Build and Test a Form using React Context`
+    - **ar** `Working with React context providers in Typescript`
+    - **ar** `TypeScript & React HOCs + Context API`
+    - **ar** `React Context with TypeScript: Part 4 - Creating a context with no default and no undefined check`
+    - **ar** `Clever React context tricks using Typescript — not Redux`
+    - **ar** `React Context with TypeScript: Part 1 - Simple context with function components`
+    - **ar** `Using React Context in a TypeScript App`
     - **sc-ig** `5C's`
-  - Day 29 | :construction_worker: **work day**
-  - [Day 30](apr/04-30-2020.md) | :construction_worker: **work day**
+  - [Day 29](apr/04-29-2020.md) | :construction_worker: **workday**
+    - **ar** `A simple React(Next.js) app development on Docker`
+    - **ar** `Nginx servindo Node.js`
+    - **ar** `Server-side rendering (SSR) com ReactJS e Next.js`
+    - **ar** `Server-Side Rendering Recipes`
+    - **ar** `Using Cookies with React, Redux and React Router 4`
+  - [Day 30](apr/04-30-2020.md) | :construction_worker: **workday**
+    - **ev** `Evento Virtual de Certificação: AWS Certified Solutions Architect – Associate`
+    - **ar** `Testing React Function Components with Hooks using Enzyme`
+    - **ar** `Deploy an app to multiple environments with ZEIT Now`
     - **sc-ig** `Dicas de filmes - Década 1980 - (Estreias no cinema) - 04.30.2020`
+- [May](may/README.md)
+  - [Day 01](may/05-01-2020.md) | :zzz: **holiday**

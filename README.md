@@ -21,7 +21,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 | **[2017](2017/)** |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
 |                   | [Jan](2017/jan#readme) |          Feb           |          Mar           |          Apr           |          May           |          Jun           |          Jul           |          Aug           |    [Sep](2017/sep)     |          Oct           |          Nov           |          Dec           |
 | **[2020](2020/)** |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
-|                   | [Jan](2020/jan#readme) | [Feb](2020/feb#readme) | [Mar](2020/mar#readme) | [Apr](2020/apr#readme) |          May           |          Jun           |          Jul           |          Aug           |          Sep           |          Oct           |          Nov           |          Dec           |
+|                   | [Jan](2020/jan#readme) | [Feb](2020/feb#readme) | [Mar](2020/mar#readme) | [Apr](2020/apr#readme) | [May](2020/may#readme) |          Jun           |          Jul           |          Aug           |          Sep           |          Oct           |          Nov           |          Dec           |
 |                   |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |                        |
 
 ## Coding Activity
@@ -38,6 +38,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `ar` - **Article** - Articles read
 - `bk` - **Book** - Books read
 - `cl` - **Calisthenics** - Conducted training
+- `ev` - **Event** - Events
 - `fv` - **Favorite** - Projects or ideas that I liked
 - `fl` - **Film** - Watched Movies (movie theater)
 - `fr` - **Freelance** - Work carried out as a freelancer
