@@ -6,8 +6,8 @@
   - **sc-ig** `Estreias no cinema - 04.02.2020`
   - **pb-ws** `Análise do mês de Março/2020`
 - Day 03 | :construction_worker: **workday**
-- Day 04 | :sunrise_over_mountains: **weekend day**
-- [Day 05](04-05-2020.md) | :sunrise_over_mountains: **weekend day**
+- Day 04 | :sunrise_over_mountains: **Weekend day**
+- [Day 05](04-05-2020.md) | :sunrise_over_mountains: **Weekend day**
   - **pb-ws** `Ações recomendadas para Abril/2020`
   - **sc-ig** `Ativos mais indicados pelas corretoras - Abril de 2020`
 - Day 06 | :construction_worker: **workday**
@@ -16,9 +16,9 @@
 - Day 09 | :construction_worker: **workday**
 - [Day 10](04-10-2020.md) | :zzz: **holiday**
   - **sc-ig** `Dicas de filmes - Década 2010 - (Estreias no cinema) - 04.09.2020`
-- [Day 11](04-11-2020.md) | :sunrise_over_mountains: **weekend day**
+- [Day 11](04-11-2020.md) | :sunrise_over_mountains: **Weekend day**
   - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
-- [Day 12](04-12-2020.md) | :sunrise_over_mountains: **weekend day**
+- [Day 12](04-12-2020.md) | :sunrise_over_mountains: **Weekend day**
   - **pg-gh** `A tool to analyze and visualize toxicity in Twitter`
 - [Day 13](04-13-2020.md) | :construction_worker: **workday**
   - **ar** `Qual a diferença entre BDD e TDD?`
@@ -46,8 +46,8 @@
   - **ar** `React in Docker with Nginx, built with multi-stage Docker builds, including testing`
   - **ar** `Deploy Next.js Apps using Github Actions`
   - **sl** `[React - SSR/CSR] Warning: Prop xx did not match.`
-- Day 18 | :sunrise_over_mountains: **weekend day**
-- [Day 19](04-19-2020.md) | :sunrise_over_mountains: **weekend day**
+- Day 18 | :sunrise_over_mountains: **Weekend day**
+- [Day 19](04-19-2020.md) | :sunrise_over_mountains: **Weekend day**
   - **wt-gp** `L.A.'s Finest - Season 1`
 - [Day 20](04-20-2020.md) | :construction_worker: **workday**
   - **ar** `How to use SVGs in React`
@@ -70,9 +70,9 @@
   - **sc-ig** `Dicas de filmes - Década 1990 - (Estreias no cinema) - 04.23.2020`
 - [Day 24](04-24-2020.md) | :zzz: **holiday**
   - **wt-gp** `S.W.A.T - Season 1`
-- [Day 25](04-25-2020.md) | :sunrise_over_mountains: **weekend day**
+- [Day 25](04-25-2020.md) | :sunrise_over_mountains: **Weekend day**
   - **wt-gp** `Seal Team - Season 1`
-- [Day 26](04-26-2020.md) | :sunrise_over_mountains: **weekend day**
+- [Day 26](04-26-2020.md) | :sunrise_over_mountains: **Weekend day**
   - **ar** `“The title ‘Front-End Developer’ is obsolete.”`
   - **ar** `#173: Ooooops I guess we’re full-stack developers now.`
   - **wt-gp** `Seal Team - Season 2`

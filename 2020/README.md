@@ -410,4 +410,7 @@
     - **ar** `Deploy an app to multiple environments with ZEIT Now`
     - **sc-ig** `Dicas de filmes - Década 1980 - (Estreias no cinema) - 04.30.2020`
 - [May](may/README.md)
-  - [Day 01](may/05-01-2020.md) | :zzz: **holiday**
+  - Day 01 | :zzz: **holiday**
+  - [Day 02](may/05-02-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **pb** `Análise do mês de Abril/2020`
+    - **pb** `Loïc Nottet`
