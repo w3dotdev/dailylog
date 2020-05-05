@@ -420,3 +420,10 @@
     - **ar** `Server-side rendering (SSR) com ReactJS e Next.js`
     - **pb-ws** `Ações recomendadas para Maio/2020`
     - **sc-ig** `Ativos mais indicados pelas corretoras - Maio de 2020`
+  - [Day 05](may/05-05-2020.md) | :construction_worker: **workday**
+    - **ar** `Mocking HTTP requests with Nock`
+    - **ar** `Axios or fetch(): Which should you use?`
+    - **ar** `Handling Failed HTTP Responses With fetch()`
+    - **ar** `Using Fetch`
+    - **dc** `Você Provavelmente Não Precisa de Estado Derivado`
+    - **sl** `Handling Failed HTTP Responses With fetch()`
