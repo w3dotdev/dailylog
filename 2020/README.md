@@ -427,3 +427,10 @@
     - **ar** `Using Fetch`
     - **dc** `Você Provavelmente Não Precisa de Estado Derivado`
     - **sl** `Handling Failed HTTP Responses With fetch()`
+  - [Day 06](may/05-06-2020.md) | :construction_worker: **workday**
+    - **ar** `"Synchronous" fetch with async/await`
+    - **ar** `Mocking API calls and simulating React components interactions`
+    - **ar** `Effective testing of styled-components with Jest Snapshots`
+    - **ar** `Snapshots: Painless Testing of React Components`
+    - **ar** `React project (using Typescript and Styled Components) Testing Setup with Jest and Enzyme`
+    - **in** `Colour Contrast Analyser`
