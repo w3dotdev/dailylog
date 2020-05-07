@@ -434,3 +434,6 @@
     - **ar** `Snapshots: Painless Testing of React Components`
     - **ar** `React project (using Typescript and Styled Components) Testing Setup with Jest and Enzyme`
     - **in** `Colour Contrast Analyser`
+  - [Day 07](may/05-07-2020.md) | :construction_worker: **workday**
+    - **ar** `The Anatomy of The Perfect Mobile E-Commerce Checkout Page`
+    - **sc-ig** `Dicas de filmes - Década 1970 - (Estreias no cinema) - 05.07.2020`
