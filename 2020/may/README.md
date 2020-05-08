@@ -27,3 +27,6 @@
 - [Day 07](05-07-2020.md) | :construction_worker: **workday**
   - **ar** `The Anatomy of The Perfect Mobile E-Commerce Checkout Page`
   - **sc-ig** `Dicas de filmes - Década 1970 - (Estreias no cinema) - 05.07.2020`
+- [Day 08](05-08-2020.md) | :construction_worker: **workday**
+  - **dc** `getInitialProps - Next.js`
+  - **dc** `getServerSideProps - Next.js`
