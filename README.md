@@ -38,13 +38,13 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `ar` - **Article** - Articles read
 - `bk` - **Book** - Books read
 - `cl` - **Calisthenics** - Conducted training
-- `dc` - **Documentation** - Documentation read
 - `ev` - **Event** - Events
 - `fv` - **Favorite** - Projects or ideas that I liked
 - `fl` - **Film** - Watched Movies (movie theater)
 - `fr` - **Freelance** - Work carried out as a freelancer
 - `gm` - **Game** - Games played
 - `gn` - **General** - Things in general
+- `hb` - **Handbook** - Handbook read
 - `in` - **Install** - Installed programs
 - `lg` - **Language** - Languages studied
 - `pc` - **Podcast** - Digital audio on web development

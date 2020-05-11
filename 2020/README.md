@@ -17,7 +17,7 @@
     - **cl** `Biceps`
   - [Day 05](jan/01-05-2020.md) | :bookmark_tabs: **planning**
     - **wt-nf** `Messiah - Season 1`
-    - **pj** `React SSR/SPA`
+    - **pj-gh** `React SSR/SPA`
   - [Day 06](jan/01-06-2020.md) | :microscope: **togakure - tooltip**
     - **wt-nf** `Logan Lucky`
     - **wt-pv** `The Aeronauts` `The Report`
@@ -425,7 +425,7 @@
     - **ar** `Axios or fetch(): Which should you use?`
     - **ar** `Handling Failed HTTP Responses With fetch()`
     - **ar** `Using Fetch`
-    - **dc** `Você Provavelmente Não Precisa de Estado Derivado`
+    - **hb** `Você Provavelmente Não Precisa de Estado Derivado`
     - **sl** `Handling Failed HTTP Responses With fetch()`
   - [Day 06](may/05-06-2020.md) | :construction_worker: **workday**
     - **ar** `"Synchronous" fetch with async/await`
@@ -438,5 +438,9 @@
     - **ar** `The Anatomy of The Perfect Mobile E-Commerce Checkout Page`
     - **sc-ig** `Dicas de filmes - Década 1970 - (Estreias no cinema) - 05.07.2020`
   - [Day 08](may/05-08-2020.md) | :construction_worker: **workday**
-    - **dc** `getInitialProps - Next.js`
-    - **dc** `getServerSideProps - Next.js`
+    - **hb** `getInitialProps - Next.js`
+    - **hb** `getServerSideProps - Next.js`
+  - Day 09 | :sunrise_over_mountains: **weekend day**
+  - [Day 10](may/05-10-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **pj-gh** `NextJS - Minerva`
+    - **sc-ig** `Dicas de livros digitais`
