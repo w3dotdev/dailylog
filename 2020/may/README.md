@@ -34,3 +34,11 @@
 - [Day 10](05-10-2020.md) | :sunrise_over_mountains: **weekend day**
   - **pj-gh** `NextJS - Minerva`
   - **sc-ig** `Dicas de livros digitais`
+- [Day 11](05-11-2020.md) | :construction_worker: **workday**
+  - **ar** `How to Properly Copyright a Website - Legal & HTML Requirements`
+  - **ar** `Allow access to the Docker Engine without admin rights on Windows`
+  - **ar** `Comandos mais utilizados no docker`
+  - **ar** `Building Server-rendered React Apps with NextJS`
+  - **ar** `A simple React(Next.js) app development on Docker`
+  - **ar** `Frontend dockerized build artifacts with NextJS`
+  - **fv-gh** `Next.js boilerplate for macOS/Linux/Windows development and Alpine Linux Container deployments to production with security in mind!`
