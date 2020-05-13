@@ -452,3 +452,8 @@
     - **ar** `A simple React(Next.js) app development on Docker`
     - **ar** `Frontend dockerized build artifacts with NextJS`
     - **fv-gh** `Next.js boilerplate for macOS/Linux/Windows development and Alpine Linux Container deployments to production with security in mind!`
+  - [Day 12](may/05-12-2020.md) | :construction_worker: **workday**
+    - **ar** `Dica rápida - TypeScript conhecendo o ts-ignore`
+    - **ar** `How to use Next.js API Routes`
+    - **fv-gh** `Next.js + Docker + Compose + Kubernetes + VS Code + TypeScript + Jest + Storybook`
+    - **hb** `Up your AWS CloudFormation testing game using TaskCat - AWS`
