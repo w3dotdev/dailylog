@@ -47,3 +47,6 @@
     - **ar** `How to use Next.js API Routes`
     - **fv-gh** `Next.js + Docker + Compose + Kubernetes + VS Code + TypeScript + Jest + Storybook`
     - **hb** `Up your AWS CloudFormation testing game using TaskCat - AWS`
+  - [Day 13](05-13-2020.md) | :construction_worker: **workday**
+    - **hb** `A secure runtime for JavaScript and TypeScript - Deno`
+    - **hb** `version 9.4 - Next.js`
