@@ -50,3 +50,7 @@
   - [Day 13](05-13-2020.md) | :construction_worker: **workday**
     - **hb** `A secure runtime for JavaScript and TypeScript - Deno`
     - **hb** `version 9.4 - Next.js`
+  - [Day 14](05-14-2020.md) | :construction_worker: **workday**
+    - **ar** `How to use SVGs in React`
+    - **ar** `Animating SVG with styled-components`
+    - **ar** `Working with SVGs in React`
