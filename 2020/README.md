@@ -464,3 +464,8 @@
     - **ar** `How to use SVGs in React`
     - **ar** `Animating SVG with styled-components`
     - **ar** `Working with SVGs in React`
+  - [Day 15](may/05-15-2020.md) | :construction_worker: **workday**
+    - **ar** `Como Remover Todas as Imagens no Docker`
+    - **ar** `Docker EXPOSE Ports`
+    - **ar** `How to reduce Docker Image sizes using multi-stage builds`
+    - **hb** `Use multi-stage builds - Docker`
