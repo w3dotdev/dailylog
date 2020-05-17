@@ -43,19 +43,20 @@
   - **ar** `Frontend dockerized build artifacts with NextJS`
   - **fv-gh** `Next.js boilerplate for macOS/Linux/Windows development and Alpine Linux Container deployments to production with security in mind!`
 - [Day 12](05-12-2020.md) | :construction_worker: **workday**
-    - **ar** `Dica rápida - TypeScript conhecendo o ts-ignore`
-    - **ar** `How to use Next.js API Routes`
-    - **fv-gh** `Next.js + Docker + Compose + Kubernetes + VS Code + TypeScript + Jest + Storybook`
-    - **hb** `Up your AWS CloudFormation testing game using TaskCat - AWS`
-  - [Day 13](05-13-2020.md) | :construction_worker: **workday**
-    - **hb** `A secure runtime for JavaScript and TypeScript - Deno`
-    - **hb** `version 9.4 - Next.js`
-  - [Day 14](05-14-2020.md) | :construction_worker: **workday**
-    - **ar** `How to use SVGs in React`
-    - **ar** `Animating SVG with styled-components`
-    - **ar** `Working with SVGs in React`
-  - [Day 15](05-15-2020.md) | :construction_worker: **workday**
-    - **ar** `Como Remover Todas as Imagens no Docker`
-    - **ar** `Docker EXPOSE Ports`
-    - **ar** `How to reduce Docker Image sizes using multi-stage builds`
-    - **hb** `Use multi-stage builds - Docker`
+  - **ar** `Dica rápida - TypeScript conhecendo o ts-ignore`
+  - **ar** `How to use Next.js API Routes`
+  - **fv-gh** `Next.js + Docker + Compose + Kubernetes + VS Code + TypeScript + Jest + Storybook`
+  - **hb** `Up your AWS CloudFormation testing game using TaskCat - AWS`
+- [Day 13](05-13-2020.md) | :construction_worker: **workday**
+  - **hb** `A secure runtime for JavaScript and TypeScript - Deno`
+  - **hb** `version 9.4 - Next.js`
+- [Day 14](05-14-2020.md) | :construction_worker: **workday**
+  - **ar** `How to use SVGs in React`
+  - **ar** `Animating SVG with styled-components`
+  - **ar** `Working with SVGs in React`
+- [Day 15](05-15-2020.md) | :construction_worker: **workday**
+  - **ar** `Como Remover Todas as Imagens no Docker`
+  - **ar** `Docker EXPOSE Ports`
+  - **ar** `How to reduce Docker Image sizes using multi-stage builds`
+  - **hb** `Use multi-stage builds - Docker`
+- Day 16 | :sunrise_over_mountains: **weekend day**
