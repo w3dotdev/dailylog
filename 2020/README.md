@@ -470,3 +470,4 @@
     - **ar** `How to reduce Docker Image sizes using multi-stage builds`
     - **hb** `Use multi-stage builds - Docker`
   - Day 16 | :sunrise_over_mountains: **weekend day**
+  - Day 17 | :sunrise_over_mountains: **weekend day**
