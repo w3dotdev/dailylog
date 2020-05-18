@@ -61,3 +61,6 @@
   - **hb** `Use multi-stage builds - Docker`
 - Day 16 | :sunrise_over_mountains: **weekend day**
 - Day 17 | :sunrise_over_mountains: **weekend day**
+- [Day 18](05-18-2020.md) | :construction_worker: **workday**
+  - **ar** `React Render Props in TypeScript`
+  - **fv** `A React component that injects SVG into the DOM`
