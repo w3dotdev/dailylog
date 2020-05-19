@@ -474,3 +474,12 @@
   - [Day 18](may/05-18-2020.md) | :construction_worker: **workday**
     - **ar** `React Render Props in TypeScript`
     - **fv** `A React component that injects SVG into the DOM`
+  - [Day 19](may/05-19-2020.md) | :construction_worker: **workday**
+    - **ar** `Build a state management system with vanilla JavaScript`
+    - **ar** `Using Arrow Functions to avoid binding `this` in React`
+    - **ar** `Losing .bind(this) in React`
+    - **ar** `When should I use arrow functions with React?`
+    - **ar** `Five Ways to Convert React Class Components to Functional Components with React Hooks`
+    - **ar** `10 obstáculos frequentes encontrados pelos novos tripulantes do React`
+    - **ar** `Fetch with async & await and TypeScript`
+    - **ar** `Conditional Object Properties Using Spread in JavaScript`
