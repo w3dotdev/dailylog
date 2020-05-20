@@ -73,3 +73,6 @@
   - **ar** `10 obstáculos frequentes encontrados pelos novos tripulantes do React`
   - **ar** `Fetch with async & await and TypeScript`
   - **ar** `Conditional Object Properties Using Spread in JavaScript`
+- [Day 20](05-20-2020.md) | :construction_worker: **workday**
+  - **ar** `How to Deal with Cookies in JavaScript`
+  - **ar** `Testing async setState in React: setTimeout in componentDidMount`
