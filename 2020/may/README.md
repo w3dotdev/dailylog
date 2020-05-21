@@ -76,3 +76,10 @@
 - [Day 20](05-20-2020.md) | :construction_worker: **workday**
   - **ar** `How to Deal with Cookies in JavaScript`
   - **ar** `Testing async setState in React: setTimeout in componentDidMount`
+- [Day 21](05-21-2020.md) | :construction_worker: **workday**
+  - **ar** `How to deploy Next.js app on AWS Elastic Beanstalk via Travis?`
+  - **ar** `Next.js — Start web development with Next.js & create-next-app`
+  - **ar** `How to test localhost node APIs on Android device`
+  - **ar** `Como criar seu primeiro Progressive Web App do Zero`
+  - **ar** `Entendendo o CORS — Parte 1`
+  - **ar** `Entendendo o CORS — Parte 2`
