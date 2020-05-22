@@ -83,3 +83,17 @@
   - **ar** `Como criar seu primeiro Progressive Web App do Zero`
   - **ar** `Entendendo o CORS — Parte 1`
   - **ar** `Entendendo o CORS — Parte 2`
+- [Day 22](05-22-2020.md) | :construction_worker: **workday**
+  - **ar** `Folder structure for React-TypeScript apps`
+  - **ar** `How To Structure Your TypeScript + React + Redux App`
+  - **ar** `Introduction to Async/await & its best practices: Part One`
+  - **ar** `The hard error handling case made easy with async/await`
+  - **ar** `Mastering Async Await in Node.js`
+  - **ar** `An alternative way to use async/await without try/catch blocks in Node JS`
+  - **ar** `JavaScript: Tratando erros ao estilo Go`
+  - **ar** `Introducing react-map-interaction for zooming & panning in React`
+  - **ar** `Reading and Writing JSON Files with Node.js`
+  - **ar** `Node.js Everywhere with Environment Variables!`
+  - **ar** `SSM Parameter Store for keeping secrets in a structured way`
+  - **ar** `The right way to manage secrets with AWS`
+  - **ar** `Tips and tricks for AWS SSM Parameter Store with confd`
