@@ -507,3 +507,5 @@
     - **ar** `SSM Parameter Store for keeping secrets in a structured way`
     - **ar** `The right way to manage secrets with AWS`
     - **ar** `Tips and tricks for AWS SSM Parameter Store with confd`
+  - Day 23 | :sunrise_over_mountains: **weekend day**
+  - [Day 23](may/05-23-2020.md) | :sunrise_over_mountains: **weekend day**
