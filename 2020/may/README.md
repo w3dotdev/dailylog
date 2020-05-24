@@ -98,4 +98,13 @@
   - **ar** `The right way to manage secrets with AWS`
   - **ar** `Tips and tricks for AWS SSM Parameter Store with confd`
 - Day 23 | :sunrise_over_mountains: **weekend day**
-- [Day 23](05-23-2020.md) | :sunrise_over_mountains: **weekend day**
+- [Day 24](05-24-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Storybook DocsPage`
+  - **ar** `Adding state to Storybook in React`
+  - **ar** `Improve how you style and compose React apps — Use components in defaultProps`
+  - **ar** `Conditional Rendering with Recompose`
+  - **ar** `How to create your own React Hooks`
+  - **ar** `Interface vs Type alias in TypeScript 2.7`
+  - **ar** `Building a Checkbox Component with React and styled-components`
+  - **ar** `How to Redesign Unsplash Using Styled Components`
+  - **ar** `React Styled Components: Inline Styles + 3 Other CSS Styling Approaches (with examples)`
