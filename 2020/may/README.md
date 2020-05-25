@@ -108,3 +108,8 @@
   - **ar** `Building a Checkbox Component with React and styled-components`
   - **ar** `How to Redesign Unsplash Using Styled Components`
   - **ar** `React Styled Components: Inline Styles + 3 Other CSS Styling Approaches (with examples)`
+- [Day 25](05-25-2020.md) | :construction_worker: **workday**
+  - **ar** `bleed`
+  - **ar** `Newline in react string`
+  - **ar** `How to use media queries with styled components`
+  - **ar** `How to deploy a static website for free in just 3 minutes straight from your Google Drive, using Fast.io` 
