@@ -113,3 +113,14 @@
   - **ar** `Newline in react string`
   - **ar** `How to use media queries with styled components`
   - **ar** `How to deploy a static website for free in just 3 minutes straight from your Google Drive, using Fast.io` 
+- [Day 26](05-26-2020.md) | :construction_worker: **workday**
+  - **ar** `Functional Composition of React Components`
+  - **ar** `Advanced composition in React: cloneElement, HOCs and renderProps`
+  - **ar** `React children composition patterns with TypeScript`
+  - **ar** `How To Structure a React Native App For Scale`
+  - **ar** `Optimal file structure for React applications`
+  - **ar** `Typescript Type ‘string’ is not assignable to type`
+  - **ar** `React defaultProps is dying, who’s the contender?`
+  - **ar** `React Stateless Functional Component with TypeScript`
+  - **ar** `Quick Next.js + GraphQL Integration via API Routes`
+  - **ar** `Parar e remover todos os containers, volumes e imagens do Docker`
