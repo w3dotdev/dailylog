@@ -124,3 +124,10 @@
   - **ar** `React Stateless Functional Component with TypeScript`
   - **ar** `Quick Next.js + GraphQL Integration via API Routes`
   - **ar** `Parar e remover todos os containers, volumes e imagens do Docker`
+- [Day 27](05-27-2020.md) | :construction_worker: **workday**
+  - **ar** `Next.js and Styled-Components: style loading issue`
+  - **ar** `Next.js + Styled Components, guia simples`
+  - **ar** `Next.js + Styled Components The Really Simple Guide`
+  - **ar** `Using Docker Compose for NodeJS Development`
+  - **ar** `Conteinerizando um aplicativo Node.js para desenvolvimento com o Docker Compose`
+  - **ar** `Create react app typescript: eslint and prettier`
