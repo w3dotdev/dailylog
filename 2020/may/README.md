@@ -131,3 +131,5 @@
   - **ar** `Using Docker Compose for NodeJS Development`
   - **ar** `Conteinerizando um aplicativo Node.js para desenvolvimento com o Docker Compose`
   - **ar** `Create react app typescript: eslint and prettier`
+- [Day 28](05-28-2020.md) | :construction_worker: **workday**
+  - **ar** `Next.js + Netlify: File Naming and Caching Strategies`
