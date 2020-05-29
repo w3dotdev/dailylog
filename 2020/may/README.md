@@ -133,3 +133,9 @@
   - **ar** `Create react app typescript: eslint and prettier`
 - [Day 28](05-28-2020.md) | :construction_worker: **workday**
   - **ar** `Next.js + Netlify: File Naming and Caching Strategies`
+- [Day 29](05-29-2020.md) | :construction_worker: **workday**
+  - **ar** `Hash vs chunkhash vs ContentHash`
+  - **ar** `How I track banner impressions using Google Tag Manager and Universal Analytics`
+  - **ar** `Integrating Google Tag Manager with a React App`
+  - **ar** `How to Implement DFP (DoubleClick for Publishers) in React.js, Vue.js, and AMP?`
+ 
