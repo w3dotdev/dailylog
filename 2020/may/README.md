@@ -54,13 +54,15 @@
   - **ar** `How to use SVGs in React`
   - **ar** `Animating SVG with styled-components`
   - **ar** `Working with SVGs in React`
+  - **sc-ig** `Dicas de filmes - Década 1960 - (Estreias no cinema) - 05.14.2020`
 - [Day 15](05-15-2020.md) | :construction_worker: **workday**
   - **ar** `Como Remover Todas as Imagens no Docker`
   - **ar** `Docker EXPOSE Ports`
   - **ar** `How to reduce Docker Image sizes using multi-stage builds`
   - **hb** `Use multi-stage builds - Docker`
 - Day 16 | :sunrise_over_mountains: **weekend day**
-- Day 17 | :sunrise_over_mountains: **weekend day**
+- [Day 17](05-17-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **sc-ig** `3° Antes & Depois - agora com Kiefer Sutherland`
 - [Day 18](05-18-2020.md) | :construction_worker: **workday**
   - **ar** `React Render Props in TypeScript`
   - **fv** `A React component that injects SVG into the DOM`
@@ -83,7 +85,8 @@
   - **ar** `Como criar seu primeiro Progressive Web App do Zero`
   - **ar** `Entendendo o CORS — Parte 1`
   - **ar** `Entendendo o CORS — Parte 2`
-  - **hb** `Static File Serving - NextJS` 
+  - **hb** `Static File Serving - NextJS`
+  - **sc-ig** `Dicas de filmes - Década 1950 - (Estreias no cinema) - 05.21.2020`
 - [Day 22](05-22-2020.md) | :construction_worker: **workday**
   - **ar** `Folder structure for React-TypeScript apps`
   - **ar** `How To Structure Your TypeScript + React + Redux App`
@@ -134,6 +137,7 @@
   - **ar** `Create react app typescript: eslint and prettier`
 - [Day 28](05-28-2020.md) | :construction_worker: **workday**
   - **ar** `Next.js + Netlify: File Naming and Caching Strategies`
+  - **sc-ig** `Dicas de filmes - Década 1940 - (Estreias no cinema) - 05.28.2020`
 - [Day 29](05-29-2020.md) | :construction_worker: **workday**
   - **ar** `Hash vs chunkhash vs ContentHash`
   - **ar** `How I track banner impressions using Google Tag Manager and Universal Analytics`
