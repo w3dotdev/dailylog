@@ -83,6 +83,7 @@
   - **ar** `Como criar seu primeiro Progressive Web App do Zero`
   - **ar** `Entendendo o CORS — Parte 1`
   - **ar** `Entendendo o CORS — Parte 2`
+  - **hb** `Static File Serving - NextJS` 
 - [Day 22](05-22-2020.md) | :construction_worker: **workday**
   - **ar** `Folder structure for React-TypeScript apps`
   - **ar** `How To Structure Your TypeScript + React + Redux App`
@@ -138,4 +139,9 @@
   - **ar** `How I track banner impressions using Google Tag Manager and Universal Analytics`
   - **ar** `Integrating Google Tag Manager with a React App`
   - **ar** `How to Implement DFP (DoubleClick for Publishers) in React.js, Vue.js, and AMP?`
+- [Day 30](05-30-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `TypeScript: How to set a new property on the window object`
+  - **fv** `The repository for high quality TypeScript type definitions`
+  - **hb** `Namespaces and Modules - TypeScript`
+  - **hb** `Get Started - Google Publisher Tags`
  
