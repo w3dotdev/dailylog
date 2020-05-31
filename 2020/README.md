@@ -560,4 +560,5 @@
     - **hb** `Get Started - Google Publisher Tags`
   - [Day 31](may/05-31-2020.md) | :sunrise_over_mountains: **weekend day**
     - **sc-ig** `Playlist - France #3`
-
+- [June](jun/README.md)
+  - [Day 01](may/06-01-2020.md) | :construction_worker: **workday**
