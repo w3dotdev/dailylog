@@ -558,4 +558,6 @@
     - **fv** `The repository for high quality TypeScript type definitions`
     - **hb** `Namespaces and Modules - TypeScript`
     - **hb** `Get Started - Google Publisher Tags`
+  - [Day 31](may/05-31-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **sc-ig** `Playlist - France #3`
 
