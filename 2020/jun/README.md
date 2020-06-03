@@ -10,3 +10,6 @@
   - **ar** `Little neat Trick to capture click outside React component`
   - **ar** `How to track user interactions in your React app`
   - **fv** `Declarative tracking for React apps.`
+- [Day 03](06-03-2020.md) | :construction_worker: **workday**
+  - **ar** `font-size`
+  - **ar** `Implementing Swiper In React`
