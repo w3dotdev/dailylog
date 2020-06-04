@@ -13,3 +13,6 @@
 - [Day 03](06-03-2020.md) | :construction_worker: **workday**
   - **ar** `font-size`
   - **ar** `Implementing Swiper In React`
+- [Day 04](06-04-2020.md) | :construction_worker: **workday**
+  - **ar** `Dicas de filmes - Década 1930 - (Estreias no cinema) - 06.04.2020`
+  - **sc-ig** `Animating Next.js page transitions with Framer Motion`
