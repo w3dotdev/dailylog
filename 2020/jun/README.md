@@ -16,3 +16,9 @@
 - [Day 04](06-04-2020.md) | :construction_worker: **workday**
   - **ar** `Dicas de filmes - Década 1930 - (Estreias no cinema) - 06.04.2020`
   - **sc-ig** `Animating Next.js page transitions with Framer Motion`
+- [Day 05](06-05-2020.md) | :construction_worker: **workday**
+  - **fv** `Use TSLint with Prettier without any conflict`
+  - **hb** `Configuring TSLint - TSLint`
+- [Day 06](06-06-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Unit Testing in ReactJS using Jest and Enzyme`
+  - **pb-ws** `Análise do mês de Maio/2020`
