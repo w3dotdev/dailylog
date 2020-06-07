@@ -583,3 +583,7 @@
   - [Day 06](jun/06-06-2020.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Unit Testing in ReactJS using Jest and Enzyme`
     - **pb-ws** `Análise do mês de Maio/2020`
+  - [Day 07](jun/06-07-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **pb-ws** `Ações recomendadas para Junho/2020`
+    - **sc-ig** `Calistenia com 2 dedos`
+    - **sc-ig** `Ativos mais indicados pelas corretoras - Junho de 2020`
