@@ -587,3 +587,4 @@
     - **pb-ws** `Ações recomendadas para Junho/2020`
     - **sc-ig** `Calistenia com 2 dedos`
     - **sc-ig** `Ativos mais indicados pelas corretoras - Junho de 2020`
+    - **sc-ig** `#saborInstintivo`
