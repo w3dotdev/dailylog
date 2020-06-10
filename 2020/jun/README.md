@@ -34,3 +34,5 @@
   - **fv** `Automate running Lighthouse for every commit, viewing the changes, and preventing regressions`
   - **fv** `Render After Effects animations on React based on lottie-web`
   - **sc-ig** `Playlist - Argentina #1`
+- [Day 10](06-10-2020.md) | :construction_worker: **workday**
+  - **ar** `CSS Relative Font Size` 
