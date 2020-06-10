@@ -588,3 +588,10 @@
     - **sc-ig** `Calistenia com 2 dedos`
     - **sc-ig** `Ativos mais indicados pelas corretoras - Junho de 2020`
     - **sc-ig** `#saborInstintivo`
+  - Day 08 | :construction_worker: **workday**
+  - [Day 09](jun/06-09-2020.md) | :construction_worker: **workday**
+    - **ar** `Using React Refs in Typescript`
+    - **ar** `React Refs with TypeScript`
+    - **fv** `Automate running Lighthouse for every commit, viewing the changes, and preventing regressions`
+    - **fv** `Render After Effects animations on React based on lottie-web`
+    - **sc-ig** `Playlist - Argentina #1`
