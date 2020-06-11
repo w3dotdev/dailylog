@@ -35,4 +35,13 @@
   - **fv** `Render After Effects animations on React based on lottie-web`
   - **sc-ig** `Playlist - Argentina #1`
 - [Day 10](06-10-2020.md) | :construction_worker: **workday**
-  - **ar** `CSS Relative Font Size` 
+  - **ar** `CSS Relative Font Size`
+- [Day 11](06-11-2020.md) | :construction_worker: **workday**
+  - **ar** `React Refs with TypeScript`
+  - **ar** `React DOM Refs`
+  - **ar** `Fitting Text to a Container`
+  - **ar** `Dynamic, Responsive font-sizes and spacing using em units and JavaScript`
+  - **ar** `Fluid Typography`
+  - **ar** `Simplified Fluid Typography`
+  - **fv** `A jQuery plugin for inflating web type`
+  - **sc-ig** `Dicas de filmes - Década 1920 - (Estreias no cinema) - 06.11.2020`
