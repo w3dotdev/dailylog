@@ -45,3 +45,5 @@
   - **ar** `Simplified Fluid Typography`
   - **fv** `A jQuery plugin for inflating web type`
   - **sc-ig** `Dicas de filmes - Década 1920 - (Estreias no cinema) - 06.11.2020`
+- [Day 12](06-12-2020.md) | :construction_worker: **workday**
+  - **ar** `Managing global state with React’s Hooks & Context API`
