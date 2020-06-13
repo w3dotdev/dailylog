@@ -47,3 +47,4 @@
   - **sc-ig** `Dicas de filmes - Década 1920 - (Estreias no cinema) - 06.11.2020`
 - [Day 12](06-12-2020.md) | :construction_worker: **workday**
   - **ar** `Managing global state with React’s Hooks & Context API`
+- Day 13 | :sunrise_over_mountains: **weekend day**
