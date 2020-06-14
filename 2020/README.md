@@ -609,3 +609,6 @@
   - [Day 12](jun/06-12-2020.md) | :construction_worker: **workday**
     - **ar** `Managing global state with React’s Hooks & Context API`
   - Day 13 | :sunrise_over_mountains: **weekend day**
+  - [Day 14](jun/06-14-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How to track user interactions in your React app`
+    - **ar** `How to read Test Coverage report generated using Jest`
