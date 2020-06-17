@@ -53,3 +53,7 @@
   - **ar** `How to read Test Coverage report generated using Jest`
 - Day 15 | :construction_worker: **workday**
 - Day 16 | :construction_worker: **workday**
+- [Day 17](06-17-2020.md) | :construction_worker: **workday**
+  - **ar** `Simple Image Placeholders with SVG`
+  - **ar** `Improving content placeholder loading animation with SVG`
+  - **ar** `Animating SVG with CSS`
