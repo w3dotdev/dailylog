@@ -57,3 +57,4 @@
   - **ar** `Simple Image Placeholders with SVG`
   - **ar** `Improving content placeholder loading animation with SVG`
   - **ar** `Animating SVG with CSS`
+- Day 18 | :construction_worker: **workday**
