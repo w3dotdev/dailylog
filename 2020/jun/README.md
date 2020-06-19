@@ -58,3 +58,6 @@
   - **ar** `Improving content placeholder loading animation with SVG`
   - **ar** `Animating SVG with CSS`
 - Day 18 | :construction_worker: **workday**
+- [Day 19](06-19-2020.md) | :construction_worker: **workday**
+  - **ar** `Animating SVG Gradients`
+  - **sc-ig** `Provavelmente de volta em 2021`
