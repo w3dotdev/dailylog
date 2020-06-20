@@ -622,3 +622,4 @@
   - [Day 19](jun/06-19-2020.md) | :construction_worker: **workday**
     - **ar** `Animating SVG Gradients`
     - **sc-ig** `Provavelmente de volta em 2021`
+  - Day 20 | :sunrise_over_mountains: **weekend day**
