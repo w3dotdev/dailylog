@@ -624,3 +624,5 @@
     - **sc-ig** `Provavelmente de volta em 2021`
   - Day 20 | :sunrise_over_mountains: **weekend day**
   - Day 21 | :sunrise_over_mountains: **weekend day**
+  - [Day 22](jun/06-22-2020.md) | :construction_worker: **workday**
+    - **ar** `How To Use Redux with React Hooks`
