@@ -67,3 +67,8 @@
   - **ar** `How To Use Redux with React Hooks`
 - Day 23 | :construction_worker: **workday**
 - Day 24 | :construction_worker: **workday**
+- [Day 25](06-25-2020.md) | :books: **study day**
+  - **ar** `The Best Front-End Hacking Cheatsheets — All in One Place`
+  - **ar** `Desenvolvimento ágil: o que é, princípios e como aplicar`
+  - **fv** `Javascript Cheat Sheet`
+  - **fv** `JavaScript Regex Cheatsheet`
