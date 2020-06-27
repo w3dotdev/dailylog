@@ -633,3 +633,4 @@
     - **ar** `Desenvolvimento ágil: o que é, princípios e como aplicar`
     - **fv** `Javascript Cheat Sheet`
     - **fv** `JavaScript Regex Cheatsheet`
+  - Day 26 | :books: **study day**
