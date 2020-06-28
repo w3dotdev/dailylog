@@ -634,3 +634,4 @@
     - **fv** `Javascript Cheat Sheet`
     - **fv** `JavaScript Regex Cheatsheet`
   - Day 26 | :books: **study day**
+  - Day 27 | :sunrise_over_mountains: **weekend day**
