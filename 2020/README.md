@@ -636,3 +636,4 @@
   - Day 26 | :books: **study day**
   - Day 27 | :sunrise_over_mountains: **weekend day**
   - Day 28 | :sunrise_over_mountains: **weekend day**
+  - Day 29 | :books: **study day**
