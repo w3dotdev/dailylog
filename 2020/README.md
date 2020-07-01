@@ -638,3 +638,5 @@
   - Day 28 | :sunrise_over_mountains: **weekend day**
   - Day 29 | :books: **study day**
   - Day 30 | :books: **study day**
+- [July](jul/README.md)
+  - Day 01 | :books: **study day**
