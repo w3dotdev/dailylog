@@ -640,3 +640,22 @@
   - Day 30 | :books: **study day**
 - [July](jul/README.md)
   - Day 01 | :books: **study day**
+  - [Day 02](jul/07-02-2020.md) | :books: **study day**
+    - **pj-gh** `Mythological Alliance`
+    - **pb-ws** `Dia 1/2019 - Smile com CSS`
+  - [Day 03](jul/07-03-2020.md) | :books: **study day**
+    - **pj-gh** `Mythological Alliance`
+    - **pj-gh** `Hachiman`
+  - [Day 04](jul/07-04-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **pj-gh** `Hachiman`
+    - **pb-ws** `Dia 2/2019 - Cartão com CSS hover`
+  - [Day 05](0jul/7-05-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How to write and build JS libraries in 2018`
+    - **ar** `How to publish JavaScript Libraries`
+    - **ar** `Create Your Own React Library in 2020: Step by Step`
+    - **ar** `Master UX with React in 2020: Four Ways to Upgrade Your React App User Experience`
+  - [Day 06](jul/07-06-2020.md) | :books: **study day**
+    - **ar** `How To Reverse Engineer Websites`
+    - **ar** `Web Architecture 101`
+    - **ar** `Two years of micro-frontends: A retrospective`
+    - **pb-ws** `Dia 3/2019 - Pacman Loader`
