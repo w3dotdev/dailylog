@@ -26,3 +26,10 @@
   - **ar** `25 Cognitive Biases every UX Designer should know`
   - **ar** `I Got Rejected by Apple Music… So I Redesigned It`
   - **pb-ws** `Dia 4/2019 - Smartphone com transição para a esquerda`
+- [Day 08](07-08-2020.md) | :books: **study day**
+  - **ar** `UI cheat sheet: pagination, infinite scroll and the load more button`
+  - **ar** `47 Key Lessons for UI & UX Designers`
+  - **ar** `Spotify in Neumorphism`
+  - **ar** `Distributed Ownership`
+  - **ar** `Selection controls — UI component series`
+  - **ar** `8 rules to help you design a better card user interface`
