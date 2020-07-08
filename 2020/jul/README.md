@@ -20,3 +20,9 @@
   - **ar** `Web Architecture 101`
   - **ar** `Two years of micro-frontends: A retrospective`
   - **pb-ws** `Dia 3/2019 - Pacman Loader`
+- [Day 07](07-07-2020.md) | :books: **study day**
+  - **ar** `Arquitetura de projetos Vue.js com DDD`
+  - **ar** `Senior designers, you’re not junior enough`
+  - **ar** `25 Cognitive Biases every UX Designer should know`
+  - **ar** `I Got Rejected by Apple Music… So I Redesigned It`
+  - **pb-ws** `Dia 4/2019 - Smartphone com transição para a esquerda`
