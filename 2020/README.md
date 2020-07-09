@@ -672,3 +672,11 @@
     - **ar** `Distributed Ownership`
     - **ar** `Selection controls — UI component series`
     - **ar** `8 rules to help you design a better card user interface`
+  - [Day 09](jul/07-09-2020.md) | :books: **study day**
+    - **ar** `NPM Tips and Tricks`
+    - **ar** `How is UI/UX the heart of a clean front end?`
+    - **ar** `Understanding WeakMaps in JavaScript`
+    - **ar** `Introducing Storybook Args`
+    - **ar** `You don’t need to solve problems twice — you need a design system`
+    - **ar** `5 mistakes frontend developers commit that UX engineers hate`
+    - **pb-ws** `O ano dos desafios`
