@@ -1,12 +1,12 @@
 # Daily Log
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/hemersonvianna/dailylog.svg)](https://github.com/hemersonvianna/dailylog/issues)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/hemersonvianna/dailylog.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/hemersonvianna/dailylog.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/hemersonvianna/dailylog.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/hemersonvianna/dailylog.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/hemersonvianna/dailylog/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/w3dotdev/dailylog.svg)](https://github.com/w3dotdev/dailylog/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/w3dotdev/dailylog.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/w3dotdev/dailylog.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/w3dotdev/dailylog.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/w3dotdev/dailylog.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/w3dotdev/dailylog/total.svg)
 
 ## Introduction
 
@@ -98,7 +98,7 @@ Questions and answers:
 
 ## Log
 
-Check [Releases](https://github.com/hemersonvianna/dailylog/releases) for detailed changelog.
+Check [Releases](https://github.com/w3dotdev/dailylog/releases) for detailed changelog.
 
 ## License
 

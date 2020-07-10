@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hemersonvianna/dailylog.git"
+    "url": "git+https://github.com/w3dotdev/dailylog.git"
   },
   "author": "Hemerson Vianna <hemerson.lourenco@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hemersonvianna/dailylog/issues"
+    "url": "https://github.com/w3dotdev/dailylog/issues"
   },
-  "homepage": "https://github.com/hemersonvianna/dailylog#readme",
+  "homepage": "https://github.com/w3dotdev/dailylog#readme",
   "devDependencies": {
     "release-it": "12.4.3"
   }
