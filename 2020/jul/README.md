@@ -41,3 +41,11 @@
   - **ar** `You don’t need to solve problems twice — you need a design system`
   - **ar** `5 mistakes frontend developers commit that UX engineers hate`
   - **pb-ws** `O ano dos desafios`
+- [Day 10](07-10-2020.md) | :books: **study day**
+  - **ar** `Liderança na pandemia`
+  - **ar** `Are “you” designing for your users?`
+  - **ar** `How to Create a High-Fidelity Prototype and Export HTML with Figma`
+  - **ar** `Designing a Mobile Platform`
+  - **ar** `Estourando a bolha: um relato sobre uma pesquisa imersiva em cidades remotas do Brasil`
+  - **ar** `Can a Product Fail due to Innovation Overkill?`
+  - **pb-ws** `Ações recomendadas para Julho/2020`
