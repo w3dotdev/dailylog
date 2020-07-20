@@ -712,4 +712,11 @@
     - **ar** `11 Useful Custom React Hooks for Your Next Web App`
     - **ar** `Building a JavaScript Monorepo with Lerna`
     - **pb-ws** `Dia 10/2019 - Calendário com CSS Grid`
+  - [Day 15](jul/07-15-2020.md) | :books: **study day**
+    - **ar** `Making Sense of React Hooks`
+    - **ar** `5 Ways to animate a React app.`
+    - **ar** `JavaScript: async/await with forEach()`
+    - **ar** `Forms with Formik + TypeScript`
+    - **ar** `Making API Calls with React Hooks`
+    - **pb-ws** `Dia 11/2019 - Carrossel com autoplay`
   
