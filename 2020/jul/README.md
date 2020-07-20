@@ -85,3 +85,8 @@
   - **ar** `Customize webpack configuration of React App created with Create-react-app`
   - **ar** `Using the React useContext Hook`
   - **pb-ws** `Dia 12/2019 - Slider com CSS`
+- [Day 17](07-17-2020.md) | :books: **study day**
+  - **ar** `Centralizing API error handling in React apps`
+  - **ar** `Understanding npm-link`
+  - **pb-ws** `Dia 13/2019 - Texto com efeito neon`
+
