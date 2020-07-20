@@ -701,4 +701,9 @@
     - **ar** `How To Use an IntersectionObserver in a React Hook`
     - **ar** `Progressively Loading Images In React`
     - **pb-ws** `Dia 8/2019 - Menu circular`
+  - [Day 13](jul/07-13-2020.md) | :books: **study day**
+    - **ar** `State Management with React Hooks — No Redux or Context API`
+    - **ar** `Passing Elements as Props in React`
+    - **ar** `React TypeScript: Basics and Best Practices`
+    - **pb-ws** `Dia 9/2019 - Jogo de alvo`
   
