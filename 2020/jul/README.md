@@ -56,3 +56,10 @@
   - **ar** `Better Reusable React Components with the Overrides Pattern`
   - **ar** `The Ultimate VSCode Setup for Front End/JS/React`
   - **pb-ws** `Dia 7/2019 - Filtro de dados`
+- [Day 12](07-12-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Asynchronous Functional Programming Using React Hooks`
+  - **ar** `5 Micro libraries to elevate any React JS project`
+  - **ar** `How To Use an IntersectionObserver in a React Hook`
+  - **ar** `Progressively Loading Images In React`
+  - **pb-ws** `Dia 8/2019 - Menu circular`
+
