@@ -739,3 +739,11 @@
     - **ar** `Why I no longer use D3.js`
     - **ar** `5 Recommended Tools for Optimizing Performance in ReactJS`
     - **pb-ws** `Dia 15/2019 - Botão com efeito de ondulação`
+  - [Day 20](jul/07-20-2020.md) | :books: **study day**
+    - **ar** `Using JWT in Your React+Redux App for Authorization`
+    - **ar** `React Hooks — How To Use useState and useEffect Example`
+    - **ar** `Flexible Icons with React and SVG`
+    - **ar** `React Hook Form VS Formik`
+    - **ar** `Understanding Ref Forwarding in React`
+    - **ar** `Keep Your Promises in TypeScript using async/await`
+    - **pb-ws** `Dia 16/2019 - Efeito de deslizar na barra de abas`
