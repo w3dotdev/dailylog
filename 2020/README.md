@@ -706,4 +706,10 @@
     - **ar** `Passing Elements as Props in React`
     - **ar** `React TypeScript: Basics and Best Practices`
     - **pb-ws** `Dia 9/2019 - Jogo de alvo`
+  - [Day 14](jul/07-14-2020.md) | :books: **study day**
+    - **ar** `Flipper — A React Native revolution`
+    - **ar** `Testing React with Jest and Enzyme I`
+    - **ar** `11 Useful Custom React Hooks for Your Next Web App`
+    - **ar** `Building a JavaScript Monorepo with Lerna`
+    - **pb-ws** `Dia 10/2019 - Calendário com CSS Grid`
   
