@@ -672,6 +672,7 @@
     - **ar** `Distributed Ownership`
     - **ar** `Selection controls — UI component series`
     - **ar** `8 rules to help you design a better card user interface`
+    - **pb-ws** `Dia 5/2019 - Bússola com CSS`
   - [Day 09](jul/07-09-2020.md) | :books: **study day**
     - **ar** `NPM Tips and Tricks`
     - **ar** `How is UI/UX the heart of a clean front end?`
@@ -688,3 +689,9 @@
     - **ar** `Estourando a bolha: um relato sobre uma pesquisa imersiva em cidades remotas do Brasil`
     - **ar** `Can a Product Fail due to Innovation Overkill?`
     - **pb-ws** `Ações recomendadas para Julho/2020`
+    - **pb-ws** `Dia 6/2019 - Gráfico de barras`
+  - [Day 11](jul/07-11-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `React: SVG Stroke Animation with CSS Explained`
+    - **ar** `Better Reusable React Components with the Overrides Pattern`
+    - **ar** `The Ultimate VSCode Setup for Front End/JS/React`
+    - **pb-ws** `Dia 7/2019 - Filtro de dados`
