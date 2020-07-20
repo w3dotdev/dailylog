@@ -89,4 +89,9 @@
   - **ar** `Centralizing API error handling in React apps`
   - **ar** `Understanding npm-link`
   - **pb-ws** `Dia 13/2019 - Texto com efeito neon`
-
+- [Day 18](07-18-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Sorry React, but I can’t keep up anymore`
+  - **ar** `React: Rendering using Concurrent Mode and Suspense`
+  - **ar** `Exploit React Error Boundaries to Improve UX`
+  - **ar** `3 Essential Tools to Boost your React App’s SEO`
+  - **pb-ws** `Dia 14/2019 - Tabela responsiva`
