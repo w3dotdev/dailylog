@@ -80,3 +80,8 @@
   - **ar** `Forms with Formik + TypeScript`
   - **ar** `Making API Calls with React Hooks`
   - **pb-ws** `Dia 11/2019 - Carrossel com autoplay`
+- [Day 16](07-16-2020.md) | :books: **study day**
+  - **ar** `Addressing the iOS Address Bar in 100vh Layouts`
+  - **ar** `Customize webpack configuration of React App created with Create-react-app`
+  - **ar** `Using the React useContext Hook`
+  - **pb-ws** `Dia 12/2019 - Slider com CSS`
