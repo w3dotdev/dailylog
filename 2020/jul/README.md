@@ -95,3 +95,8 @@
   - **ar** `Exploit React Error Boundaries to Improve UX`
   - **ar** `3 Essential Tools to Boost your React App’s SEO`
   - **pb-ws** `Dia 14/2019 - Tabela responsiva`
+- [Day 19](07-19-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Handling Time Zone in JavaScript`
+  - **ar** `Why I no longer use D3.js`
+  - **ar** `5 Recommended Tools for Optimizing Performance in ReactJS`
+  - **pb-ws** `Dia 15/2019 - Botão com efeito de ondulação`
