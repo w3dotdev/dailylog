@@ -747,3 +747,11 @@
     - **ar** `Understanding Ref Forwarding in React`
     - **ar** `Keep Your Promises in TypeScript using async/await`
     - **pb-ws** `Dia 16/2019 - Efeito de deslizar na barra de abas`
+  - [Day 21](jul/07-21-2020.md) | :books: **study day**
+    - **ar** `Gatsby: Fetching Data at The Component Level with useStaticQuery`
+    - **ar** `Sharing React Widgets Between Apps`
+    - **ar** `Understanding ES Modules in JavaScript`
+    - **ar** `Selecting the Right Tool for Your Monorepo`
+    - **ar** `How to Publish React Components`
+    - **pb-ws** `Dia 17/2019 - Acordeão animado`
+  
