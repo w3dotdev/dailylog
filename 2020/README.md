@@ -754,4 +754,10 @@
     - **ar** `Selecting the Right Tool for Your Monorepo`
     - **ar** `How to Publish React Components`
     - **pb-ws** `Dia 17/2019 - Acordeão animado`
+  - [Day 22](jul/07-22-2020.md) | :books: **study day**
+    - **ar** `Theming React Components with CSS Variables`
+    - **ar** `How to Share React UI Components between Projects and Apps`
+    - **ar** `Microfrontends — should I care?`
+    - **pb-ws** `Dia 18/2019 - Texto com animação de onda`
+    - **pb-ws** `Trinity Nova`
   
