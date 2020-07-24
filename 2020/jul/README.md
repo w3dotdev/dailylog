@@ -121,4 +121,10 @@
   - **ar** `Microfrontends — should I care?`
   - **pb-ws** `Dia 18/2019 - Texto com animação de onda`
   - **pb-ws** `Trinity Nova`
+- [Day 23](07-23-2020.md) | :books: **study day**
+  - **ar** `Os 4 Hábitos Que Tornam Você Um Programador Ineficiente`
+  - **ar** `Programação: Devo Estudar o Que Gosto ou Focar no Que o Mercado Está Pedindo?`
+  - **ar** `Checklist do Programador Sênior: 10 Itens Para Você Ser um Programador MUITO Acima da Média`
+  - **ar** `Como Ter as Melhores Ideias Para Programar? (De Onde Tirar Ideias de Programas Para Desenvolver ou Treinar Programação?)`
+  - **pb-ws** `Dia 19/2019 - Efeito de girar o cartão`
 
