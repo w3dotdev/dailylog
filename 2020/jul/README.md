@@ -127,4 +127,10 @@
   - **ar** `Checklist do Programador Sênior: 10 Itens Para Você Ser um Programador MUITO Acima da Média`
   - **ar** `Como Ter as Melhores Ideias Para Programar? (De Onde Tirar Ideias de Programas Para Desenvolver ou Treinar Programação?)`
   - **pb-ws** `Dia 19/2019 - Efeito de girar o cartão`
+- [Day 24](07-24-2020.md) | :books: **study day**
+  - **ar** `Have You Mastered These 9 Vue Techniques?`
+  - **ar** `Scraping Amazon.com using JavaScript and Node.js`
+  - **ar** `11 Useful Custom React Hooks for Your Next Web App`
+  - **ar** `Advanced TypeScript Types with Examples`
+  - **pb-ws** `Dia 20/2019 - Interruptor customizado`
 
