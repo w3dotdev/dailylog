@@ -133,4 +133,9 @@
   - **ar** `11 Useful Custom React Hooks for Your Next Web App`
   - **ar** `Advanced TypeScript Types with Examples`
   - **pb-ws** `Dia 20/2019 - Interruptor customizado`
+- [Day 25](07-25-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Is Monorepo for You? — 2020`
+  - **ar** `Understanding WeakMaps in JavaScript`
+  - **ar** `Styled-JSX for React: How and Why`
+  - **pb-ws** `Dia 21/2019 - Tooltip com aria-label`
 
