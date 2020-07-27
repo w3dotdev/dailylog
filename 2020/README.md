@@ -777,4 +777,11 @@
     - **ar** `Understanding WeakMaps in JavaScript`
     - **ar** `Styled-JSX for React: How and Why`
     - **pb-ws** `Dia 21/2019 - Tooltip com aria-label`
+  - [Day 26](jul/07-26-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `HTTPS: an awesome, secure tale (pt 1)`
+    - **ar** `React Router VS Reach Router`
+    - **ar** `Understanding WebGL`
+    - **ar** `Start Collecting Feedback from Users across Your React Apps with Feeder.sh`
+    - **ar** `5 Simple Way of Writing Optimized JavaScript Code`
+    - **pb-ws** `Dia 22/2019 - Animação em menu de redes sociais`
   
