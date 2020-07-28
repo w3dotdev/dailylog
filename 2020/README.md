@@ -784,4 +784,10 @@
     - **ar** `Start Collecting Feedback from Users across Your React Apps with Feeder.sh`
     - **ar** `5 Simple Way of Writing Optimized JavaScript Code`
     - **pb-ws** `Dia 22/2019 - Animação em menu de redes sociais`
+  - [Day 27](jul/07-27-2020.md) | :books: **study day**
+    - **ar** `Checking for Available Permissions in Deno`
+    - **ar** `Packaging a UI Library for Distribution`
+    - **ar** `14 JavaScript Code Optimization Tips for Front-End Developers`
+    - **ar** `Why Using Tokens and Cookies Together is Better for Web App Security`
+    - **pb-ws** `Dia 23/2019 - Efeito Parallax`
   
