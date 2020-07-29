@@ -151,4 +151,9 @@
   - **ar** `14 JavaScript Code Optimization Tips for Front-End Developers`
   - **ar** `Why Using Tokens and Cookies Together is Better for Web App Security`
   - **pb-ws** `Dia 23/2019 - Efeito Parallax`
+- [Day 28](07-28-2020.md) | :books: **study day**
+  - **ar** `First UI Kit for the latest Twitter’s Bootstrap 5`
+  - **ar** `Design Systems: React Buttons with the Base + Variant Pattern`
+  - **ar** `Securely Upload Files Directly from Browser to Amazon S3`
+  - **pb-ws** `Dia 24/2019 - Formulário simples`
 
