@@ -795,4 +795,11 @@
     - **ar** `Design Systems: React Buttons with the Base + Variant Pattern`
     - **ar** `Securely Upload Files Directly from Browser to Amazon S3`
     - **pb-ws** `Dia 24/2019 - Formulário simples`
+  - [Day 29](jul/07-29-2020.md) | :books: **study day**
+    - **ar** `A Web Developer’s Roadmap to Learning React Native`
+    - **ar** `8 Performance Analysis Tools for Front-End Development`
+    - **ar** `Top 5 React Table Libraries`
+    - **ar** `5 Service Worker Caching Strategies for Your Next PWA App`
+    - **ar** `Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit`
+    - **pb-ws** `Dia 25/2019 - Experimento com input do tipo color`
   
