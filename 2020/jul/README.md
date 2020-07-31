@@ -163,4 +163,11 @@
   - **ar** `5 Service Worker Caching Strategies for Your Next PWA App`
   - **ar** `Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit`
   - **pb-ws** `Dia 25/2019 - Experimento com input do tipo color`
+- [Day 30](07-30-2020.md) | :books: **study day**
+  - **ar** `6 Top GraphQL Clients for 2020`
+  - **ar** `How to Develop Microfrontends Using React: Step by Step Guide`
+  - **ar** `Data Structures You Should Know as a JavaScript Developer`
+  - **ar** `How and Why You Should Use React Query`
+  - **ar** `Improving Google PageSpeed Score using Code-Splitting`
+  - **pb-ws** `Dia 26/2019 - Galeria com Modal`
 
