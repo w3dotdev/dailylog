@@ -817,3 +817,5 @@
     - **ar** `5 Ways Service Workers Reshape Modern Web Apps`
     - **ar** `Importance of using JavaScript Telemetry for Single Page Apps`
     - **pb-ws** `Dia 27/2019 - Jogo de matar moscas`
+- [August](aug/README.md)
+  - [Day 01](aug/08-01-2020.md) | :sunrise_over_mountains: **weekend day**
