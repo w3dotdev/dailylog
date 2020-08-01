@@ -809,4 +809,11 @@
     - **ar** `How and Why You Should Use React Query`
     - **ar** `Improving Google PageSpeed Score using Code-Splitting`
     - **pb-ws** `Dia 26/2019 - Galeria com Modal`
-  
+  - [Day 31](jul/07-31-2020.md) | :books: **study day**
+    - **ar** `Getting Content Painted under 2 seconds on the Mobile Web`
+    - **ar** `How to Add Color to SVG Icons and Elements With CurrentColor`
+    - **ar** `Beam Me Up, Scotty — On Teleporting Templates in Angular`
+    - **ar** `Data Structures You Should Know as a JavaScript Developer`
+    - **ar** `5 Ways Service Workers Reshape Modern Web Apps`
+    - **ar** `Importance of using JavaScript Telemetry for Single Page Apps`
+    - **pb-ws** `Dia 27/2019 - Jogo de matar moscas`
