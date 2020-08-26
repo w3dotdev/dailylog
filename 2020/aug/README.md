@@ -1,3 +1,132 @@
 # August
 
 - [Day 01](08-01-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Understanding Client-Side GraphQl With Apollo-Client In React Apps`
+  - **ar** `Create A Responsive Dashboard With Angular Material And ng2-Charts`
+  - **ar** `Percents In CSS`
+  - **pb-ws** `Dia 28/2019 - CSS Grid Layout`
+- [Day 02](08-02-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Inline validation in forms — designing the experience`
+  - **ar** `The Renaissance Of No-Code For Web Designers`
+  - **ar** `How To Use Styled-Components In React`
+  - **ar** `Modern CSS Techniques To Improve Legibility`
+  - **ar** `Building Desktop Apps With Electron And Vue`
+  - **pb-ws** `Dia 29/2019 - Formas com CSS`
+- [Day 03](08-03-2020.md) | :books: **study day**
+  - **ar** `A complete guide to CSS combinators`
+  - **ar** `The Making of: Netlify’s Million Devs SVG Animation Site`
+  - **ar** `A Lightweight Masonry Solution`
+  - **pb-ws** `Dia 30/2019 - Animação de exercício na academia`
+- [Day 04](08-04-2020.md) | :books: **study day**
+  - **ar** `A Look at What’s New in Chrome DevTools in 2020`
+  - **ar** `SVG Title vs. HTML Title Attribute`
+  - **ar** `style9: build-time CSS-in-JS`
+  - **ar** `A Bit on Web Component Libraries`
+  - **pb-ws** `Dia 31/2019 - Criando uma pirâmide`
+- [Day 05](08-05-2020.md) | :books: **study day**
+  - **ar** `font-synthesis`
+  - **ar** `The Cicada Principle, revisited with CSS variables`
+  - **pb-ws** `Dia 32/2019 - Estação de trabalho interativa`
+  - **pb-ws** `Análise do mês de Julho/2020`
+  - **pb-ws** `Saint Seiya Awakening: Os Cavaleiros do Zodíaco`
+- [Day 06](08-06-2020.md) | :books: **study day**
+  - **ar** `Creating A Static Blog With Sapper And Strapi`
+  - **pb-ws** `Dia 33/2019 - Combinando Filter, Map e Reduce`
+  - **pb-ws** `Ações recomendadas para Agosto/2020`
+  - **pb-ws** `Coin Master`
+- [Day 07](08-07-2020.md) | :books: **study day**
+  - **ar** `font-weight: 300 considered harmful`
+  - **pb-ws** `Dia 34/2019 - Sequência Fibonacci`
+  - **pb-ws** `Banana Kong`
+- [Day 08](08-08-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Every Website is an Essay`
+  - **ar** `What does 100% mean in CSS?`
+  - **ar** `More Control Over CSS Borders With background-image`
+  - **ar** `Nailing the Perfect Contrast Between Light Text and a Background Image`
+  - **pb-ws** `Dia 35/2019 - Brincando com array: Push, Pop, Unshift e Shift]`
+  - **pb-ws** `Ludo Club - Jogo Divertido de Dados`
+- [Day 09](08-09-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `A Practical Guide To Product Tours In React Apps`
+  - **pb-ws** `Dia 36/2019 - Webstorage: sessionStorage e LocalStorage`
+- [Day 10](08-10-2020.md) | :books: **study day**
+  - **ar** `zerodivs.com`
+  - **ar** `Don’t Wait! Mock the API`
+  - **pb-ws** `Dia 37/2019 - Brincando com array: Splice, Slice, ToString e Join`
+- [Day 11](08-11-2020.md) | :books: **study day**
+  - **ar** `System UIcons`
+  - **ar** `#191: Learn by doing: CUBE CSS`
+  - **ar** `Halfmoon: A Bootstrap Alternative with Dark Mode Built In`
+  - **pb-ws** `Dia 38/2019 - Paginação Simples`
+  - **pb-ws** `Think & Guess`
+- [Day 12](08-12-2020.md) | :books: **study day**
+  - **ar** `Practical Use Cases for JavaScript’s closest() Method`
+  - **ar** `Chapter 2: Browsers`
+  - **pb-ws** `Dia 39/2019 - Brincando com array: Concat, Sort, Reverse e ForEach`
+  - **pb-ws** `Hikari`
+- [Day 13](08-13-2020.md) | :books: **study day**
+  - **ar** `Stacked Cards with Sticky Positioning and a Dash of Sass`
+  - **ar** `gap`
+  - **pb-ws** `Dia 40/2019 - Detectar e validar números de cartão de crédito`
+- [Day 14](08-14-2020.md) | :books: **study day**
+  - **ar** `What I Learned by Fixing One Line of CSS in an Open Source Project`
+  - **ar** `That’s Just How I Scroll`
+  - **ar** `CSS-Tricks Chronicle XXXVIII`
+  - **pb-ws** `Dia 41/2019 - Brincando com array: Includes, IndexOf, LastIndexOf, Find e FindIndex`
+- [Day 15](08-15-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Accessibility In Chrome DevTools`
+  - **pb-ws** `Dia 42/2019 - Gerenciando cookies do navegador`
+- [Day 16](08-16-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `A Smashing Guide To The World Of Search Engine Optimization`
+  - **pb-ws** `Dia 43/2019 - Brincando com array: Some, Every, Array.from, Array.of e Array.isArray`
+- [Day 17](08-17-2020.md) | :books: **study day**
+  - **ar** `What Happens When Border Radii Overlap?`
+  - **pb-ws** `Dia 44/2019 - Calculadora Simples`
+- [Day 18](08-18-2020.md) | :books: **study day**
+  - **ar** `Queue Jumping in Netlify`
+  - **ar** `Timer Bars in CSS with Custom Properties`
+  - **ar** `Can you get valid CSS property values from the browser?`
+  - **ar** `radEventListener: a Tale of Client-side Framework Performance`
+  - **pb-ws** `Dia 45/2019 - Brincando com array: Keys, Values, Entries, CopyWithin, Fill e ReduceRight`
+- [Day 19](08-19-2020.md) | :books: **study day**
+  - **ar** `A Community-Driven Site with Eleventy: Preparing for Contributions`
+  - **ar** `Chapter 3: The Website`
+  - **ar** `Let’s Make Generative Art We Can Export to SVG and PNG`
+  - **ar** `Plyr: CSS Styleable Video Player`
+  - **pb-ws** `Dia 46/2019 - CRUD com Node.js`
+- [Day 20](08-20-2020.md) | :books: **study day**
+  - **ar** `Never Build a CSV Importer Again`
+  - **ar** `A Community-Driven Site with Eleventy: Building the Site`
+  - **ar** `To grid or not to grid`
+  - **pb-ws** `Dia 47/2019 - Estruturas de dados em JS: tipos de dados`
+- [Day 21](08-21-2020.md) | :books: **study day**
+  - **ar** `Optimize Images with a GitHub Action`
+  - **ar** `Leading-Trim: The Future of Digital Typesetting`
+  - **ar** `Let’s Make a Vue-Powered Monthly Calendar`
+  - **ar** `A CSS-only, animated, wrapping underline`
+  - **ar** `Offering Options for mailto: and tel: Links`
+  - **pb-ws** `Dia 48/2019 - Estruturas de dados em JS: matrizes e objetos`
+- [Day 22](08-22-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Community Resources, Weekly Newsletter, And Boosting Skills Online`
+  - **ar** `Mastering Props And PropTypes In React`
+  - **pb-ws** `Dia 49/2019 - Estruturas de dados em JS: Pilhas`
+  - **pb-ws** `Tom Clancy's Ghost Recon Wildlands`
+- [Day 23](08-23-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Inspired Design Decisions With Bradbury Thompson: The Art Of Graphic Design`
+  - **ar** `Forms And Validation In Ionic React`
+  - **pb-ws** `Dia 50/2019 - Estruturas de dados em JS: Filas e Deques`
+- [Day 24](08-24-2020.md) | :books: **study day**
+  - **ar** `This vs. That`
+  - **ar** `Where Does Logic Go on Jamstack Sites?`
+  - **pb-ws** `Dia 51/2019 - Estruturas de dados em JS: lista vinculada`
+- [Day 25](08-25-2020.md) | :books: **study day**
+  - **ar** `Designing a JavaScript Plugin System`
+  - **ar** `Comparing Data in Google and Netlify Analytics`
+  - **ar** `Doom Damage Flash on Scroll`
+  - **pb-ws** `Dia 52/2019 - Estruturas de dados em JS: conjuntos`
+- [Day 26](08-26-2020.md) | :books: **study day**
+  - **ar** `How To Help Your Clients Get More Backlinks Through Design`
+  - **ar** `How To Build Your Own Comment System Using Firebase`
+  - **ar** `Smashing Podcast Episode 23 With Guillermo Rauch: What Is Next.js?`
+  - **ar** `How To Create Customer-Centric Landing Pages`
+  - **ar** `Using Mobx As A State Manager In React Native Applications`
+  - **pb-ws** `Dia 53/2019 - Estruturas de dados em JS: mapas e tabelas de hash`
