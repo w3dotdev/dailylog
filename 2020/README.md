@@ -948,3 +948,24 @@
     - **ar** `How To Create Customer-Centric Landing Pages`
     - **ar** `Using Mobx As A State Manager In React Native Applications`
     - **pb-ws** `Dia 53/2019 - Estruturas de dados em JS: mapas e tabelas de hash`
+  - [Day 27](aug/08-27-2020.md) | :books: **study day**
+    - **ar** `Why you should hire a front-end developer`
+    - **pb-ws** `Dia 54/2019 - Estruturas de dados em JS: árvores e (árvores BT, BST e AVL)`
+  - [Day 28](aug/08-28-2020.md) | :books: **study day**
+    - **ar** `A Complete Walkthrough of GraphQL APIs with React and FaunaDB`
+    - **ar** `Going Jamstack with React, Serverless, and Airtable`
+    - **ar** `shape-image-threshold`
+    - **pb-ws** `Dia 55/2019 - Estruturas de dados em JS: Trie`
+  - [Day 29](aug/08-29-2020.md) | :books: **weekend day**
+    - **ar** `Copy the Browser’s Native Focus Styles`
+    - **ar** `Here’s How I Solved a Weird Bug Using Tried and True Debugging Strategies`
+    - **ar** `Number Scrubbing`
+    - **pb-ws** `Dia 56/2019 - Estruturas de dados em JS: heap`
+  - [Day 30](aug/08-30-2020.md) | :books: **weekend day**
+    - **ar** `Demystifying Django’s Magic`
+    - **ar** `Autonomy Online: A Case For The IndieWeb`
+    - **pb-ws** `Dia 57/2019 - Estruturas de dados em JS: gráfico`
+  - [Day 31](aug/08-31-2020.md) | :books: **study day**
+    - **ar** `Ground Rules for Web Animations`
+    - **ar** `How To Do More With Vue Router`
+    - **pb-ws** `Dia 58/2019 - Algoritmos em JS: Classificação`
