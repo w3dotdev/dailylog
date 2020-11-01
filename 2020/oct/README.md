@@ -40,3 +40,50 @@
 - [Day 08](10-08-2020.md) | :books: **study day**
   - **ar** `Balancing on a pivot with Flexbox`
   - **ar** `How To Manage File Uploads In React With Google Storage And GraphQL`
+- [Day 09](10-09-2020.md) | :books: **study day**
+  - **ar** `Using WebXR With Babylon.js`
+- [Day 10](10-10-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `React Hooks — Using a wrapper to memoize event handlers and to prevent unnecessary re-renders`
+- [Day 11](10-11-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Confirm delete box using React Redux`
+- [Day 12](10-12-2020.md) | :books: **study day**
+  - **ar** `React Form Validation With Formik And Yup`
+- [Day 13](10-13-2020.md) | :books: **study day**
+  - **ar** `Redux, The Ultimate State Management Library For JavaScript`
+- [Day 14](10-14-2020.md) | :books: **study day**
+  - **ar** `Build And Deploy An Angular Form With Netlify Forms And Edge`
+- [Day 15](10-15-2020.md) | :books: **study day**
+  - **ar** `Managing Long-Running Tasks In A React App With Web Workers`
+- [Day 16](10-16-2020.md) | :books: **study day**
+  - **ar** `Supercharge Testing React Applications With Wallaby.js`
+- [Day 17](10-17-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Immutability importance in Angular applications`
+- [Day 18](10-18-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Easy Peasy Stores With Public and Private Actions`
+- [Day 19](10-19-2020.md) | :books: **study day**
+  - **ar** `Handling Continuous Integration And Delivery With GitHub Actions`
+- [Day 20](10-20-2020.md) | :books: **study day**
+  - **ar** `React-Redux with Ruby Rails Back-end(final project)`
+- [Day 21](10-21-2020.md) | :books: **study day**
+  - **ar** `Speed Up Your Workflow With Figma Plugins`
+- [Day 22](10-22-2020.md) | :books: **study day**
+  - **ar** `Getting Started With Next.js`
+- [Day 23](10-23-2020.md) | :books: **study day**
+  - **ar** `Sessions with a React/Redux Frontend and Rails API Backend`
+  - **ar** `Introduction to Redux`
+- [Day 24](10-24-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Chaining Async Calls with Redux by Making Custom ‘Side Effects’`
+- [Day 25](10-25-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Redux Saga — The simple (opinionated) way`
+- [Day 26](10-26-2020.md) | :books: **study day**
+  - **ar** `Introducing Framer Motion`
+- [Day 27](10-27-2020.md) | :books: **study day**
+  - **ar** `Authentication In Vue.js`
+- [Day 28](10-28-2020.md) | :books: **study day**
+  - **ar** `Why Read Source Code? for New Devs`
+- [Day 29](10-29-2020.md) | :books: **study day**
+  - **ar** `How To Build A GraphQL Server Using Next.js API Routes`
+- [Day 30](10-30-2020.md) | :books: **study day**
+  - **ar** `The Principles Of Visual Communication`
+- [Day 31](10-31-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `React Redux tutorials for beginners-3`
