@@ -1,0 +1,18 @@
+# December
+
+- [Day 01](12-01-2020.md) | :books: **study day**
+  - **ar** `Create React Components Using Hygen`
+- [Day 02](12-02-2020.md) | :books: **study day**
+  - **ar** `Designing An Attractive And Usable Data Importer For Your App`
+- [Day 03](12-03-2020.md) | :books: **study day**
+  - **ar** `CommonMark: A Formal Specification For Markdown`
+- [Day 04](12-04-2020.md) | :books: **study day**
+  - **ar** `How To Migrate From WordPress To The Eleventy Static Site Generator`
+- [Day 05](12-05-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Precisa Saber Matemática para Programar? (Minha Opinião)`
+- [Day 06](12-06-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Entrevista de emprego: 3 dicas para ser um candidato irresistível (dicas da Pixar)`
+  - **ar** `Android unidirectional architecture with StateFlow and SharedFlow`
+- [Day 07](12-07-2020.md) | :books: **study day**
+  - **ar** `How To Use MDX Stored In Sanity In A Next.js Website`
+  - **ar** `We Need You In The Smashing Family`
