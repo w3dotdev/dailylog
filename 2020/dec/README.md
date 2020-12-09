@@ -16,3 +16,5 @@
 - [Day 07](12-07-2020.md) | :books: **study day**
   - **ar** `How To Use MDX Stored In Sanity In A Next.js Website`
   - **ar** `We Need You In The Smashing Family`
+- [Day 08](12-08-2020.md) | :books: **study day**
+  - **ar** `Building A Conversational N.L.P Enabled Chatbot Using Google’s Dialogflow`
