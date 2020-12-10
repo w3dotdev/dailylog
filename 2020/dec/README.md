@@ -18,3 +18,5 @@
   - **ar** `We Need You In The Smashing Family`
 - [Day 08](12-08-2020.md) | :books: **study day**
   - **ar** `Building A Conversational N.L.P Enabled Chatbot Using Google’s Dialogflow`
+- [Day 09](12-09-2020.md) | :books: **study day**
+  - **ar** `Ethical Considerations In UX Research: The Need For Training And Review`
