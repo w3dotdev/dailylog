@@ -22,3 +22,5 @@
   - **ar** `Ethical Considerations In UX Research: The Need For Training And Review`
 - [Day 10](12-10-2020.md) | :books: **study day**
   - **ar** `Making Websites Easier To Talk To`
+- [Day 11](12-11-2020.md) | :books: **study day**
+  - **ar** `How To Design A Simple UI When You Have A Complex Solution`
