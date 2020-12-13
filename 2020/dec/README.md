@@ -24,3 +24,5 @@
   - **ar** `Making Websites Easier To Talk To`
 - [Day 11](12-11-2020.md) | :books: **study day**
   - **ar** `How To Design A Simple UI When You Have A Complex Solution`
+- [Day 12](12-12-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Write code without if-else statement or art of avoiding if statement`
