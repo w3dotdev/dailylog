@@ -26,3 +26,7 @@
   - **ar** `How To Design A Simple UI When You Have A Complex Solution`
 - [Day 12](12-12-2020.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `Write code without if-else statement or art of avoiding if statement`
+- [Day 13](12-13-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `There is No Normal`
+  - **ar** `Let’s Create a Lightweight Native Event Bus in JavaScript`
+  - **ar** `Why I love Tailwind`
