@@ -30,3 +30,8 @@
   - **ar** `There is No Normal`
   - **ar** `Let’s Create a Lightweight Native Event Bus in JavaScript`
   - **ar** `Why I love Tailwind`
+- [Day 14](12-14-2020.md) | :books: **study day**
+  - **ar** `How Redux Reducers Work`
+  - **ar** `Debugging CSS`
+  - **ar** `Give Users Control: The Media Session API`
+  - **ar** `MDN on GitHub`
