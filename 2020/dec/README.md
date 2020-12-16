@@ -35,3 +35,7 @@
   - **ar** `Debugging CSS`
   - **ar** `Give Users Control: The Media Session API`
   - **ar** `MDN on GitHub`
+- [Day 15](12-15-2020.md) | :books: **study day**
+  - **ar** `Hell Yes! CSS!`
+  - **ar** `Representation Matters`
+  - **ar** `Netlify & Next.js`
