@@ -39,3 +39,5 @@
   - **ar** `Hell Yes! CSS!`
   - **ar** `Representation Matters`
   - **ar** `Netlify & Next.js`
+- [Day 16](12-16-2020.md) | :books: **study day**
+  - **ar** `Are Websites Adding To Consumer’s Health Issues?`
