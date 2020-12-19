@@ -43,3 +43,5 @@
   - **ar** `Are Websites Adding To Consumer’s Health Issues?`
 - [Day 17](12-17-2020.md) | :books: **study day**
   - **ar** `Search Engine Optimization Checklist (PDF)`
+- [Day 18](12-18-2020.md) | :books: **study day**
+  - **ar** `Counting Down To Bundles Of Smashing Joy And Workshops In 2021`
