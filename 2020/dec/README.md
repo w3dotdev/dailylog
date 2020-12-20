@@ -45,3 +45,6 @@
   - **ar** `Search Engine Optimization Checklist (PDF)`
 - [Day 18](12-18-2020.md) | :books: **study day**
   - **ar** `Counting Down To Bundles Of Smashing Joy And Workshops In 2021`
+- [Day 19](12-19-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Three Ways to Distinguish a Site From the Norm`
+  - **ar** `Learning to Simplify`
