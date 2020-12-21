@@ -48,3 +48,6 @@
 - [Day 19](12-19-2020.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `Three Ways to Distinguish a Site From the Norm`
   - **ar** `Learning to Simplify`
+- [Day 20](12-20-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Change vs. Inertia`
+  - **ar** `Optimizing Image Depth`
