@@ -51,3 +51,7 @@
 - [Day 20](12-20-2020.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `Change vs. Inertia`
   - **ar** `Optimizing Image Depth`
+- [Day 21](12-21-2020.md) | :books: **study day**
+  - **ar** `Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura`
+  - **ar** `Converting and Optimizing Images From the Command Line`
+  - **ar** `I Don’t Know`
