@@ -55,3 +55,7 @@
   - **ar** `Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura`
   - **ar** `Converting and Optimizing Images From the Command Line`
   - **ar** `I Don’t Know`
+- [Day 22](12-22-2020.md) | :books: **study day**
+  - **ar** `Edge Everything`
+  - **ar** `Recognizing Constraints`
+  - **ar** `Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel`
