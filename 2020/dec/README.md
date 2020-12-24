@@ -59,3 +59,6 @@
   - **ar** `Edge Everything`
   - **ar** `Recognizing Constraints`
   - **ar** `Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel`
+- [Day 23](12-23-2020.md) | :books: **study day**
+  - **ar** `How To Optimize Progressive Web Apps: Going Beyond The Basics`
+  - **ar** `Continuous Performance Analysis with Lighthouse CI and GitHub Actions`
