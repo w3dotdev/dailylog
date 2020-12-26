@@ -65,3 +65,5 @@
 - [Day 24](12-24-2020.md) | :zzz: **holiday**
   - **ar** `Dockerizing React App`
   - **ar** `A Calendar in Three Lines of CSS`
+- [Day 25](12-25-2020.md) | :zzz: **holiday**
+  - **ar** `Responsible, Conditional Loading`
