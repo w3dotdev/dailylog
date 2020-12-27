@@ -67,3 +67,5 @@
   - **ar** `A Calendar in Three Lines of CSS`
 - [Day 25](12-25-2020.md) | :zzz: **holiday**
   - **ar** `Responsible, Conditional Loading`
+- [Day 26](12-26-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `A Utility Class for Covering Elements`
