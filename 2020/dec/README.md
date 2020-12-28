@@ -69,3 +69,5 @@
   - **ar** `Responsible, Conditional Loading`
 - [Day 26](12-26-2020.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `A Utility Class for Covering Elements`
+- [Day 27](12-27-2020.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `clipPath vs. mask`
