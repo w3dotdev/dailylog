@@ -71,3 +71,6 @@
   - **ar** `A Utility Class for Covering Elements`
 - [Day 27](12-27-2020.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `clipPath vs. mask`
+- [Day 28](12-28-2020.md) | :books: **study day**
+  - **ar** `Creativity In A World Of Technology: Does It Exist?`
+  - **ar** `Create a Tag Cloud with some Simple CSS and even Simpler JavaScript`
