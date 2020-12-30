@@ -74,3 +74,7 @@
 - [Day 28](12-28-2020.md) | :books: **study day**
   - **ar** `Creativity In A World Of Technology: Does It Exist?`
   - **ar** `Create a Tag Cloud with some Simple CSS and even Simpler JavaScript`
+- [Day 29](12-29-2020.md) | :books: **study day**
+  - **ar** `Top 10 Striking ⚡ Programming Languages 2021🤩`
+  - **ar** `Simulating Drop Shadows with the CSS Paint API`
+  - **ar** `Accessible SVG Icons`
