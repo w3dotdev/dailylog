@@ -78,3 +78,7 @@
   - **ar** `Top 10 Striking ⚡ Programming Languages 2021🤩`
   - **ar** `Simulating Drop Shadows with the CSS Paint API`
   - **ar** `Accessible SVG Icons`
+- [Day 30](12-30-2020.md) | :books: **study day**
+  - **ar** `A Practical Introduction To Dependency Injection`
+  - **ar** `Design v18`
+  - **ar** `Automatic Social Share Images`
