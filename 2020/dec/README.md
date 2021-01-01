@@ -82,3 +82,7 @@
   - **ar** `A Practical Introduction To Dependency Injection`
   - **ar** `Design v18`
   - **ar** `Automatic Social Share Images`
+- [Day 31](12-31-2020.md) | :zzz: **holiday**
+  - **ar** `Top Interview Questions on Node.js Development You Must Know About In 2021`
+  - **ar** `CSS Individual Transform Properties in Safari Technology Preview`
+  - **ar** `The Rules of Margin Collapse`
