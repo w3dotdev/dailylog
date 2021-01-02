@@ -526,7 +526,7 @@
     - **ar** `bleed`
     - **ar** `Newline in react string`
     - **ar** `How to use media queries with styled components`
-    - **ar** `How to deploy a static website for free in just 3 minutes straight from your Google Drive, using Fast.io` 
+    - **ar** `How to deploy a static website for free in just 3 minutes straight from your Google Drive, using Fast.io`
   - [Day 26](may/05-26-2020.md) | :construction_worker: **workday**
     - **ar** `Functional Composition of React Components`
     - **ar** `Advanced composition in React: cloneElement, HOCs and renderProps`
@@ -971,157 +971,406 @@
     - **pb-ws** `Dia 58/2019 - Algoritmos em JS: Classificação`
 - [September](sep/README.md)
   - [Day 01](sep/09-01-2020.md) | :books: **study day**
-  - **ar** `Building React Apps With Storybook`
-  - **ar** `How to Make a Media Query-less responsive Card Component`
-  - **ar** `Comparing Browsers for Responsive Design`
-  - **ar** `Come to Web Unleashed!`
-  - **pb-ws** `Dia 59/2019 - Algoritmos em JS: Pesquisando`
-- [Day 02](sep/09-02-2020.md) | :books: **study day**
-  - **ar** `Everything Developers Need To Know About Figma`
-  - **ar** `How to Use CSS Grid for Sticky Headers and Footers`
-  - **ar** `Excluding Emojis From Transparent Text Clipping`
-  - **ar** `Using @property for CSS Custom Properties`
-  - **pb-ws** `Dia 60/2019 - Algoritmos em JS: Técnicas de Design`
-- [Day 03](sep/09-03-2020.md) | :books: **study day**
-  - **ar** `4 Ways To Creatively Use Icons In Your Mobile Apps`
-  - **ar** `State of Jamstack 2020: Data Deep Dive]`
-  - **ar** `How to Simplify SVG Code Using Basic Shapes`
-  - **ar** `Stroke Text CSS: The Definitive Guide`
-  - **pb-ws** `Dia 61/2019 - MochaJS`
-- [Day 04](sep/09-04-2020.md) | :books: **study day**
-  - **ar** `Building A Component Library With React And Emotion`
-  - **ar** `Supercharging Number Inputs`
-  - **ar** `Beyond Media Queries: Using Newer HTML & CSS Features for Responsive Designs`
-  - **pb-ws** `Dia 62/2019 - Jasmine`
-- [Day 05](sep/09-05-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `Stop Using Objects as Hash Maps in JavaScript`
-  - **pb-ws** `Dia 63/2019 - AVA`
-- [Day 06](sep/09-06-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `How to Fix Memory Leak Warnings with a Simple React Custom Hook`
-  - **pb-ws** `Dia 64/2019 - Jest`
-- [Day 07](sep/09-07-2020.md) | :books: **study day**
-  - **ar** `How To Automate API Testing With Postman`
-  - **ar** `Smart Interface Design Patterns In Your Pocket: Checklist Cards PDF`
-  - **ar** `Using max() for an inner-element max-width`
-  - **ar** `All the Ways to Make a Web Component`
-  - **pb-ws** `Dia 65/2019 - Karma, Chai e Sinon`
-- [Day 08](sep/09-08-2020.md) | :books: **study day**
-  - **ar** `Smashing Podcast Episode 24 With Cassie Evans: What Is SVG Animation?`
-  - **ar** `Designing With Reduced Motion For Motion Sensitivities`
-  - **ar** `Menu Reveal By Page Rotate Animation`
-  - **ar** `Jetpack 8.9: Take Donations, Capture Email Subscribers, AMP integration, and More`
-  - **ar** `One Action, Multiple Terminal Windows Running Stuff`
-  - **ar** `AVIF has landed`
-  - **pb-ws** `Dia 66/2019 - Nightwatch`
-- [Day 09](sep/09-09-2020.md) | :books: **study day**
-  - **ar** `How To Build A Blog With Next And MDX`
-  - **ar** `How CSS Perspective Works`
-  - **ar** `Setting up and Customizing the Ant Design System in a Nuxt App`
-  - **pb-ws** `Dia 67/2019 - Three.js`
-- [Day 10](sep/09-10-2020.md) | :books: **study day**
-  - **ar** `Get Up And Running With Craft CMS`
-  - **ar** `Modifying Specific Letters with CSS and JavaScript`
-  - **ar** `Defining "View Source"`
-  - **pb-ws** `Dia 68/2019 - Anime.js`
-- [Day 11](sep/09-11-2020.md) | :books: **study day**
-  - **ar** `Smashing Magazine Is Fourteen!`
-  - **ar** `An Introduction To Running Lighthouse Programmatically`
-  - **ar** `How to Get Handwriting Animation With Irregular SVG Strokes`
-  - **ar** `Using a brightness() filter to generically highlight content`
-  - **ar** `Read Me!`
-  - **pb-ws** `Dia 69/2019 - Mo.js`
-- [Day 12](sep/09-12-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `How You Should Structure Your React Applications`
-  - **pb-ws** `Dia 70/2019 - Velocity`
-- [Day 13](sep/09-13-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `Five awesome React packages to check out`
-  - **pb-ws** `Dia 71/2019 - Popmotion`
-- [Day 14](sep/09-14-2020.md) | :books: **study day**
-  - **ar** `Animating React Components With GreenSock`
-  - **ar** `Interaction Media Features and Their Potential (for Incorrect Assumptions)`
-  - **ar** `content-visibility: the new CSS property that boosts your rendering performance`
-  - **ar** `Winamp Skin Museum`
-  - **pb-ws** `Dia 72/2019 - D3.js`
-- [Day 15](sep/09-15-2020.md) | :books: **study day**
-  - **ar** `Designing For Attention`
-  - **ar** `Form design`
-  - **ar** `Virtual Event Registrations with Wufoo Forms`
-  - **ar** `What is the Value of Browser Diversity?`
-  - **ar** `Chapter 4: Search`
-  - **pb-ws** `Dia 73/2019 - Google Charts`
-- [Day 16](sep/09-16-2020.md) | :books: **study day**
-  - **ar** `Advanced GraphQL Usage In Gatsby Websites`
-  - **ar** `Inclusive Design 24`
-  - **ar** `Lessons Learned from Sixty Days of Re-Animating Zombies with Hand-Coded CSS`
-  - **ar** `Weaved Webs`
-  - **pb-ws** `Dia 74/2019 - Chart.js`
-- [Day 17](sep/09-17-2020.md) | :books: **study day**
-  - **ar** `Comparing Styling Methods In Next.js`
-  - **ar** `Changing Emoji Skin Tones Programmatically`
-  - **ar** `Optimizing CSS for faster page loads`
-  - **ar** `counter-set`
-  - **pb-ws** `Dia 75/2019 - Mustache.js`
-- [Day 18](sep/09-18-2020.md) | :books: **study day**
-  - **ar** `SmashingConfs, Inspiring Talks And Birthday Cake`
-  - **ar** `Enforcing performance budgets with webpack`
-  - **ar** `paint-order`
-  - **ar** `Vue 3`
-  - **pb-ws** `Dia 76/2019 - JQuery`
-- [Day 19](sep/09-19-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `How Discord achieves native iOS performance with React Native`
-  - **pb-ws** `Dia 77/2019 - Dojo Toolkit`
-- [Day 20](sep/09-20-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `10+ ReactJS Framework Articles You Should Read`
-  - **pb-ws** `Dia 78/2019 - Ext.js`
-- [Day 21](sep/09-21-2020.md) | :books: **study day**
-  - **ar** `How To Build Rapport With Your Web Design Clients`
-  - **ar** `Pre-Caching Image with React Suspense`
-  - **ar** `Nova`
-  - **ar** `Thinking About Power Usage and Websites`
-  - **pb-ws** `Dia 79/2019 - PouchDB`
-- [Day 22](sep/09-22-2020.md) | :books: **study day**
-  - **ar** `Smashing Podcast Episode 25 With Anthony Campolo: What Is RedwoodJS?`
-  - **ar** `A CSS Grid Framework For Shopify Collection Pages`
-  - **ar** `ztext.js`
-  - **ar** `Accessible Web Animation: The WCAG on Animation Explained`
-  - **ar** `Jamstack Conf`
-  - **pb-ws** `Dia 80/2019 - Polymer`
-- [Day 23](sep/09-23-2020.md) | :books: **study day**
-  - **ar** `Simplify Your Stack With A Custom-Made Static Site Generator`
-  - **ar** `Using Markdown and Localization in the WordPress Block Editor`
-  - **ar** `mask-size`
-  - **ar** `The Empty Box`
-  - **pb-ws** `Dia 81/2019 - Aurelia`
-- [Day 24](sep/09-24-2020.md) | :books: **study day**
-  - **ar** `Unexpected Learnings From Coding Artwork Every Day For Five Years`
-  - **ar** `A Gentle Introduction to Using a Docker Container as a Dev Environment`
-  - **ar** `Web Technologies and Syntax`
-  - **pb-ws** `Dia 82/2019 - Gatsby`
-- [Day 25](sep/09-25-2020.md) | :books: **study day**
-  - **ar** `Intuitive Design? No Such Thing!`
-  - **ar** `Linearly Scale font-size with CSS clamp() Based on the Viewport`
-  - **ar** `font-kerning`
-  - **pb-ws** `Dia 83/2019 - Meteor`
-- [Day 26](sep/09-26-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `10 articles every ReactJS developer should read`
-  - **pb-ws** `Dia 84/2019 - Angular`
-- [Day 27](sep/09-27-2020.md) | :sunrise_over_mountains: **weekend day**
-  - **ar** `ooooops I guess we’re* full-stack developers now`
-  - **pb-ws** `Dia 85/2019 - Vue`
-- [Day 28](sep/09-28-2020.md) | :books: **study day**
-  - **ar** `Different Ways To Design Digital Product Pages`
-  - **ar** `row-gap`
-  - **pb-ws** `Dia 86/2019 - React`
-- [Day 29](sep/09-29-2020.md) | :books: **study day**
-  - **ar** `Unit Testing In React Native Applications`
-  - **ar** `column-gap`
-  - **ar** `The Flavors of Object-Oriented Programming (in JavaScript)`
-  - **ar** `Make Your Own Dev Tool`
-  - **ar** `Some New Icon Sets`
-  - **pb-ws** `Dia 87/2019 - GraphQL`
-- [Day 30](sep/09-30-2020.md) | :books: **study day**
-  - **ar** `Squirrels, Ghosts, And Moonlight: Tales From October (2020 Wallpapers Edition)`
-  - **ar** `5 Ways Google Analytics Helps Web Developers In UI/UX Design`
-  - **ar** `POW`
-  - **ar** `Achieving Vertical Alignment (Thanks, Subgrid!)`
-  - **pb-ws** `Dia 88/2019 - Aprendizado de máquina com JS: Brain.js`
+    - **ar** `Building React Apps With Storybook`
+    - **ar** `How to Make a Media Query-less responsive Card Component`
+    - **ar** `Comparing Browsers for Responsive Design`
+    - **ar** `Come to Web Unleashed!`
+    - **pb-ws** `Dia 59/2019 - Algoritmos em JS: Pesquisando`
+  - [Day 02](sep/09-02-2020.md) | :books: **study day**
+    - **ar** `Everything Developers Need To Know About Figma`
+    - **ar** `How to Use CSS Grid for Sticky Headers and Footers`
+    - **ar** `Excluding Emojis From Transparent Text Clipping`
+    - **ar** `Using @property for CSS Custom Properties`
+    - **pb-ws** `Dia 60/2019 - Algoritmos em JS: Técnicas de Design`
+  - [Day 03](sep/09-03-2020.md) | :books: **study day**
+    - **ar** `4 Ways To Creatively Use Icons In Your Mobile Apps`
+    - **ar** `State of Jamstack 2020: Data Deep Dive]`
+    - **ar** `How to Simplify SVG Code Using Basic Shapes`
+    - **ar** `Stroke Text CSS: The Definitive Guide`
+    - **pb-ws** `Dia 61/2019 - MochaJS`
+  - [Day 04](sep/09-04-2020.md) | :books: **study day**
+    - **ar** `Building A Component Library With React And Emotion`
+    - **ar** `Supercharging Number Inputs`
+    - **ar** `Beyond Media Queries: Using Newer HTML & CSS Features for Responsive Designs`
+    - **pb-ws** `Dia 62/2019 - Jasmine`
+  - [Day 05](sep/09-05-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Stop Using Objects as Hash Maps in JavaScript`
+    - **pb-ws** `Dia 63/2019 - AVA`
+  - [Day 06](sep/09-06-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How to Fix Memory Leak Warnings with a Simple React Custom Hook`
+    - **pb-ws** `Dia 64/2019 - Jest`
+  - [Day 07](sep/09-07-2020.md) | :books: **study day**
+    - **ar** `How To Automate API Testing With Postman`
+    - **ar** `Smart Interface Design Patterns In Your Pocket: Checklist Cards PDF`
+    - **ar** `Using max() for an inner-element max-width`
+    - **ar** `All the Ways to Make a Web Component`
+    - **pb-ws** `Dia 65/2019 - Karma, Chai e Sinon`
+  - [Day 08](sep/09-08-2020.md) | :books: **study day**
+    - **ar** `Smashing Podcast Episode 24 With Cassie Evans: What Is SVG Animation?`
+    - **ar** `Designing With Reduced Motion For Motion Sensitivities`
+    - **ar** `Menu Reveal By Page Rotate Animation`
+    - **ar** `Jetpack 8.9: Take Donations, Capture Email Subscribers, AMP integration, and More`
+    - **ar** `One Action, Multiple Terminal Windows Running Stuff`
+    - **ar** `AVIF has landed`
+    - **pb-ws** `Dia 66/2019 - Nightwatch`
+  - [Day 09](sep/09-09-2020.md) | :books: **study day**
+    - **ar** `How To Build A Blog With Next And MDX`
+    - **ar** `How CSS Perspective Works`
+    - **ar** `Setting up and Customizing the Ant Design System in a Nuxt App`
+    - **pb-ws** `Dia 67/2019 - Three.js`
+  - [Day 10](sep/09-10-2020.md) | :books: **study day**
+    - **ar** `Get Up And Running With Craft CMS`
+    - **ar** `Modifying Specific Letters with CSS and JavaScript`
+    - **ar** `Defining "View Source"`
+    - **pb-ws** `Dia 68/2019 - Anime.js`
+  - [Day 11](sep/09-11-2020.md) | :books: **study day**
+    - **ar** `Smashing Magazine Is Fourteen!`
+    - **ar** `An Introduction To Running Lighthouse Programmatically`
+    - **ar** `How to Get Handwriting Animation With Irregular SVG Strokes`
+    - **ar** `Using a brightness() filter to generically highlight content`
+    - **ar** `Read Me!`
+    - **pb-ws** `Dia 69/2019 - Mo.js`
+  - [Day 12](sep/09-12-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How You Should Structure Your React Applications`
+    - **pb-ws** `Dia 70/2019 - Velocity`
+  - [Day 13](sep/09-13-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Five awesome React packages to check out`
+    - **pb-ws** `Dia 71/2019 - Popmotion`
+  - [Day 14](sep/09-14-2020.md) | :books: **study day**
+    - **ar** `Animating React Components With GreenSock`
+    - **ar** `Interaction Media Features and Their Potential (for Incorrect Assumptions)`
+    - **ar** `content-visibility: the new CSS property that boosts your rendering performance`
+    - **ar** `Winamp Skin Museum`
+    - **pb-ws** `Dia 72/2019 - D3.js`
+  - [Day 15](sep/09-15-2020.md) | :books: **study day**
+    - **ar** `Designing For Attention`
+    - **ar** `Form design`
+    - **ar** `Virtual Event Registrations with Wufoo Forms`
+    - **ar** `What is the Value of Browser Diversity?`
+    - **ar** `Chapter 4: Search`
+    - **pb-ws** `Dia 73/2019 - Google Charts`
+  - [Day 16](sep/09-16-2020.md) | :books: **study day**
+    - **ar** `Advanced GraphQL Usage In Gatsby Websites`
+    - **ar** `Inclusive Design 24`
+    - **ar** `Lessons Learned from Sixty Days of Re-Animating Zombies with Hand-Coded CSS`
+    - **ar** `Weaved Webs`
+    - **pb-ws** `Dia 74/2019 - Chart.js`
+  - [Day 17](sep/09-17-2020.md) | :books: **study day**
+    - **ar** `Comparing Styling Methods In Next.js`
+    - **ar** `Changing Emoji Skin Tones Programmatically`
+    - **ar** `Optimizing CSS for faster page loads`
+    - **ar** `counter-set`
+    - **pb-ws** `Dia 75/2019 - Mustache.js`
+  - [Day 18](sep/09-18-2020.md) | :books: **study day**
+    - **ar** `SmashingConfs, Inspiring Talks And Birthday Cake`
+    - **ar** `Enforcing performance budgets with webpack`
+    - **ar** `paint-order`
+    - **ar** `Vue 3`
+    - **pb-ws** `Dia 76/2019 - JQuery`
+  - [Day 19](sep/09-19-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How Discord achieves native iOS performance with React Native`
+    - **pb-ws** `Dia 77/2019 - Dojo Toolkit`
+  - [Day 20](sep/09-20-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `10+ ReactJS Framework Articles You Should Read`
+    - **pb-ws** `Dia 78/2019 - Ext.js`
+  - [Day 21](sep/09-21-2020.md) | :books: **study day**
+    - **ar** `How To Build Rapport With Your Web Design Clients`
+    - **ar** `Pre-Caching Image with React Suspense`
+    - **ar** `Nova`
+    - **ar** `Thinking About Power Usage and Websites`
+    - **pb-ws** `Dia 79/2019 - PouchDB`
+  - [Day 22](sep/09-22-2020.md) | :books: **study day**
+    - **ar** `Smashing Podcast Episode 25 With Anthony Campolo: What Is RedwoodJS?`
+    - **ar** `A CSS Grid Framework For Shopify Collection Pages`
+    - **ar** `ztext.js`
+    - **ar** `Accessible Web Animation: The WCAG on Animation Explained`
+    - **ar** `Jamstack Conf`
+    - **pb-ws** `Dia 80/2019 - Polymer`
+  - [Day 23](sep/09-23-2020.md) | :books: **study day**
+    - **ar** `Simplify Your Stack With A Custom-Made Static Site Generator`
+    - **ar** `Using Markdown and Localization in the WordPress Block Editor`
+    - **ar** `mask-size`
+    - **ar** `The Empty Box`
+    - **pb-ws** `Dia 81/2019 - Aurelia`
+  - [Day 24](sep/09-24-2020.md) | :books: **study day**
+    - **ar** `Unexpected Learnings From Coding Artwork Every Day For Five Years`
+    - **ar** `A Gentle Introduction to Using a Docker Container as a Dev Environment`
+    - **ar** `Web Technologies and Syntax`
+    - **pb-ws** `Dia 82/2019 - Gatsby`
+  - [Day 25](sep/09-25-2020.md) | :books: **study day**
+    - **ar** `Intuitive Design? No Such Thing!`
+    - **ar** `Linearly Scale font-size with CSS clamp() Based on the Viewport`
+    - **ar** `font-kerning`
+    - **pb-ws** `Dia 83/2019 - Meteor`
+  - [Day 26](sep/09-26-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `10 articles every ReactJS developer should read`
+    - **pb-ws** `Dia 84/2019 - Angular`
+  - [Day 27](sep/09-27-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `ooooops I guess we’re* full-stack developers now`
+    - **pb-ws** `Dia 85/2019 - Vue`
+  - [Day 28](sep/09-28-2020.md) | :books: **study day**
+    - **ar** `Different Ways To Design Digital Product Pages`
+    - **ar** `row-gap`
+    - **pb-ws** `Dia 86/2019 - React`
+  - [Day 29](sep/09-29-2020.md) | :books: **study day**
+    - **ar** `Unit Testing In React Native Applications`
+    - **ar** `column-gap`
+    - **ar** `The Flavors of Object-Oriented Programming (in JavaScript)`
+    - **ar** `Make Your Own Dev Tool`
+    - **ar** `Some New Icon Sets`
+    - **pb-ws** `Dia 87/2019 - GraphQL`
+  - [Day 30](sep/09-30-2020.md) | :books: **study day**
+    - **ar** `Squirrels, Ghosts, And Moonlight: Tales From October (2020 Wallpapers Edition)`
+    - **ar** `5 Ways Google Analytics Helps Web Developers In UI/UX Design`
+    - **ar** `POW`
+    - **ar** `Achieving Vertical Alignment (Thanks, Subgrid!)`
+    - **pb-ws** `Dia 88/2019 - Aprendizado de máquina com JS: Brain.js`
+- [October](oct/README.md)
+  - [Day 01](oct/10-01-2020.md) | :books: **study day**
+    - **ar** `The Paper Prototype Rule`
+    - **ar** `Some Industry Podcasts`
+    - **ar** `There’s a good reason why experienced devs say "it depends" so often`
+    - **ar** `Understanding TypeScript Generics`
+    - **pb-ws** `Dia 89/2019 - Aprendizado de máquina com JS: Tensorflow.js`
+  - [Day 02](oct/10-02-2020.md) | :books: **study day**
+    - **ar** `A Complete Guide to CSS Media Queries`
+    - **ar** `Parsel: A tiny, permissive CSS selector parser`
+    - **ar** `How To Use Face Motion To Interact With Typography`
+    - **pb-ws** `Dia 90/2019 - Aprendizado de máquina com JS: ML.js`
+  - [Day 03](oct/10-03-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Build a Chat App Using React Hooks in 100 Lines of Code`
+    - **ar** `One simple trick to optimize React re-renders`
+    - **pb-ws** `Dia 91/2019 - TypeScript`
+  - [Day 04](oct/10-04-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `The Complete Introduction to React`
+    - **ar** `The 10 Component Commandments`
+    - **pb-ws** `Dia 92/2019 - React Native`
+  - [Day 05](oct/10-05-2020.md) | :books: **study day**
+    - **ar** `column-rule-style`
+    - **ar** `column-rule-width`
+    - **ar** `column-rule-color`
+    - **ar** `How to Make an Unobtrusive Scroll-to-Top Button`
+    - **ar** `Styling Complex Labels`
+    - **ar** `On the Web Share API`
+    - **ar** `Useful Tools In Vue.js Web Development`
+  - [Day 06](oct/10-06-2020.md) | :books: **study day**
+    - **ar** `Using JavaScript to Adjust Saturation and Brightness of RGB Colors`
+    - **ar** `Looking at AWS Amplify`
+    - **ar** `Smashing Podcast Episode 26 With Natalia Tepluhina: What’s New In Vue 3.0?`
+    - **ar** `Do Website Policy Disclosure Pages Always Have To Be So Ugly?`
+  - [Day 07](oct/10-07-2020.md) | :books: **study day**
+    - **ar** `The Widening Responsibility for Front-End Developers`
+    - **ar** `font-optical-sizing`
+    - **ar** `Developing For The Semantic Web`
+    - **ar** `Master TypeScript in 50 Short Lessons`
+  - [Day 08](oct/10-08-2020.md) | :books: **study day**
+    - **ar** `Balancing on a pivot with Flexbox`
+    - **ar** `How To Manage File Uploads In React With Google Storage And GraphQL`
+  - [Day 09](oct/10-09-2020.md) | :books: **study day**
+    - **ar** `Using WebXR With Babylon.js`
+  - [Day 10](oct/10-10-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `React Hooks — Using a wrapper to memoize event handlers and to prevent unnecessary re-renders`
+  - [Day 11](oct/10-11-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Confirm delete box using React Redux`
+  - [Day 12](oct/10-12-2020.md) | :books: **study day**
+    - **ar** `React Form Validation With Formik And Yup`
+  - [Day 13](oct/10-13-2020.md) | :books: **study day**
+    - **ar** `Redux, The Ultimate State Management Library For JavaScript`
+  - [Day 14](oct/10-14-2020.md) | :books: **study day**
+    - **ar** `Build And Deploy An Angular Form With Netlify Forms And Edge`
+  - [Day 15](oct/10-15-2020.md) | :books: **study day**
+    - **ar** `Managing Long-Running Tasks In A React App With Web Workers`
+  - [Day 16](oct/10-16-2020.md) | :books: **study day**
+    - **ar** `Supercharge Testing React Applications With Wallaby.js`
+  - [Day 17](oct/10-17-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Immutability importance in Angular applications`
+  - [Day 18](oct/10-18-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Easy Peasy Stores With Public and Private Actions`
+  - [Day 19](oct/10-19-2020.md) | :books: **study day**
+    - **ar** `Handling Continuous Integration And Delivery With GitHub Actions`
+  - [Day 20](oct/10-20-2020.md) | :books: **study day**
+    - **ar** `React-Redux with Ruby Rails Back-end(final project)`
+  - [Day 21](oct/10-21-2020.md) | :books: **study day**
+    - **ar** `Speed Up Your Workflow With Figma Plugins`
+  - [Day 22](oct/10-22-2020.md) | :books: **study day**
+    - **ar** `Getting Started With Next.js`
+  - [Day 23](oct/10-23-2020.md) | :books: **study day**
+    - **ar** `Sessions with a React/Redux Frontend and Rails API Backend`
+    - **ar** `Introduction to Redux`
+  - [Day 24](oct/10-24-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Chaining Async Calls with Redux by Making Custom ‘Side Effects’`
+  - [Day 25](oct/10-25-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Redux Saga — The simple (opinionated) way`
+  - [Day 26](oct/10-26-2020.md) | :books: **study day**
+    - **ar** `Introducing Framer Motion`
+  - [Day 27](oct/10-27-2020.md) | :books: **study day**
+    - **ar** `Authentication In Vue.js`
+  - [Day 28](oct/10-28-2020.md) | :books: **study day**
+    - **ar** `Why Read Source Code? for New Devs`
+  - [Day 29](oct/10-29-2020.md) | :books: **study day**
+    - **ar** `How To Build A GraphQL Server Using Next.js API Routes`
+  - [Day 30](oct/10-30-2020.md) | :books: **study day**
+    - **ar** `The Principles Of Visual Communication`
+  - [Day 31](oct/10-31-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `React Redux tutorials for beginners-3`
+- [November](nov/README.md)
+  - [Day 01](nov/11-01-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Redux fácil y sencillo.`
+  - [Day 02](nov/11-02-2020.md) | :books: **study day**
+    - **ar** `Native CSS Masonry Layout In CSS Grid`
+  - [Day 03](nov/11-03-2020.md) | :books: **study day**
+    - **ar** `What Can Web Designers Do With Their Unused Designs?`
+  - [Day 04](nov/11-04-2020.md) | :books: **study day**
+    - **ar** `Internationalization And Localization For Static Sites`
+  - [Day 05](nov/11-05-2020.md) | :books: **study day**
+    - **ar** `Data Visualization With ApexCharts`
+  - [Day 06](nov/11-06-2020.md) | :books: **study day**
+    - **ar** `Building Serverless Front-End Applications Using Google Cloud Platform`
+  - [Day 07](nov/11-07-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Introduction to the Redux`
+    - **ar** `An Offline First Redux Design Pattern Using Router Guards (Angular 9)`
+  - [Day 08](nov/11-08-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `React Redux tutorials for beginners-4`
+    - **ar** `React + Redux App`
+    - **ar** `Redux Typescript Concept for Less Boilerplate`
+  - [Day 09](nov/11-09-2020.md) | :books: **study day**
+    - **ar** `A Dive Into React And Three.js Using react-three-fiber`
+  - [Day 10](nov/11-10-2020.md) | :books: **study day**
+    - **ar** `Best Practices For E-Commerce UI Design`
+  - [Day 11](nov/11-11-2020.md) | :books: **study day**
+    - **ar** `Authenticating React Apps With Auth0`
+  - [Day 12](nov/11-12-2020.md) | :books: **study day**
+    - **ar** `From The Experts: Global Digital Accessibility Developments During COVID-19`
+  - [Day 13](nov/11-13-2020.md) | :books: **study day**
+    - **ar** `What’s New In Vue 3?`
+  - [Day 14](nov/11-14-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Observer pattern in React using Redux`
+  - [Day 15](nov/11-15-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Flux Architecture: A Closer Look at React-Redux Library`
+    - **ar** `Complete guide of usereducer hooks with context api in Reactjs`
+    - **ar** `Qual o resultado da combinação a arquitetura flux + o redux + o reactjs ?`
+    - **ar** `Jotai — Simple State Management for React`
+    - **ar** `O que construo com o Redux ?`
+  - [Day 16](nov/11-16-2020.md) | :books: **study day**
+    - **ar** `Creating A Continuous Integration Test Workflow Using GitHub Actions`
+  - [Day 17](nov/11-17-2020.md) | :books: **study day**
+    - **ar** `Making Sense Of TypeScript, In 50 Lessons`
+  - [Day 18](nov/11-18-2020.md) | :books: **study day**
+    - **ar** `Standardizing <select> And Beyond: The Past, Present And Future Of Native HTML Form Controls`
+  - [Day 19](nov/11-19-2020.md) | :books: **study day**
+    - **ar** `A Thoughtful Way To Use React’s useRef() Hook`
+  - [Day 20](nov/11-20-2020.md) | :books: **study day**
+    - **ar** `How to use Redux with AsyncStorage`
+    - **ar** `State Management With Flutter Use case`
+  - [Day 21](nov/11-21-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `React and Context API`
+  - [Day 22](nov/11-22-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Redux Middleware: Thunk`
+    - **ar** `Redux, Redux-Toolkit, Context Api, Flux — Problems they solve and when to use them`
+    - **ar** `This React+Redux folder structure will definitely help you organize your React-Project!!`
+  - [Day 23](nov/11-23-2020.md) | :books: **study day**
+    - **ar** `A Comparison Of async/await Versus then/catch`
+  - [Day 24](nov/11-24-2020.md) | :books: **study day**
+    - **ar** `Testing Vue Applications With The Vue Testing Library`
+  - [Day 25](nov/11-25-2020.md) | :books: **study day**
+    - **ar** `Playfulness In Code: Supercharge Your Learning By Having Fun`
+  - [Day 26](nov/11-26-2020.md) | :books: **study day**
+    - **ar** `Copy Docs: Make Your Microcopy Full And Consistent, And Maintain It`
+  - [Day 27](nov/11-27-2020.md) | :books: **study day**
+    - **ar** `Reactive Variables In GraphQL Apollo Client`
+  - [Day 28](nov/11-28-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Flux, Vuex are wrong and outdated`
+    - **ar** `Afinal, o que é o Redux e por que ele foi (e é) tão utilizado?`
+    - **ar** `Iniciando meu projeto React com Redux [pt. 1]`
+  - [Day 29](nov/11-29-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How to useRef to Fix React Performance Issues`
+  - [Day 30](nov/11-30-2020.md) | :books: **study day**
+    - **ar** `Weaving Web Accessibility With Usability`
+    - **ar** `Flux, Vuex are wrong and outdated`
+- [December](dec/README.md)
+  - [Day 01](dec/12-01-2020.md) | :books: **study day**
+    - **ar** `Create React Components Using Hygen`
+  - [Day 02](dec/12-02-2020.md) | :books: **study day**
+    - **ar** `Designing An Attractive And Usable Data Importer For Your App`
+  - [Day 03](dec/12-03-2020.md) | :books: **study day**
+    - **ar** `CommonMark: A Formal Specification For Markdown`
+  - [Day 04](dec/12-04-2020.md) | :books: **study day**
+    - **ar** `How To Migrate From WordPress To The Eleventy Static Site Generator`
+  - [Day 05](dec/12-05-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Precisa Saber Matemática para Programar? (Minha Opinião)`
+  - [Day 06](dec/12-06-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Entrevista de emprego: 3 dicas para ser um candidato irresistível (dicas da Pixar)`
+    - **ar** `Android unidirectional architecture with StateFlow and SharedFlow`
+  - [Day 07](dec/12-07-2020.md) | :books: **study day**
+    - **ar** `How To Use MDX Stored In Sanity In A Next.js Website`
+    - **ar** `We Need You In The Smashing Family`
+  - [Day 08](dec/12-08-2020.md) | :books: **study day**
+    - **ar** `Building A Conversational N.L.P Enabled Chatbot Using Google’s Dialogflow`
+  - [Day 09](dec/12-09-2020.md) | :books: **study day**
+    - **ar** `Ethical Considerations In UX Research: The Need For Training And Review`
+  - [Day 10](dec/12-10-2020.md) | :books: **study day**
+    - **ar** `Making Websites Easier To Talk To`
+  - [Day 11](dec/12-11-2020.md) | :books: **study day**
+    - **ar** `How To Design A Simple UI When You Have A Complex Solution`
+  - [Day 12](dec/12-12-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Write code without if-else statement or art of avoiding if statement`
+  - [Day 13](dec/12-13-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `There is No Normal`
+    - **ar** `Let’s Create a Lightweight Native Event Bus in JavaScript`
+    - **ar** `Why I love Tailwind`
+  - [Day 14](dec/12-14-2020.md) | :books: **study day**
+    - **ar** `How Redux Reducers Work`
+    - **ar** `Debugging CSS`
+    - **ar** `Give Users Control: The Media Session API`
+    - **ar** `MDN on GitHub`
+  - [Day 15](dec/12-15-2020.md) | :books: **study day**
+    - **ar** `Hell Yes! CSS!`
+    - **ar** `Representation Matters`
+    - **ar** `Netlify & Next.js`
+  - [Day 16](dec/12-16-2020.md) | :books: **study day**
+    - **ar** `Are Websites Adding To Consumer’s Health Issues?`
+  - [Day 17](dec/12-17-2020.md) | :books: **study day**
+    - **ar** `Search Engine Optimization Checklist (PDF)`
+  - [Day 18](dec/12-18-2020.md) | :books: **study day**
+    - **ar** `Counting Down To Bundles Of Smashing Joy And Workshops In 2021`
+  - [Day 19](dec/12-19-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Three Ways to Distinguish a Site From the Norm`
+    - **ar** `Learning to Simplify`
+  - [Day 20](dec/12-20-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Change vs. Inertia`
+    - **ar** `Optimizing Image Depth`
+  - [Day 21](dec/12-21-2020.md) | :books: **study day**
+    - **ar** `Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura`
+    - **ar** `Converting and Optimizing Images From the Command Line`
+    - **ar** `I Don’t Know`
+  - [Day 22](dec/12-22-2020.md) | :books: **study day**
+    - **ar** `Edge Everything`
+    - **ar** `Recognizing Constraints`
+    - **ar** `Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel`
+  - [Day 23](dec/12-23-2020.md) | :books: **study day**
+    - **ar** `How To Optimize Progressive Web Apps: Going Beyond The Basics`
+    - **ar** `Continuous Performance Analysis with Lighthouse CI and GitHub Actions`
+  - [Day 24](dec/12-24-2020.md) | :zzz: **holiday**
+    - **ar** `Dockerizing React App`
+    - **ar** `A Calendar in Three Lines of CSS`
+  - [Day 25](dec/12-25-2020.md) | :zzz: **holiday**
+    - **ar** `Responsible, Conditional Loading`
+  - [Day 26](dec/12-26-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `A Utility Class for Covering Elements`
+  - [Day 27](dec/12-27-2020.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `clipPath vs. mask`
+  - [Day 28](dec/12-28-2020.md) | :books: **study day**
+    - **ar** `Creativity In A World Of Technology: Does It Exist?`
+    - **ar** `Create a Tag Cloud with some Simple CSS and even Simpler JavaScript`
+  - [Day 29](dec/12-29-2020.md) | :books: **study day**
+    - **ar** `Top 10 Striking ⚡ Programming Languages 2021🤩`
+    - **ar** `Simulating Drop Shadows with the CSS Paint API`
+    - **ar** `Accessible SVG Icons`
+  - [Day 30](dec/12-30-2020.md) | :books: **study day**
+    - **ar** `A Practical Introduction To Dependency Injection`
+    - **ar** `Design v18`
+    - **ar** `Automatic Social Share Images`
+  - [Day 31](dec/12-31-2020.md) | :zzz: **holiday**
+    - **ar** `Top Interview Questions on Node.js Development You Must Know About In 2021`
+    - **ar** `CSS Individual Transform Properties in Safari Technology Preview`
+    - **ar** `The Rules of Margin Collapse`
