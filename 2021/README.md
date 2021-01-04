@@ -12,3 +12,5 @@
     - **ar** `Visual Breaking Change in Design Systems`
   - [Day 03](jan/01-03-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Server side user authentication and authorization in Node apps`
+  - [Day 04](jan/01-04-2021.md) | :books: **study day**
+    - **ar** `Towards An Ad-Free Web: Diversifying The Online Economy`
