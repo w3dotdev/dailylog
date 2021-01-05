@@ -11,3 +11,6 @@
   - **ar** `Server side user authentication and authorization in Node apps`
 - [Day 04](01-04-2021.md) | :books: **study day**
   - **ar** `Towards An Ad-Free Web: Diversifying The Online Economy`
+- [Day 05](01-05-2021.md) | :books: **study day**
+  - **ar** `Custom Properties as State`
+  - **ar** `Should The Web Expose Hardware Capabilities?`
