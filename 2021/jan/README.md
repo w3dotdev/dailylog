@@ -14,3 +14,6 @@
 - [Day 05](01-05-2021.md) | :books: **study day**
   - **ar** `Custom Properties as State`
   - **ar** `Should The Web Expose Hardware Capabilities?`
+- [Day 06](01-06-2021.md) | :books: **study day**
+  - **ar** `Styling Code In and Out of Blocks`
+  - **ar** `Whack-a-Mole: The CSS Edition`

@@ -14,3 +14,9 @@
     - **ar** `Server side user authentication and authorization in Node apps`
   - [Day 04](jan/01-04-2021.md) | :books: **study day**
     - **ar** `Towards An Ad-Free Web: Diversifying The Online Economy`
+  - [Day 05](jan/01-05-2021.md) | :books: **study day**
+    - **ar** `Custom Properties as State`
+    - **ar** `Should The Web Expose Hardware Capabilities?`
+  - [Day 06](jan/01-06-2021.md) | :books: **study day**
+    - **ar** `Styling Code In and Out of Blocks`
+    - **ar** `Whack-a-Mole: The CSS Edition`
