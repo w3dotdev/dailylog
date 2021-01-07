@@ -17,3 +17,5 @@
 - [Day 06](01-06-2021.md) | :books: **study day**
   - **ar** `Styling Code In and Out of Blocks`
   - **ar** `Whack-a-Mole: The CSS Edition`
+- [Day 07](01-07-2021.md) | :books: **study day**
+  - **ar** `Creating CSS APIs without JavaScript With the datasette-css-properties plugin`
