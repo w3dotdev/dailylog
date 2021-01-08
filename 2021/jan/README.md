@@ -19,3 +19,9 @@
   - **ar** `Whack-a-Mole: The CSS Edition`
 - [Day 07](01-07-2021.md) | :books: **study day**
   - **ar** `Creating CSS APIs without JavaScript With the datasette-css-properties plugin`
+- [Day 08](01-08-2021.md) | :books: **study day**
+  - **ar** `aspect-ratio is going to deprecate FitVids`
+  - **ar** `margin-block-end`
+  - **ar** `margin-block-start`
+  - **ar** `Svelte and Spring Animations`
+  - **ar** `Theming and Theme Switching with React and styled-components`
