@@ -28,3 +28,6 @@
     - **ar** `margin-block-start`
     - **ar** `Svelte and Spring Animations`
     - **ar** `Theming and Theme Switching with React and styled-components`
+  - [Day 09](jan/01-09-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How To Make More Money Selling Shopify Apps In 2021`
+    - **ar** `Getting Started With The GetX Package In Flutter Applications`
