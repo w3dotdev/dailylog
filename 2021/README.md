@@ -31,5 +31,7 @@
   - [Day 09](jan/01-09-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `How To Make More Money Selling Shopify Apps In 2021`
     - **ar** `Getting Started With The GetX Package In Flutter Applications`
-  - [Day 10](01-10-2021.md) | :sunrise_over_mountains: **weekend day**
+  - [Day 10](jan/01-10-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Python Beginner Breakthroughs (Pythonic Style)`
+  - [Day 11](jan/01-11-2021.md) | :books: **study day**
+    - **ar** `The two design skills that will matter in 2021`
