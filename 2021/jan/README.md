@@ -30,3 +30,5 @@
   - **ar** `Getting Started With The GetX Package In Flutter Applications`
 - [Day 10](01-10-2021.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `Python Beginner Breakthroughs (Pythonic Style)`
+- [Day 11](01-11-2021.md) | :books: **study day**
+  - **ar** `The two design skills that will matter in 2021`
