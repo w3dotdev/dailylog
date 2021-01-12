@@ -32,3 +32,7 @@
   - **ar** `Python Beginner Breakthroughs (Pythonic Style)`
 - [Day 11](01-11-2021.md) | :books: **study day**
   - **ar** `The two design skills that will matter in 2021`
+- [Day 12](01-12-2021.md) | :books: **study day**
+  - **ar** `How to Add Commas Between a List of Items Dynamically with CSS`
+  - **ar** `Fixing Smooth Scrolling with Find-on-Page`
+  - **ar** `Building Flexible Components With Transparency`
