@@ -39,3 +39,7 @@
     - **ar** `How to Add Commas Between a List of Items Dynamically with CSS`
     - **ar** `Fixing Smooth Scrolling with Find-on-Page`
     - **ar** `Building Flexible Components With Transparency`
+  - [Day 13](jan/01-13-2021.md) | :books: **study day**
+    - **ar** `Dynamic, Conditional Imports`
+    - **ar** `Two Issues Styling the Details Element and How to Solve Them`
+    - **ar** `A (terrible?) way to do footnotes in HTML`
