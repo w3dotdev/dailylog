@@ -40,3 +40,5 @@
   - **ar** `Dynamic, Conditional Imports`
   - **ar** `Two Issues Styling the Details Element and How to Solve Them`
   - **ar** `A (terrible?) way to do footnotes in HTML`
+- [Day 14](01-14-2021.md) | :books: **study day**
+  - **ar** `How to Make GraphQL and DynamoDB Play Nicely Together`
