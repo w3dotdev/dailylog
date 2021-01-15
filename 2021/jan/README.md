@@ -42,3 +42,8 @@
   - **ar** `A (terrible?) way to do footnotes in HTML`
 - [Day 14](01-14-2021.md) | :books: **study day**
   - **ar** `How to Make GraphQL and DynamoDB Play Nicely Together`
+- [Day 15](01-15-2021.md) | :books: **study day**
+  - **ar** `3 Approaches to Integrate React with Custom Elements`
+  - **ar** `margin-inline-end`
+  - **ar** `margin-inline-start`
+  - **ar** `margin-inline`
