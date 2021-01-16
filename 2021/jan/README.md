@@ -47,3 +47,6 @@
   - **ar** `margin-inline-end`
   - **ar** `margin-inline-start`
   - **ar** `margin-inline`
+- [Day 16](01-16-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Integrating A Dialogflow Agent Into A React Application`
+  - **ar** `Front-End Performance Checklist 2021`
