@@ -53,3 +53,5 @@
   - [Day 16](jan/01-16-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Integrating A Dialogflow Agent Into A React Application`
     - **ar** `Front-End Performance Checklist 2021`
+  - [Day 17](jan/01-17-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `On Auto-Generated Atomic CSS`
