@@ -52,3 +52,7 @@
   - **ar** `Front-End Performance Checklist 2021`
 - [Day 17](01-17-2021.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `On Auto-Generated Atomic CSS`
+- [Day 18](01-18-2021.md) | :books: **study day**
+  - **ar** `Rendering the WordPress philosophy in GraphQL`
+  - **ar** `AnimXYZ`
+  - **ar** `Fading in a Page on Load with CSS & JavaScript`
