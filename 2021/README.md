@@ -59,3 +59,6 @@
     - **ar** `Rendering the WordPress philosophy in GraphQL`
     - **ar** `AnimXYZ`
     - **ar** `Fading in a Page on Load with CSS & JavaScript`
+  - [Day 19](jan/01-19-2021.md) | :books: **study day**
+    - **ar** `Life with ESM`
+    - **ar** `On Type Patterns and Style Guides`
