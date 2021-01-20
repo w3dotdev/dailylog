@@ -62,3 +62,5 @@
   - [Day 19](jan/01-19-2021.md) | :books: **study day**
     - **ar** `Life with ESM`
     - **ar** `On Type Patterns and Style Guides`
+  - [Day 20](jan/01-20-2021.md) | :books: **study day**
+    - **ar** `Lightweight Form Validation with Alpine.js and Iodine.js`
