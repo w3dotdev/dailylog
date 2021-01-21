@@ -61,3 +61,6 @@
   - **ar** `On Type Patterns and Style Guides`
 - [Day 20](01-20-2021.md) | :books: **study day**
   - **ar** `Lightweight Form Validation with Alpine.js and Iodine.js`
+- [Day 21](01-21-2021.md) | :books: **study day**
+  - **ar** `useStateInCustomProperties`
+  - **ar** `How to Play and Pause CSS Animations with CSS Custom Properties`
