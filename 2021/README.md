@@ -69,3 +69,8 @@
     - **ar** `How to Play and Pause CSS Animations with CSS Custom Properties`
   - [Day 22](jan/01-22-2021.md) | :books: **study day**
     - **ar** `You want minmax(10px, 1fr) not 1fr`
+  - [Day 23](jan/01-23-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `When To Say No To Freelance Projects`
+    - **ar** `How We Improved SmashingMag Performance`
+    - **ar** `How To Build A Node.js API For Ethereum Blockchain`
+    - **ar** `Using Grommet In React Applications`
