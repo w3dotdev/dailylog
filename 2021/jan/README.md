@@ -71,3 +71,5 @@
   - **ar** `How We Improved SmashingMag Performance`
   - **ar** `How To Build A Node.js API For Ethereum Blockchain`
   - **ar** `Using Grommet In React Applications`
+- [Day 24](01-24-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Servers: Cool Once Again`
