@@ -76,3 +76,14 @@
     - **ar** `Using Grommet In React Applications`
   - [Day 24](jan/01-24-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Servers: Cool Once Again`
+  - Day 25 | :airplane: **trip - Búzios/RJ**
+  - Day 26 | :airplane: **trip - Búzios/RJ**
+  - Day 27 | :airplane: **trip - Búzios/RJ**
+  - Day 28 | :airplane: **trip - Búzios/RJ**
+  - [Day 29](jan/01-29-2021.md) | :books: **study day**
+    - **ar** `Styling Web Components`
+    - **ar** `GreenSock ScrollTrigger`
+    - **ar** `Components: Server-Side vs. Client-Side`
+    - **ar** `From Design To Developer-Friendly React Code In Minutes With Anima`
+    - **ar** `How To Create An Engaging And Useful Chatbot`
+    - **ar** `Dynamic Static Typing In TypeScript`
