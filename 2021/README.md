@@ -87,3 +87,9 @@
     - **ar** `From Design To Developer-Friendly React Code In Minutes With Anima`
     - **ar** `How To Create An Engaging And Useful Chatbot`
     - **ar** `Dynamic Static Typing In TypeScript`
+  - [Day 30](jan/01-30-2021.md) | :books: **study day**
+    - **ar** `caret`
+    - **ar** `Monorepo`
+    - **ar** `Re-Creating the Porky Pig Animation from Looney Tunes in CSS`
+    - **ar** `Tech Stacks and Website Longevity`
+    - **ar** `Checkerboard Reveal`
