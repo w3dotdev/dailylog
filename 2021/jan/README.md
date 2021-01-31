@@ -84,9 +84,13 @@
   - **ar** `From Design To Developer-Friendly React Code In Minutes With Anima`
   - **ar** `How To Create An Engaging And Useful Chatbot`
   - **ar** `Dynamic Static Typing In TypeScript`
-- [Day 30](01-30-2021.md) | :books: **study day**
+- [Day 30](01-30-2021.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `caret`
   - **ar** `Monorepo`
   - **ar** `Re-Creating the Porky Pig Animation from Looney Tunes in CSS`
   - **ar** `Tech Stacks and Website Longevity`
   - **ar** `Checkerboard Reveal`
+- [Day 31](01-31-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Is TypeScript in ReactJS a good idea for a small team?`
+  - **ar** `Using React Context, the Right Way`
+  - **ar** `TypeScript tricks that allow you to scale your app endlessly`
