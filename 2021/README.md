@@ -97,3 +97,8 @@
     - **ar** `Is TypeScript in ReactJS a good idea for a small team?`
     - **ar** `Using React Context, the Right Way`
     - **ar** `TypeScript tricks that allow you to scale your app endlessly`
+- [February](feb/README.md)
+  - [Day 01](feb/02-01-2021.md) | :construction_worker: **workday**
+    - **ar** `“Cancelable” Smooth Scrolling`
+    - **ar** `Open Web Docs`
+    - **ar** `No-Jank CSS Stripes`
