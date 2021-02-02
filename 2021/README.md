@@ -102,3 +102,5 @@
     - **ar** `“Cancelable” Smooth Scrolling`
     - **ar** `Open Web Docs`
     - **ar** `No-Jank CSS Stripes`
+  - [Day 02](feb/02-02-2021.md) | :construction_worker: **workday**
+    - **ar** `Things You Can Do With CSS Today`
