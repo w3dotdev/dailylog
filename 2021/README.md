@@ -104,3 +104,7 @@
     - **ar** `No-Jank CSS Stripes`
   - [Day 02](feb/02-02-2021.md) | :construction_worker: **workday**
     - **ar** `Things You Can Do With CSS Today`
+  - [Day 03](feb/02-03-2021.md) | :construction_worker: **workday**
+    - **ar** `Some Performance Blog Posts I’ve Bookmarked and Read Lately`
+    - **ar** `Going From Solid to Knockout Text on Scroll`
+    - **ar** `Dynamically Switching From One HTML Element to Another in Vue`
