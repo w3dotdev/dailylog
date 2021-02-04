@@ -1,0 +1,52 @@
+# February
+
+- [Day 01](02-01-2021.md) | :construction_worker: **workday**
+  - **ar** `“Cancelable” Smooth Scrolling`
+  - **ar** `Open Web Docs`
+  - **ar** `No-Jank CSS Stripes`
+- [Day 02](02-02-2021.md) | :construction_worker: **workday**
+  - **ar** `Things You Can Do With CSS Today`
+- [Day 03](02-03-2021.md) | :construction_worker: **workday**
+  - **ar** `Some Performance Blog Posts I’ve Bookmarked and Read Lately`
+  - **ar** `Going From Solid to Knockout Text on Scroll`
+  - **ar** `Dynamically Switching From One HTML Element to Another in Vue`
+- [Day 04](02-04-2021.md) | :construction_worker: **workday**
+  - **ar** `Lazy Load Routes in Vue with webpack Dynamic Comments`
+  - **ar** `Some Typography Blog Posts I’ve Bookmarked and Read Lately`
+- [Day 05](02-05-2021.md) | :construction_worker: **workday**
+  - **ar** `Some React Blog Posts I’ve Bookmarked and Read Lately`
+- [Day 06](02-06-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `I Almost Got Fired for Choosing React in Our Enterprise App`
+  - **ar** `20 Essential Parts Of Any Large Scale React App`
+- [Day 07](02-07-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `How to useRef to Fix React Performance Issues`
+  - **ar** `Double Your React Coding Speed With This Simple Trick`
+- [Day 08](02-08-2021.md) | :construction_worker: **workday**
+  - **ar** `SVG within CSS`
+  - **ar** `(Jay Freestone’s) Front-end predictions for 2021`
+  - **ar** `Animating a CSS Gradient Border`
+  - **ar** `Exploring the Complexities of Width and Height in CSS`
+- [Day 09](02-09-2021.md) | :construction_worker: **workday**
+  - **ar** `A table with both a sticky header and a sticky first column`
+  - **ar** `Recreating Game Elements for the Web: The Among Us Card Swipe`
+  - **ar** `Nested Media Queries`
+- [Day 10](02-10-2021.md) | :construction_worker: **workday**
+  - **ar** `HTML Video Sources Should Be Responsive`
+  - **ar** `:focus-visible Support Comes to Firefox`
+  - **ar** `How to Favicon in 2021`
+  - **ar** `The Differences in Web Hosting (Go with the Happy Path)`
+- [Day 11](02-11-2021.md) | :construction_worker: **workday**
+  - **ar** `Is CSS float deprecated?`
+  - **ar** `iframe feedback`
+- [Day 12](02-12-2021.md) | :construction_worker: **workday**
+  - **ar** `Responsible Web Applications`
+  - **ar** `Don’t put pointer-events: none on form labels`
+  - **ar** `Weekly Platform News: WebKit autofill, Using Cursor Pointer, Delaying Autoplay Videos`
+  - **ar** `Reconciling Editor Experience and Developer Experience in the CMS`
+  - **ar** `The Devil’s Albatross`
+- [Day 13](02-13-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `What Saul Bass Can Teach Us About Web Design`
+  - **ar** `Managing CSS Z-Index In Large Projects`
+- [Day 14](02-14-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Building A Web App With React, Redux And Sanity.io`
+  - **ar** `Designing Better Tooltips For Mobile User Interfaces`
