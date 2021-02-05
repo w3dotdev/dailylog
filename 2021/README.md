@@ -108,3 +108,8 @@
     - **ar** `Some Performance Blog Posts I’ve Bookmarked and Read Lately`
     - **ar** `Going From Solid to Knockout Text on Scroll`
     - **ar** `Dynamically Switching From One HTML Element to Another in Vue`
+  - [Day 04](feb/02-04-2021.md) | :construction_worker: **workday**
+    - **ar** `Lazy Load Routes in Vue with webpack Dynamic Comments`
+    - **ar** `Some Typography Blog Posts I’ve Bookmarked and Read Lately`
+  - [Day 05](feb/02-05-2021.md) | :construction_worker: **workday**
+    - **ar** `Some React Blog Posts I’ve Bookmarked and Read Lately`
