@@ -116,3 +116,6 @@
   - [Day 06](feb/02-06-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `I Almost Got Fired for Choosing React in Our Enterprise App`
     - **ar** `20 Essential Parts Of Any Large Scale React App`
+  - [Day 07](feb/02-07-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `How to useRef to Fix React Performance Issues`
+    - **ar** `Double Your React Coding Speed With This Simple Trick`
