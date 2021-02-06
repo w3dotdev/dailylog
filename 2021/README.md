@@ -113,3 +113,6 @@
     - **ar** `Some Typography Blog Posts I’ve Bookmarked and Read Lately`
   - [Day 05](feb/02-05-2021.md) | :construction_worker: **workday**
     - **ar** `Some React Blog Posts I’ve Bookmarked and Read Lately`
+  - [Day 06](feb/02-06-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `I Almost Got Fired for Choosing React in Our Enterprise App`
+    - **ar** `20 Essential Parts Of Any Large Scale React App`
