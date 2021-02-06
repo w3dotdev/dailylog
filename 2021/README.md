@@ -119,3 +119,8 @@
   - [Day 07](feb/02-07-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `How to useRef to Fix React Performance Issues`
     - **ar** `Double Your React Coding Speed With This Simple Trick`
+  - [Day 08](feb/02-08-2021.md) | :construction_worker: **workday**
+    - **ar** `SVG within CSS`
+    - **ar** `(Jay Freestone’s) Front-end predictions for 2021`
+    - **ar** `Animating a CSS Gradient Border`
+    - **ar** `Exploring the Complexities of Width and Height in CSS`
