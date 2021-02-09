@@ -124,3 +124,7 @@
     - **ar** `(Jay Freestone’s) Front-end predictions for 2021`
     - **ar** `Animating a CSS Gradient Border`
     - **ar** `Exploring the Complexities of Width and Height in CSS`
+  - [Day 09](feb/02-09-2021.md) | :construction_worker: **workday**
+    - **ar** `A table with both a sticky header and a sticky first column`
+    - **ar** `Recreating Game Elements for the Web: The Among Us Card Swipe`
+    - **ar** `Nested Media Queries`
