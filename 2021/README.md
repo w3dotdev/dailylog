@@ -128,3 +128,8 @@
     - **ar** `A table with both a sticky header and a sticky first column`
     - **ar** `Recreating Game Elements for the Web: The Among Us Card Swipe`
     - **ar** `Nested Media Queries`
+  - [Day 10](feb/02-10-2021.md) | :construction_worker: **workday**
+    - **ar** `HTML Video Sources Should Be Responsive`
+    - **ar** `:focus-visible Support Comes to Firefox`
+    - **ar** `How to Favicon in 2021`
+    - **ar** `The Differences in Web Hosting (Go with the Happy Path)`
