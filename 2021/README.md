@@ -133,3 +133,6 @@
     - **ar** `:focus-visible Support Comes to Firefox`
     - **ar** `How to Favicon in 2021`
     - **ar** `The Differences in Web Hosting (Go with the Happy Path)`
+  - [Day 11](feb/02-11-2021.md) | :construction_worker: **workday**
+    - **ar** `Is CSS float deprecated?`
+    - **ar** `iframe feedback`
