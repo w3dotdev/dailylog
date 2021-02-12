@@ -136,3 +136,9 @@
   - [Day 11](feb/02-11-2021.md) | :construction_worker: **workday**
     - **ar** `Is CSS float deprecated?`
     - **ar** `iframe feedback`
+  - [Day 12](feb/02-12-2021.md) | :construction_worker: **workday**
+    - **ar** `Responsible Web Applications`
+    - **ar** `Don’t put pointer-events: none on form labels`
+    - **ar** `Weekly Platform News: WebKit autofill, Using Cursor Pointer, Delaying Autoplay Videos`
+    - **ar** `Reconciling Editor Experience and Developer Experience in the CMS`
+    - **ar** `The Devil’s Albatross`
