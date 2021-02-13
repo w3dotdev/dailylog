@@ -142,3 +142,6 @@
     - **ar** `Weekly Platform News: WebKit autofill, Using Cursor Pointer, Delaying Autoplay Videos`
     - **ar** `Reconciling Editor Experience and Developer Experience in the CMS`
     - **ar** `The Devil’s Albatross`
+  - [Day 13](feb/02-13-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `What Saul Bass Can Teach Us About Web Design`
+    - **ar** `Managing CSS Z-Index In Large Projects`
