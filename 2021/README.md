@@ -145,3 +145,6 @@
   - [Day 13](feb/02-13-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `What Saul Bass Can Teach Us About Web Design`
     - **ar** `Managing CSS Z-Index In Large Projects`
+  - [Day 14](feb/02-14-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Building A Web App With React, Redux And Sanity.io`
+    - **ar** `Designing Better Tooltips For Mobile User Interfaces`
