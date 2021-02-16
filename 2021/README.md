@@ -148,3 +148,6 @@
   - [Day 14](feb/02-14-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Building A Web App With React, Redux And Sanity.io`
     - **ar** `Designing Better Tooltips For Mobile User Interfaces`
+  - [Day 15](feb/02-15-2021.md) | :construction_worker: **workday**
+    - **ar** `Optimizing Video For Size And Quality`
+    - **ar** `Things To Expect From A Smashing Workshop: Form Design Masterclass`
