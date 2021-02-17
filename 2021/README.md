@@ -151,3 +151,5 @@
   - [Day 15](feb/02-15-2021.md) | :construction_worker: **workday**
     - **ar** `Optimizing Video For Size And Quality`
     - **ar** `Things To Expect From A Smashing Workshop: Form Design Masterclass`
+  - [Day 16](feb/02-16-2021.md) | :construction_worker: **workday**
+    - **ar** `Useful DevTools Tips And Shortcuts (Chrome, Firefox, Edge)`
