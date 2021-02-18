@@ -55,3 +55,6 @@
   - **ar** `Things To Expect From A Smashing Workshop: Form Design Masterclass`
 - [Day 16](02-16-2021.md) | :construction_worker: **workday**
   - **ar** `Useful DevTools Tips And Shortcuts (Chrome, Firefox, Edge)`
+- [Day 17](02-17-2021.md) | :construction_worker: **workday**
+  - **ar** `Things You Can Do With CSS Today`
+  - **ar** `CSS Switch-Case Conditions`
