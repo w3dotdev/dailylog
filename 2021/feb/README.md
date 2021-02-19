@@ -58,3 +58,6 @@
 - [Day 17](02-17-2021.md) | :construction_worker: **workday**
   - **ar** `Things You Can Do With CSS Today`
   - **ar** `CSS Switch-Case Conditions`
+- [Day 18](02-18-2021.md) | :construction_worker: **workday**
+  - **ar** `Mistakes I’ve Made as an Engineering Manager`
+  - **ar** `Recipe websites, data modeling, and user experience`
