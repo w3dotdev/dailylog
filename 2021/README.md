@@ -159,3 +159,6 @@
   - [Day 18](feb/02-18-2021.md) | :construction_worker: **workday**
     - **ar** `Mistakes I’ve Made as an Engineering Manager`
     - **ar** `Recipe websites, data modeling, and user experience`
+  - [Day 19](feb/02-19-2021.md) | :construction_worker: **workday**
+    - **ar** `Three Ways to Blob with CSS and SVG`
+    - **ar** `Use CSS Variables instead of React Context`
