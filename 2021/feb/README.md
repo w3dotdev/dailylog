@@ -64,3 +64,6 @@
 - [Day 19](02-19-2021.md) | :construction_worker: **workday**
   - **ar** `Three Ways to Blob with CSS and SVG`
   - **ar** `Use CSS Variables instead of React Context`
+- [Day 20](02-20-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Building Your Own Personal Learning Curriculum`
+  - **ar** `Context And Variables In The Hugo Static Site Generator`
