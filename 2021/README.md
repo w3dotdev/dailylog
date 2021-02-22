@@ -165,3 +165,5 @@
   - [Day 20](feb/02-20-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Building Your Own Personal Learning Curriculum`
     - **ar** `Context And Variables In The Hugo Static Site Generator`
+  - [Day 21](feb/02-21-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Barebones CSS for Fluid Images`
