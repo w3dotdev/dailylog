@@ -167,3 +167,6 @@
     - **ar** `Context And Variables In The Hugo Static Site Generator`
   - [Day 21](feb/02-21-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Barebones CSS for Fluid Images`
+  - [Day 22](feb/02-22-2021.md) | :construction_worker: **workday**
+    - **ar** `State Of GDPR In 2021: Key Updates And What They Mean`
+    - **ar** `Getting Deep into Shadows`
