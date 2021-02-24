@@ -72,3 +72,6 @@
 - [Day 22](02-22-2021.md) | :construction_worker: **workday**
   - **ar** `State Of GDPR In 2021: Key Updates And What They Mean`
   - **ar** `Getting Deep into Shadows`
+- [Day 23](02-23-2021.md) | :construction_worker: **workday**
+  - **ar** `Create Responsive Image Effects With CSS Gradients And aspect-ratio`
+  - **ar** `Hiding Content Responsibly`
