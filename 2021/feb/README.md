@@ -75,3 +75,6 @@
 - [Day 23](02-23-2021.md) | :construction_worker: **workday**
   - **ar** `Create Responsive Image Effects With CSS Gradients And aspect-ratio`
   - **ar** `Hiding Content Responsibly`
+- [Day 24](02-24-2021.md) | :construction_worker: **workday**
+  - **ar** `Material Design Text Fields Are Badly Designed`
+  - **ar** `Teaching Web Dev for Free is Good Business`
