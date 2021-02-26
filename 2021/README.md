@@ -176,3 +176,6 @@
   - [Day 24](feb/02-24-2021.md) | :construction_worker: **workday**
     - **ar** `Material Design Text Fields Are Badly Designed`
     - **ar** `Teaching Web Dev for Free is Good Business`
+  - [Day 25](feb/02-25-2021.md) | :construction_worker: **workday**
+    - **ar** `Building A Discord Bot Using Discord.js`
+    - **ar** `An Interactive Guide to CSS Transitions`
