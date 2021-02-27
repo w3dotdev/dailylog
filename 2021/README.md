@@ -179,3 +179,6 @@
   - [Day 25](feb/02-25-2021.md) | :construction_worker: **workday**
     - **ar** `Building A Discord Bot Using Discord.js`
     - **ar** `An Interactive Guide to CSS Transitions`
+  - [Day 26](feb/02-26-2021.md) | :construction_worker: **workday**
+    - **ar** `Building User Trust In UX Design`
+    - **ar** `The Things I Add to Tailwind CSS Right Out of the Box`
