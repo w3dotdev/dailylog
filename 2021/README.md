@@ -182,3 +182,6 @@
   - [Day 26](feb/02-26-2021.md) | :construction_worker: **workday**
     - **ar** `Building User Trust In UX Design`
     - **ar** `The Things I Add to Tailwind CSS Right Out of the Box`
+  - [Day 27](feb/02-27-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `Ensuring the correct vertical position of large text`
+    - **ar** `How We Improved the Accessibility of Our Single Page App Menu`
