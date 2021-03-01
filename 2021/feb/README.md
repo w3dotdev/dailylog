@@ -87,3 +87,6 @@
 - [Day 27](02-27-2021.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `Ensuring the correct vertical position of large text`
   - **ar** `How We Improved the Accessibility of Our Single Page App Menu`
+- [Day 28](02-28-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `Fresh Inspiration For March And A Smashing Winner (2021 Wallpapers Edition)`
+  - **ar** `CSS Border Font`
