@@ -188,3 +188,8 @@
   - [Day 28](feb/02-28-2021.md) | :sunrise_over_mountains: **weekend day**
     - **ar** `Fresh Inspiration For March And A Smashing Winner (2021 Wallpapers Edition)`
     - **ar** `CSS Border Font`
+- [March](mar/README.md)
+  - [Day 01](mar/03-01-2021.md) | :construction_worker: **workday**
+    - **ar** `State Of GDPR In 2021: Cookie Consent For Designers And Developers`
+    - **ar** `The “Gray Dead Zone” of Gradients`
+    - **ar** `How to Map Mouse Position in CSS`
