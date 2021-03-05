@@ -201,3 +201,7 @@
     - **ar** `Creating An Outside Focus And Click Handler React Component`
     - **ar** `A Bare-Bones Approach to Versatile and Reusable Skeleton Loaders`
     - **ar** `React Without Build Tools`
+  - [Day 04](mar/03-04-2021.md) | :construction_worker: **workday**
+    - **ar** `Through the pipeline: An exploration of front-end bundlers`
+    - **ar** `Weekly Platform News: Focus Rings, Donut Scope, More em Units, and Global Privacy Control`
+    - **ar** `Exploring @property and its Animating Powers`
