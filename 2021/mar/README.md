@@ -26,3 +26,6 @@
   - **ar** `:past`
   - **ar** `:current`
   - **ar** `To the brain, reading computer code is not the same as reading language`
+- [Day 07](03-07-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `First Impression of Frontend JS as a Backend Developer`
+  - **ar** `Five React hooks useful in any project.`
