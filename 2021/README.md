@@ -208,3 +208,10 @@
   - [Day 05](mar/03-05-2021.md) | :construction_worker: **workday**
     - **ar** `UI Design Testing Tools I Use All The Time`
     - **ar** `A Super Flexible CSS Carousel, Enhanced With JavaScript Navigation`
+  - [Day 06](mar/03-06-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `A DRY Approach to Color Themes in CSS`
+    - **ar** `SmolCSS`
+    - **ar** `:future`
+    - **ar** `:past`
+    - **ar** `:current`
+    - **ar** `To the brain, reading computer code is not the same as reading language`
