@@ -29,3 +29,9 @@
 - [Day 07](03-07-2021.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `First Impression of Frontend JS as a Backend Developer`
   - **ar** `Five React hooks useful in any project.`
+- [Day 08](03-08-2021.md) | :construction_worker: **workday**
+  - **ar** `Web Components Are Easier Than You Think`
+  - **ar** `Form Validation Styling on Input Focus`
+- [Day 09](03-09-2021.md) | :construction_worker: **workday**
+  - **ar** `Firebase Crash Course`
+  - **ar** `Modeling A GraphQL API For Your Blog Using Webiny Serverless CMS`
