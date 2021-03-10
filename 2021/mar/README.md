@@ -35,3 +35,6 @@
 - [Day 09](03-09-2021.md) | :construction_worker: **workday**
   - **ar** `Firebase Crash Course`
   - **ar** `Modeling A GraphQL API For Your Blog Using Webiny Serverless CMS`
+- [Day 10](03-10-2021.md) | :construction_worker: **workday**
+  - **ar** `Too Many SVGs Clogging Up Your Markup? Try 'use'.`
+  - **ar** `Obscure Mobile Design Techniques That Boost UX`
