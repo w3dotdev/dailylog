@@ -227,3 +227,6 @@
   - [Day 10](mar/03-10-2021.md) | :construction_worker: **workday**
     - **ar** `Too Many SVGs Clogging Up Your Markup? Try 'use'.`
     - **ar** `Obscure Mobile Design Techniques That Boost UX`
+  - [Day 11](mar/03-11-2021.md) | :construction_worker: **workday**
+    - **ar** `Table of Contents with IntersectionObserver`
+    - **ar** `CSS Auditing Tools`
