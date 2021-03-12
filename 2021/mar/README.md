@@ -41,3 +41,6 @@
 - [Day 11](03-11-2021.md) | :construction_worker: **workday**
   - **ar** `Table of Contents with IntersectionObserver`
   - **ar** `CSS Auditing Tools`
+- [Day 12](03-12-2021.md) | :construction_worker: **workday**
+  - **ar** `Platform News: Defaulting to Logical CSS, Fugu APIs, Custom Media Queries, and WordPress vs. Italics`
+  - **ar** `The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer`
