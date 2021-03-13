@@ -233,3 +233,6 @@
   - [Day 12](mar/03-12-2021.md) | :construction_worker: **workday**
     - **ar** `Platform News: Defaulting to Logical CSS, Fugu APIs, Custom Media Queries, and WordPress vs. Italics`
     - **ar** `The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer`
+  - [Day 13](mar/03-13-2021.md) | :sunrise_over_mountains: **weekend day**
+    - **ar** `React Native Performance: Do and Don’t`
+    - **ar** `10 lifesaving HTML/CSS tricks for designers`
