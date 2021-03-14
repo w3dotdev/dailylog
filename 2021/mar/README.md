@@ -47,3 +47,6 @@
 - [Day 13](03-13-2021.md) | :sunrise_over_mountains: **weekend day**
   - **ar** `React Native Performance: Do and Don’t`
   - **ar** `10 lifesaving HTML/CSS tricks for designers`
+- [Day 14](03-14-2021.md) | :sunrise_over_mountains: **weekend day**
+  - **ar** `What’s New in Flutter 2`
+  - **ar** `Stop using margin, use Spacer component instead!`
