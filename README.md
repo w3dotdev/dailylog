@@ -31,7 +31,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 |**2022**|||||||||||||
 |-|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|
 |**[2023](2023/)**|||||||||||||
-|-|Jan|Feb|Mar|Apr|May|[Jun](2023/jun#readme)|Jul|Aug|Sep|Oct|Nov|Dec|
+|-|Jan|Feb|Mar|Apr|May|Jun|[Jul](2023/jul#readme)|Aug|Sep|Oct|Nov|Dec|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 
 
