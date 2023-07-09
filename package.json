@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/w3dotdev/dailylog#readme",
   "devDependencies": {
-    "release-it": "14.2.2"
+    "release-it": "16.1.0"
   }
 }
