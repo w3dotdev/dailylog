@@ -67,7 +67,7 @@ The idea is to just record the things I guess relevant. So, I will not put you c
 - `sl` - `solution` - **Solution** - Problem solving
 - `st` - `study` - **Study** - Studies on certain subjects
 - `wt` - `watch` - **Watch** - Videos watched
-- `wn` - `wine` - **Wine** - Wine I drank and rating
+- `wn` - `wine` - **Wine** - Wine I drank and rating for my current palate
 
 ## Subcategories
 
