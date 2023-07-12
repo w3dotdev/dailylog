@@ -13,3 +13,4 @@
     - **article**  `Clientes não ligam pra stack`
     - **article**  `3 modelos de gestão e como aplicar na sua empresa`
   - [Day 10](jul/07-10-2023.md) | :construction_worker: **workday**
+  - [Day 11](jul/07-11-2023.md) | :construction_worker: **workday**
