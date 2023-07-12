@@ -9,3 +9,4 @@
   - **article**  `Você está desperdiçando tempo depurando seu código`
   - **article**  `Clientes não ligam pra stack`
   - **article**  `3 modelos de gestão e como aplicar na sua empresa`
+- [Day 10](07-10-2023.md) | :construction_worker: **workday**
