@@ -5,7 +5,7 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/w3dotdev/dailylog.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/w3dotdev/dailylog.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/w3dotdev/dailylog.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/w3dotdev/dailylog.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/w3dotdev/dailylog.svg) sdsdsdsd
 ![GitHub All Releases](https://img.shields.io/github/downloads/w3dotdev/dailylog/total.svg)
 
 ## Introduction
